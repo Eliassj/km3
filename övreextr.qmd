@@ -54,4 +54,6 @@ Vid radialispares efter sluten fraktur kan nervfunktion väntas återkomma inom 
 
 Läker i genomsnitt på 12v.      
 Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.         
-<10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*
+<10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*.
+
+## Axel
