@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KM3",
+    "section": "",
+    "text": "Preface\n– like ipython, R, bash\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "allmänfraktur.html#klassifikation",
+    "href": "allmänfraktur.html#klassifikation",
+    "title": "2  Allmän frakturlära",
+    "section": "2.1 Klassifikation",
+    "text": "2.1 Klassifikation\nKlassifikationer inkluderar:\n\n\nHos vuxna anses allt som inte är diafysärt som metafysärt. Begreppet epifys används därför endast hos barn med öppna fyser!\nEnd segment = Område lika långt som den bredaste delen av benet\nMid segment = resten\n\nGrad av våld\n\nLågenergiskada — Ofta i samband med osteoporos\nHögenergiskada\n\nAnatomisk lokalisation\n\nAxial vs appendikulär fraktur\nSpecifik lokal — Har betydelse för läkning och prognos\n\nDiafysär\nMetafysär — Läker snabbare än diafysär\nFysär — Tillväxtzon hos barn, kan ge tillväxtstörning\nEpifysär — Kan ge tillväxtstörning om frakturen går in i fysen\nBegreppet används inte om fysen slutits.\nIntraartikulär — Engagerar led\nExtraartikulär — Engagerar ej led\nEpikondylär\nKondylär\n\nSubkapitulär\nSuprakondylär\nTranskondylär\nLigamentavulsion — Bendel med ligamentfäste slits av\nApofysavulsion — Ger ej tillväxtfel.\nHöftfrakturer\n\nCervikal — Genom collum femoris.\nPertokantär — Genom trochanter minor/major.\nSubtrokantär — Från trochanter minor tom 5cm distalt om denna.\n\n\n\nUtseende\n\nLongitudinell\nTransversell\nSpiralfraktur\nKompressionsfraktur\nKomminut (5=kompression av tillväxtzonen)\nPatologisk — t.ex tumör, hereditär sjukdom\nStressfraktur — uppstår vid återkommande belastning under tid, kan progrediera till “riktig” fraktur\n\nMjukdelsskada\n\nÖppna vs slutna\n\n\n\n2.1.1 Klassifikation hos barn\nSkiljs från vuxna då barns tjocka periostie och mjuka skellett ofta ger annan bild.\n\nBöjningsfraktur\nInkomplett Kompressionsfraktur (torus-fraktur)\nInkomplett gångjärnsfraktur (greenstick-fraktur)\nKomplett fraktur — Vanligare hos äldre barn\nUtifrån lokal jmf tillväxtzon\n\nSalter-harris 1-5"
+  },
+  {
+    "objectID": "allmänfraktur.html#frakturläkning",
+    "href": "allmänfraktur.html#frakturläkning",
+    "title": "2  Allmän frakturlära",
+    "section": "2.2 Frakturläkning",
+    "text": "2.2 Frakturläkning\nDet finns principiellt 2 typer av läkningar:\n1. Direkt läkning utan synlig kallus 2. Indirekt läkning med kallus\nLäkningstyp beror på huruvida (icke-splittrade) frakturer blir stabilt anatomiskt reponerade.\n\n2.2.1 Intern fixation\nÅstadkoms ofta med skenor av rostfritt stål1.\nMärgspikar består oftast av titan som är mer elastiskt och bildar ett bakteriedödande oxidlager.\nPå ställen med låg belastning kan resorberbara implantat av polyestrar användas."
+  },
+  {
+    "objectID": "allmänfraktur.html#footnotes",
+    "href": "allmänfraktur.html#footnotes",
+    "title": "2  Allmän frakturlära",
+    "section": "",
+    "text": "Legering av järn, krom, nickel eller kobolt-kromolybden-legering↩︎"
+  },
+  {
+    "objectID": "övreextr.html#överarmen",
+    "href": "övreextr.html#överarmen",
+    "title": "3  Övre extremiteten",
+    "section": "3.1 Överarmen",
+    "text": "3.1 Överarmen\n\n3.1.1 Diafysär humerusfraktur\nUppstår oftast till följd av direkt våld men ses även vid t.ex armbrytning och polisgrepp.\nEventuell felställning beror på frakturens lokal. Distala och proximala frakturer ger ofta mer felställning pga muskelfästen som drar i fragment.\n\n\n\n\n\n\nKlassifikation\n\n\n\nGörs enl. AO/OTA och delas in i ABC samt grad 1-3:\nA — 2-fragmentsfrakturer\nB — 3-fragmentsfrakturer\nC — Komminutfrakturer\nSiffra (1-3) beror på svårighetsgrad.\n\n\nN. radialispåverkan är relativt vanligt då nerven går nära diafysen. Även tryck från hematom och gips kan påverka den! De flesta radialispareser är dock övergående.\n\n3.1.1.1 Kliniska drag/Diagnos\nFraktur bör misstänkas hos en patient som klagar på smärta/nedsatt rörelseförmåga i överarmen efter trauma.\nVid undersökning ses ofta direkt/indirekt smärta, felställning och frakturkrepetationer.\nDistalstatus ska alltid ingå i undersökningen!\nDiagnosen bekräftas med röntgen av hela humerus.\n\n\n3.1.1.2 Behandling\nSom regel kan diafysära humerusfrakturer behandlas konservativt.\nGipsskena samt ortos och slynga kombinerat med armens egen vikt kan ofta hålla den rät och hindra felställning samt förkortning.\nEfter ca 4 veckor med gips kan slutbehandling ske med ortos som omsluter humerus.\nIndikationer för kirurgi är:\n\nVinkelfelställning &gt; 20 grader\nFörkortning &gt; 3cm\nÖppen fraktur\nKärlskador\nMultipla frakturer (Där kirurgisk stabilisering underlättar mobilisering)\nPatologisk fraktur\nNon-union av äldre fraktur\n\nOperativ behandling är oftast märgspik eller plattfixation.\nVid radialispares efter sluten fraktur kan nervfunktion väntas återkomma inom 3 månader. Explorativ kirurgi utförs endast efter denna tidsgräns samt neurofysiologisk undersökning (Görs alltid öppen fraktur som opereras).\n\n\n3.1.1.3 Prognos\nLäker i genomsnitt på 12v.\nLånga och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.\n&lt;10% kräver kirugisk behandling. Är frakturen rörlig efter 4 månader klassas den som non-union"
+  }
+]
