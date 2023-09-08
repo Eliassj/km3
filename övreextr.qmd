@@ -1,0 +1,57 @@
+# Övre extremiteten
+
+## Överarmen
+
+### Diafysär humerusfraktur
+
+Uppstår **oftast** till följd av direkt våld men ses även vid t.ex armbrytning och polisgrepp.      
+Eventuell felställning beror på frakturens lokal. Distala och proximala frakturer ger ofta mer felställning pga muskelfästen som drar i fragment.
+
+::: {.callout-tip}
+
+## Klassifikation
+
+Görs enl. AO/OTA och delas in i ABC samt grad 1-3:       
+**A** --- 2-fragmentsfrakturer      
+**B** --- 3-fragmentsfrakturer      
+**C** --- Komminutfrakturer
+
+Siffra (1-3) beror på svårighetsgrad.
+:::
+
+*N. radialis*påverkan är relativt vanligt då nerven går nära diafysen. Även tryck från hematom och gips kan påverka den! De flesta radialispareser är dock övergående.
+
+#### Kliniska drag/Diagnos
+
+Fraktur bör misstänkas hos en patient som klagar på smärta/nedsatt rörelseförmåga i överarmen efter trauma.
+
+Vid undersökning ses ofta direkt/indirekt smärta, felställning och frakturkrepetationer.        
+**Distalstatus** ska alltid ingå i undersökningen!
+
+Diagnosen bekräftas med röntgen av hela humerus.
+
+#### Behandling
+
+Som regel kan diafysära humerusfrakturer behandlas konservativt.        
+Gipsskena samt ortos och slynga kombinerat med armens egen vikt kan ofta hålla den rät och hindra felställning samt förkortning.       
+Efter ca 4 veckor med gips kan slutbehandling ske med ortos som omsluter humerus.
+
+**Indikationer för kirurgi är:**
+
+- Vinkelfelställning > 20 grader
+- Förkortning > 3cm
+- Öppen fraktur 
+- Kärlskador
+- Multipla frakturer (Där kirurgisk stabilisering underlättar mobilisering)
+- Patologisk fraktur 
+- *Non-union* av äldre fraktur
+
+Operativ behandling är oftast märgspik eller plattfixation.
+
+Vid radialispares efter sluten fraktur kan nervfunktion väntas återkomma inom 3 månader. Explorativ kirurgi utförs endast efter denna tidsgräns samt neurofysiologisk undersökning (Görs *alltid* öppen fraktur som opereras).
+
+#### Prognos
+
+Läker i genomsnitt på 12v.      
+Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.         
+<10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*

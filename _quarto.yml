@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "KM3"
+  author: "Elias Sjölin"
+  date: "2023-09-07"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Ortopedi"
+      chapters:
+        - allmänfraktur.qmd
+        - övreextr.qmd
+  search:
+    location: sidebar
+    type: textbox
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    comments:
+      hypothesis: true
+  pdf:
+    documentclass: scrreprt
+
+
+
