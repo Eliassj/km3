@@ -14,14 +14,14 @@ Eventuell felställning beror på frakturens lokal. Distala och proximala fraktu
 Görs enl. AO/OTA och delas in i ABC samt grad 1-3:       
 **A** --- 2-fragmentsfrakturer      
 **B** --- 3-fragmentsfrakturer      
-**C** --- Komminutfrakturer
+**C** --- Komminutfrakturer         
 
 Siffra (1-3) beror på svårighetsgrad.
 :::
 
 *N. radialis*påverkan är relativt vanligt då nerven går nära diafysen. Även tryck från hematom och gips kan påverka den! De flesta radialispareser är dock övergående.
 
-#### Kliniska drag/Diagnos
+##### Kliniska drag/Diagnos
 
 Fraktur bör misstänkas hos en patient som klagar på smärta/nedsatt rörelseförmåga i överarmen efter trauma.
 
@@ -30,7 +30,7 @@ Vid undersökning ses ofta direkt/indirekt smärta, felställning och frakturkre
 
 Diagnosen bekräftas med röntgen av hela humerus.
 
-#### Behandling
+##### Behandling
 
 Som regel kan diafysära humerusfrakturer behandlas konservativt.        
 Gipsskena samt ortos och slynga kombinerat med armens egen vikt kan ofta hålla den rät och hindra felställning samt förkortning.       
@@ -50,12 +50,48 @@ Operativ behandling är oftast märgspik eller plattfixation.
 
 Vid radialispares efter sluten fraktur kan nervfunktion väntas återkomma inom 3 månader. Explorativ kirurgi utförs endast efter denna tidsgräns samt neurofysiologisk undersökning (Görs *alltid* öppen fraktur som opereras).
 
-#### Prognos
+##### Prognos
 
 Läker i genomsnitt på 12v.      
 Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.         
 <10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*.
 
-## Axel
+## Underarmen
 
-Här kommer info om axlar
+### Diafysär underarmsfraktur
+
+::: {.callout-tip}
+## Klassifikation
+
+Enligt AO/OTA:          
+**A**: Enkla tvågragmentsfrakturer      
+**B**: Frakturer med fjärilsformat/triangulärt intermediärfragment          
+**C**: Komplexa, komminuta frakturer
+:::
+
+##### KLiniska drag/Diagnos
+
+Patienter söker med något/några av: smärta, svullnad, rotationssmärta, felställning.        
+Vid undesökning finns ofta tydliga frakturtecken. **Distalstatus** ska alltid ingå!
+
+##### Behandling
+
+Slutna frakturer utan avvikande distalstatus behandlas med gipsskena och planerad kirurgi.
+
+Målet med behandling är exakt återställande gällande längd, rotation och böjning hos radius och ulna.       
+En minimalt dislocerade frakturer kan slutbehandlas med gips men opereras ofta
+för att snabba på mobiliseringen.       
+Även isolerad ulnafraktur fixeras i allmänhet med platta.       
+Rörelseträning *kan* i allmänhet påbörjas direkt men gipsskena används ofta i 2
+veckor för smärtlindring.       
+Tyngre belastning undviks tills röntgenologisk läkning nåtts.
+
+##### Prognos
+
+**Läkningstiden** är ca 3-4 månader i normalfallet. Armkraften kan räknas vara
+nedsatt långt efter skadan. Förutsatt att läkning sker utan felställning
+normaliseras funktionen i allmänhet med tid.         
+Vid lägre än 50 graders supination/pronation upplevs ofta begränsningar i
+vardagen.
+
+##
