@@ -36,10 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -48,16 +50,16 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-no-results-text": "Inga resultat",
+    "search-matching-documents-text": "matchande dokument",
+    "search-copy-link-title": "Kopiera länk till sökning",
+    "search-hide-matches-text": "Göm andra matchningar",
+    "search-more-match-text": "fler matchningar i dokumentet",
+    "search-more-matches-text": "fler matchningar i dokumentet",
+    "search-clear-button-title": "Rensa",
+    "search-detached-cancel-button-title": "Avbryt",
+    "search-submit-button-title": "Kör",
+    "search-label": "Sök"
   }
 }</script>
 <script async="" src="https://hypothes.is/embed.js"></script>
@@ -90,11 +92,14 @@ ul.task-list li input[type="checkbox"] {
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">KM3</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Växla mörkt läge"><i class="bi"></i></a>
+</div>
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Sök"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
@@ -141,18 +146,23 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Innehåll</h2>
    
   <ul>
   <li><a href="#överarmen" id="toc-överarmen" class="nav-link active" data-scroll-target="#överarmen"><span class="header-section-number">3.1</span> Överarmen</a>
   <ul class="collapse">
   <li><a href="#diafysär-humerusfraktur" id="toc-diafysär-humerusfraktur" class="nav-link" data-scroll-target="#diafysär-humerusfraktur"><span class="header-section-number">3.1.1</span> Diafysär humerusfraktur</a></li>
   </ul></li>
-  <li><a href="#underarmen" id="toc-underarmen" class="nav-link" data-scroll-target="#underarmen"><span class="header-section-number">3.2</span> Underarmen</a>
+  <li><a href="#armbågen" id="toc-armbågen" class="nav-link" data-scroll-target="#armbågen"><span class="header-section-number">3.2</span> Armbågen</a>
   <ul class="collapse">
-  <li><a href="#diafysär-underarmsfraktur" id="toc-diafysär-underarmsfraktur" class="nav-link" data-scroll-target="#diafysär-underarmsfraktur"><span class="header-section-number">3.2.1</span> Diafysär underarmsfraktur</a></li>
+  <li><a href="#sec-olekranonfraktur" id="toc-sec-olekranonfraktur" class="nav-link" data-scroll-target="#sec-olekranonfraktur"><span class="header-section-number">3.2.1</span> Olekranonfraktur</a></li>
+  <li><a href="#sec-koronoidfraktur" id="toc-sec-koronoidfraktur" class="nav-link" data-scroll-target="#sec-koronoidfraktur"><span class="header-section-number">3.2.2</span> Koronoidfraktur</a></li>
   </ul></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><span class="header-section-number">3.3</span> </a></li>
+  <li><a href="#underarmen" id="toc-underarmen" class="nav-link" data-scroll-target="#underarmen"><span class="header-section-number">3.3</span> Underarmen</a>
+  <ul class="collapse">
+  <li><a href="#sec-diafysärunderarmsfraktur" id="toc-sec-diafysärunderarmsfraktur" class="nav-link" data-scroll-target="#sec-diafysärunderarmsfraktur"><span class="header-section-number">3.3.1</span> Diafysär underarmsfraktur</a></li>
+  <li><a href="#monteggia-fraktur" id="toc-monteggia-fraktur" class="nav-link" data-scroll-target="#monteggia-fraktur"><span class="header-section-number">3.3.2</span> Monteggia-fraktur</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -200,15 +210,15 @@ Klassifikation
 </div>
 </div>
 <p><em>N. radialis</em>påverkan är relativt vanligt då nerven går nära diafysen. Även tryck från hematom och gips kan påverka den! De flesta radialispareser är dock övergående.</p>
-<section id="kliniska-dragdiagnos" class="level5" data-number="3.1.1.0.1">
-<h5 data-number="3.1.1.0.1" class="anchored" data-anchor-id="kliniska-dragdiagnos"><span class="header-section-number">3.1.1.0.1</span> Kliniska drag/Diagnos</h5>
+<section id="kliniska-dragdiagnos" class="level5">
+<h5 class="anchored" data-anchor-id="kliniska-dragdiagnos">Kliniska drag/Diagnos</h5>
 <p>Fraktur bör misstänkas hos en patient som klagar på smärta/nedsatt rörelseförmåga i överarmen efter trauma.</p>
 <p>Vid undersökning ses ofta direkt/indirekt smärta, felställning och frakturkrepetationer.<br>
 <strong>Distalstatus</strong> ska alltid ingå i undersökningen!</p>
 <p>Diagnosen bekräftas med röntgen av hela humerus.</p>
 </section>
-<section id="behandling" class="level5" data-number="3.1.1.0.2">
-<h5 data-number="3.1.1.0.2" class="anchored" data-anchor-id="behandling"><span class="header-section-number">3.1.1.0.2</span> Behandling</h5>
+<section id="behandling" class="level5">
+<h5 class="anchored" data-anchor-id="behandling">Behandling</h5>
 <p>Som regel kan diafysära humerusfrakturer behandlas konservativt.<br>
 Gipsskena samt ortos och slynga kombinerat med armens egen vikt kan ofta hålla den rät och hindra felställning samt förkortning.<br>
 Efter ca 4 veckor med gips kan slutbehandling ske med ortos som omsluter humerus.</p>
@@ -225,18 +235,64 @@ Efter ca 4 veckor med gips kan slutbehandling ske med ortos som omsluter humerus
 <p>Operativ behandling är oftast märgspik eller plattfixation.</p>
 <p>Vid radialispares efter sluten fraktur kan nervfunktion väntas återkomma inom 3 månader. Explorativ kirurgi utförs endast efter denna tidsgräns samt neurofysiologisk undersökning (Görs <em>alltid</em> öppen fraktur som opereras).</p>
 </section>
-<section id="prognos" class="level5" data-number="3.1.1.0.3">
-<h5 data-number="3.1.1.0.3" class="anchored" data-anchor-id="prognos"><span class="header-section-number">3.1.1.0.3</span> Prognos</h5>
+<section id="prognos" class="level5">
+<h5 class="anchored" data-anchor-id="prognos">Prognos</h5>
 <p>Läker i genomsnitt på 12v.<br>
 Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.<br>
 &lt;10% kräver kirugisk behandling. Är frakturen rörlig efter <strong>4 månader</strong> klassas den som <em>non-union</em>.</p>
 </section>
 </section>
 </section>
-<section id="underarmen" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="underarmen"><span class="header-section-number">3.2</span> Underarmen</h2>
-<section id="diafysär-underarmsfraktur" class="level3" data-number="3.2.1">
-<h3 data-number="3.2.1" class="anchored" data-anchor-id="diafysär-underarmsfraktur"><span class="header-section-number">3.2.1</span> Diafysär underarmsfraktur</h3>
+<section id="armbågen" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="armbågen"><span class="header-section-number">3.2</span> Armbågen</h2>
+<section id="sec-olekranonfraktur" class="level3" data-number="3.2.1">
+<h3 data-number="3.2.1" class="anchored" data-anchor-id="sec-olekranonfraktur"><span class="header-section-number">3.2.1</span> Olekranonfraktur</h3>
+<p>TODO: detta</p>
+<p>Olekranonfrakturer ingår i proximala ulnafrakturer tillsammans med Koronoidfraktur (<a href="#sec-koronoidfraktur">Kapitel&nbsp;<span>3.2.2</span></a>) och proximal skaftfraktur. Dessa uppkommer oftare tillsammans med andra skador jämfört med olekranonfrakturer.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Klassifikation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Extraartikulära</strong> — ca 10%, proximal avulsionsfraktur (~avlösning av triceps)</li>
+<li><strong>Intraartikulära</strong> — Indelas enl. Morrey
+<ul>
+<li>Typ I — Odislocerad</li>
+<li>Typ II — Dislocerad, stabil</li>
+<li>Typ III — Dislocerad, instabil
+<ul>
+<li>Utgör ca 15% av fall. Engagerar <em>proc. coronoideus</em> och kollateralligament, <strong>mycket instabil</strong>.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<section id="kliniska-dragdiagnos-1" class="level5">
+<h5 class="anchored" data-anchor-id="kliniska-dragdiagnos-1">Kliniska drag/Diagnos</h5>
+<p>Som vid andra armbågsfrakturer. Pat. saknar förmåga att extendera i armbågsleden. Röntgen bekräftar diagnos.</p>
+</section>
+<section id="behandling-1" class="level5">
+<h5 class="anchored" data-anchor-id="behandling-1">Behandling</h5>
+<p><strong>Odislocerad typ I-fraktur:</strong> Gips i 3 veckor. En dislocering på ett par mm medför behov av operation!<br>
+<strong>Typ II-fraktur:</strong> Kan behandlas konservativt hos patient med låga-måttliga funktionskrav. (Dvs saknar behov av att aktivt extendera armbågen)<br>
+<strong>Typ III-fraktur:</strong> Opereras <em>alltid</em> med reposition och fixation. Cerklage, eller stift+cerklage och platta kan användas.</p>
+</section>
+</section>
+<section id="sec-koronoidfraktur" class="level3" data-number="3.2.2">
+<h3 data-number="3.2.2" class="anchored" data-anchor-id="sec-koronoidfraktur"><span class="header-section-number">3.2.2</span> Koronoidfraktur</h3>
+<p>TODO: detta</p>
+</section>
+</section>
+<section id="underarmen" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="underarmen"><span class="header-section-number">3.3</span> Underarmen</h2>
+<section id="sec-diafysärunderarmsfraktur" class="level3" data-number="3.3.1">
+<h3 data-number="3.3.1" class="anchored" data-anchor-id="sec-diafysärunderarmsfraktur"><span class="header-section-number">3.3.1</span> Diafysär underarmsfraktur</h3>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -253,13 +309,13 @@ Klassifikation
 <strong>C</strong>: Komplexa, komminuta frakturer</p>
 </div>
 </div>
-<section id="kliniska-dragdiagnos-1" class="level5" data-number="3.2.1.0.1">
-<h5 data-number="3.2.1.0.1" class="anchored" data-anchor-id="kliniska-dragdiagnos-1"><span class="header-section-number">3.2.1.0.1</span> KLiniska drag/Diagnos</h5>
+<section id="kliniska-dragdiagnos-2" class="level5">
+<h5 class="anchored" data-anchor-id="kliniska-dragdiagnos-2">Kliniska drag/Diagnos</h5>
 <p>Patienter söker med något/några av: smärta, svullnad, rotationssmärta, felställning.<br>
 Vid undesökning finns ofta tydliga frakturtecken. <strong>Distalstatus</strong> ska alltid ingå!</p>
 </section>
-<section id="behandling-1" class="level5" data-number="3.2.1.0.2">
-<h5 data-number="3.2.1.0.2" class="anchored" data-anchor-id="behandling-1"><span class="header-section-number">3.2.1.0.2</span> Behandling</h5>
+<section id="behandling-2" class="level5">
+<h5 class="anchored" data-anchor-id="behandling-2">Behandling</h5>
 <p>Slutna frakturer utan avvikande distalstatus behandlas med gipsskena och planerad kirurgi.</p>
 <p>Målet med behandling är exakt återställande gällande längd, rotation och böjning hos radius och ulna.<br>
 En minimalt dislocerade frakturer kan slutbehandlas med gips men opereras ofta för att snabba på mobiliseringen.<br>
@@ -267,17 +323,34 @@ En minimalt dislocerade frakturer kan slutbehandlas med gips men opereras ofta f
 Rörelseträning <em>kan</em> i allmänhet påbörjas direkt men gipsskena används ofta i 2 veckor för smärtlindring.<br>
 Tyngre belastning undviks tills röntgenologisk läkning nåtts.</p>
 </section>
-<section id="prognos-1" class="level5" data-number="3.2.1.0.3">
-<h5 data-number="3.2.1.0.3" class="anchored" data-anchor-id="prognos-1"><span class="header-section-number">3.2.1.0.3</span> Prognos</h5>
+<section id="prognos-1" class="level5">
+<h5 class="anchored" data-anchor-id="prognos-1">Prognos</h5>
 <p><strong>Läkningstiden</strong> är ca 3-4 månader i normalfallet. Armkraften kan räknas vara nedsatt långt efter skadan. Förutsatt att läkning sker utan felställning normaliseras funktionen i allmänhet med tid.<br>
 Vid lägre än 50 graders supination/pronation upplevs ofta begränsningar i vardagen.</p>
 </section>
 </section>
+<section id="monteggia-fraktur" class="level3" data-number="3.3.2">
+<h3 data-number="3.3.2" class="anchored" data-anchor-id="monteggia-fraktur"><span class="header-section-number">3.3.2</span> Monteggia-fraktur</h3>
+<p>Ulnafraktur där dislokation lett till ligamentskada vilket ger dislokation hos <em>caput radii</em> i radiohumeralleden.<br>
+Radius kan disloceras ventralt, lateralt eller dorsalt. Klassifikation sker enligt <em>Bado</em><br>
+Om även <em>caput radii</em> är frakturerat benämns frakturen monteggiaekvivalent.</p>
+<section id="kliniska-dragdiagnos-3" class="level5">
+<h5 class="anchored" data-anchor-id="kliniska-dragdiagnos-3">Kliniska drag/Diagnos</h5>
+<p>I princip samma symtom som vid diafysär underarmsfraktur (<a href="#sec-diafysärunderarmsfraktur">Kapitel&nbsp;<span>3.3.1</span></a>)<br>
+<strong>Röntgen</strong> omfattar armbågsled och handled.</p>
 </section>
-<section id="section" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="section"><span class="header-section-number">3.3</span> </h2>
+<section id="behandling-3" class="level5">
+<h5 class="anchored" data-anchor-id="behandling-3">Behandling</h5>
+<p><strong>Alla</strong> monteggiafrakturer behandlas med öppen kirugisk reposition och fixation. Efter att ulna fixerats reponeras ofta <em>caput radii</em> utan vidare åtgärd. Reparation av ligament behövs då sällan.<br>
+Vid monteggiaekvivalent fraktur fixeras även <em>caput radii</em>.</p>
+</section>
+<section id="prognos-2" class="level5">
+<h5 class="anchored" data-anchor-id="prognos-2">Prognos</h5>
+<p>Vid korrekt reposition blir patienten oftast besvärsfri efter läkning som tar 3-4 månader.</p>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -301,6 +374,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

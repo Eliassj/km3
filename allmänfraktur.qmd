@@ -74,7 +74,7 @@ Skiljs från vuxna då barns tjocka periostie och mjuka skellett ofta ger annan 
 ## Frakturläkning
 
 Det finns principiellt 2 typer av läkningar:        
-**1.** Direkt läkning utan synlig kallus
+**1.** Direkt läkning utan synlig kallus        
 **2.** Indirekt läkning med kallus      
 Läkningstyp beror på huruvida (icke-splittrade) frakturer blir stabilt anatomiskt reponerade.
 

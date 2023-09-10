@@ -56,9 +56,56 @@ Läker i genomsnitt på 12v.
 Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.         
 <10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*.
 
+## Armbågen
+
+### Olekranonfraktur {#sec-olekranonfraktur}
+
+TODO: detta
+
+Olekranonfrakturer ingår i proximala ulnafrakturer tillsammans med
+Koronoidfraktur ([Kapitel -@sec-koronoidfraktur]) och proximal skaftfraktur.
+Dessa uppkommer oftare tillsammans med andra skador jämfört med
+olekranonfrakturer.
+
+::: {.callout-tip}
+## Klassifikation
+
+- **Extraartikulära** --- ca 10%, proximal avulsionsfraktur (~avlösning av triceps)
+- **Intraartikulära** --- Indelas enl. Morrey
+  - Typ I --- Odislocerad
+  - Typ II --- Dislocerad, stabil
+  - Typ III --- Dislocerad, instabil
+    - Utgör ca 15% av fall. Engagerar *proc. coronoideus* och
+    kollateralligament, **mycket instabil**.
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Som vid andra armbågsfrakturer. Pat. saknar förmåga att extendera i
+armbågsleden. Röntgen bekräftar diagnos.
+
+##### Behandling
+
+**Odislocerad typ I-fraktur:** Gips i 3 veckor. En dislocering på ett par mm
+medför behov av operation!          
+**Typ II-fraktur:** Kan behandlas konservativt hos patient med låga-måttliga
+funktionskrav. (Dvs saknar behov av att aktivt extendera armbågen)          
+**Typ III-fraktur:** Opereras *alltid* med reposition och fixation. Cerklage,
+eller stift+cerklage och platta kan användas.
+
+##### Prognos
+
+Med adekvat behandling ses ofta god funktion efter läkning med viss kvarstående
+rörelseinskränkning (ffa i extension).
+
+### Koronoidfraktur {#sec-koronoidfraktur}
+
+TODO: detta
+
 ## Underarmen
 
-### Diafysär underarmsfraktur
+### Diafysär underarmsfraktur {#sec-diafysärunderarmsfraktur}
 
 ::: {.callout-tip}
 ## Klassifikation
@@ -69,7 +116,7 @@ Enligt AO/OTA:
 **C**: Komplexa, komminuta frakturer
 :::
 
-##### KLiniska drag/Diagnos
+##### Kliniska drag/Diagnos
 
 Patienter söker med något/några av: smärta, svullnad, rotationssmärta, felställning.        
 Vid undesökning finns ofta tydliga frakturtecken. **Distalstatus** ska alltid ingå!
@@ -94,4 +141,27 @@ normaliseras funktionen i allmänhet med tid.
 Vid lägre än 50 graders supination/pronation upplevs ofta begränsningar i
 vardagen.
 
-##
+### Monteggia-fraktur
+
+Ulnafraktur där dislokation lett till ligamentskada vilket ger dislokation hos
+*caput radii* i radiohumeralleden.          
+Radius kan disloceras ventralt, lateralt eller dorsalt. Klassifikation sker
+enligt *Bado*       
+Om även *caput radii* är frakturerat benämns frakturen monteggiaekvivalent.
+
+##### Kliniska drag/Diagnos
+
+I princip samma symtom som vid diafysär
+underarmsfraktur ([Kapitel -@sec-diafysärunderarmsfraktur])         
+**Röntgen** omfattar armbågsled och handled.
+
+##### Behandling
+
+**Alla** monteggiafrakturer behandlas med öppen kirugisk reposition och fixation. Efter att ulna fixerats
+reponeras ofta *caput radii* utan vidare åtgärd. Reparation av ligament behövs då sällan.           
+Vid monteggiaekvivalent fraktur fixeras även *caput radii*.
+
+##### Prognos
+
+Vid korrekt reposition blir patienten oftast besvärsfri efter läkning som tar
+3-4 månader.
