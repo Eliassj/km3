@@ -60,8 +60,6 @@ Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.
 
 ### Olekranonfraktur {#sec-olekranonfraktur}
 
-TODO: detta
-
 Olekranonfrakturer ingår i proximala ulnafrakturer tillsammans med
 Koronoidfraktur ([Kapitel -@sec-koronoidfraktur]) och proximal skaftfraktur.
 Dessa uppkommer oftare tillsammans med andra skador jämfört med
@@ -102,6 +100,66 @@ rörelseinskränkning (ffa i extension).
 ### Koronoidfraktur {#sec-koronoidfraktur}
 
 TODO: detta
+
+::: {.callout-tip}
+
+## Klassifikation
+
+Enl. Reagan & Morrey
+
+**Typ I:** Endast spetsen av *proc. coronoideus* avlöst.         
+**Typ II:** Frakturen omfattar <50% av *prc. coronoideus*.          
+**Typ IIIA:** >50% av *proc. coronoideus* **utan** luxation.       
+**Typ IIIB:** >50% av *proc. coronoideus* **med** luxation.
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Undersök, luxation? **Distalstatus!**
+
+##### Behandling
+
+**Typ I och II:** Inget gips, ortos eller slynga. Rörelseträning!       
+**Typ III:** A -> Oftast kirurgisk behandling, B -> Alltid kirurgisk behandling.
+Reponering och fixation med (oftast) skruv. Se även [kapitel
+-@sec-armbågsluxation]
+
+### Armbågsluxation {#sec-armbågsluxation}
+
+##### Kliniska drag/Diagnos
+
+Undersök armen, distalstatus med särskilt fokus på *n. ulnaris*. Slätröntgen
+bekräftar diagnos och eventuell samtidig fraktur.
+
+##### Behandling
+
+Om samtidig fraktur krävs ev. operation.            
+
+Om ej fraktur föreligger reponeras dorsal luxation enligt:          
+
+1. Smärtlindra, morfin 5mg, midazolam 0.5-1mg   
+2. Håll armbågen flekterad i 45 grader, dra i underarm samtidigt som överarmen
+   hålls still av assistent
+    - Om ovanstående misslyckas kan man trycka med tummar mot olekranån från
+    dorsalsidan.
+3. Undersök efter reponering:
+    - Distalstatus
+    - Kontrollera stabilitet: extendera, flektera, pronera och supinera. Om allt
+      (även passiv extension) kan göras utan reluxation är armbågen stabil.
+4. Gipsa --- Lång, dorsal skena, 90-100grader i armbågen med lite pronation.
+5. Återbesök efter 1 vecka
+    - Kontrollröntgen, avgipsning, stabilitetskontroll. Om instabilitet
+    föreligger gipsas armen på nutt i 2-3 veckor med återbesök därefter. Om
+    armen är stabil skrivs remiss till fysioterapeut.^[Undvik
+    varus/valgusvackling i 2 månader, töjning i laterala ligament och axiell
+    kompression av underarm!]
+
+
+
+##### Prognos
+
+Reluxationer är vanligt, 50% får kvarvarande rörelseinskränkning.
 
 ## Underarmen
 
@@ -165,3 +223,186 @@ Vid monteggiaekvivalent fraktur fixeras även *caput radii*.
 
 Vid korrekt reposition blir patienten oftast besvärsfri efter läkning som tar
 3-4 månader.
+
+## Handled
+
+TODO: Initial handläggning och typer
+
+### Distal radiusfraktur
+
+Den vanligaste av alla frakturer. *Allra* vanligast hos barn och postmenopausala
+kvinnor men förekommer hos alla.            
+Uppkommer oftast efter fall mot utsträckt hand.         
+Hos barn sker frakturen oftast i anslutning till epifysplattan.
+
+::: {.callout-tip}
+
+## Typer
+
+- **Colles** --- Vanligast, fraktur genom metafysen med dorsalbockat fragment.
+- **Smith** --- Som Colles men volarbockad.
+- **Barton** --- Frakturen löper genom leden.
+- **Chauffeur** --- Avulsion av *proc. styloideus radii*. Kan ge allvarliga
+ligamenskador.
+- **Dye punch** --- Ledytan frakturerar och trycks in mot metafysen.
+
+:::
+
+Kraftigt dorsalbockade frakturer ger alltid skador mot distala ulna.^[*Proc.
+styloideus ulnae*-fraktur eller ledbandsskador.]
+
+##### Symtom/Diagnos
+
+Fall mot handen med smärta/svullnad inger misstanke. Även skador i *ossa carpi*
+bör övervägas. Rtg bekräftar diagnos.       
+DT kan övervägas vid komminuta frakturer samt vid ledengagemang inför operation.
+
+##### Behandling
+
+**Odislocerad fraktur i ung vuxen utan osteoporos:**        
+Gipsskena i 4-5 veckor, Rtg-kontroll efter 7-10 dagar.
+
+::: {.callout-warning}
+
+Chauffeur-fraktur bör kontrolleras efter utläkning även om den är helt odislocerad!
+
+:::
+
+Även något dislocerade frakturer kan gipsas. Frakturer som varit volart
+dislocerade kräver volart stöd och vice versa.          
+
+Hos en inidivid med höga funktionskrav bör exakt reposition eftersträvas. Om
+detta inte kan uppnås med gips är kirurgi ofta indicerat.
+
+Indikationer för öppen reposition:
+
+- Initial dorsalbockning >30 grader
+- Smiths fraktur
+- Intraartikulära frakturer med >1mm skillnad i ledyte mellan fragment
+- Frakturer som engagerar *ossa carpi*
+- Felställd fraktur med samtidigt dislocerad ulnafraktur
+- Bilaterala frakturer
+- Frakturer med uttalad instabilitet kring distala ulnaänden.
+
+Hos individer med låga funktionskrav är operation sällan indicerad.
+
+##### Prognos
+
+Prognos efter okomplicerad fraktur/läkning är god. Höga funktionskrav och
+komplex fraktur ökar risk för bestående kliniskt relevanta symtom.
+
+::: {.callout-warning}
+
+## Complex Regional Pain Syndrome
+
+**CPRS** ger uttalad svullnad av handen, känselstörning, förändrad
+temperaturreglering och ökad behåring.          
+Risken ökar med långvarig immobilisering.
+
+:::
+
+### Skafoideumfraktur
+
+Den vanligaste frakturen bland *ossa carpi*.
+
+##### Kliniska drag/Diagnos
+
+Bör misstänkas hos samma grupp som ovan.
+
+Kliniska tecken:
+
+1. Palpationsöm i *fossa tabatiére*
+2. Palpationsöm över *tuberositas scaphoideum*
+3. Ömhet vid axialkompression av tumme
+4. Ömhet vid radialdeviation handled
+
+**Diagnos** ges via röntgen där skafoideumprojektioner bör begäras.         
+Vid negativt röntgenutfall men klinisk bild som pekar mot fraktur bör
+skafoideumgips sättas och röntgen göras om efter en vecka. MR kan ofta påvisa
+fraktur snabbare än rtg i dessa fall.
+
+##### Behandling
+
+- **Avulsionsfraktur av tuberositas scaphoideum:**
+  - Elastisk linda, avtagning i hemmet efter 2v.
+- **Odislocerad proximal-/midjefraktur:**
+  - Skafoideumgips, återbesök efter 4v. Undvik riskbelastning i 2v efter
+  avgipsning.
+- **Dislocerad proximal-/midjefraktur(>1mm):**
+  - Oftast skruvfixation.
+
+##### Prognos
+
+Sämre ju mer proximal fraktur. Opererade frakturer läker i allmänhet
+komplikationsfritt.
+
+### Övriga *ossa carpi*
+
+TODO: Detta
+
+### Karpal luxation/instabilitet
+
+Alltid resultat av högenergitrauma.
+
+##### Kliniska drag/Diagnos
+
+Smärta, svullnad, felställning i handleden.         
+*N. medianus* är ofta påverkad.             
+Dessa skador är inte sällan svårupptäckta röntgenologiskt. DT kan här
+komplettera diagnostiken.
+
+##### Behandling
+
+Perilunär luxation kan (ibland) reponeras slutet men måste fixeras kirurgiskt. *N.
+medianus* måste dekomprimeras vid påverkan.
+
+##### Prognos
+
+Leder alltid till inskränkt rörlighet med stor risk för artrosutveckling. Snabb
+handlägnning ger minskad risk för *n. medianus*-påverkan.
+
+### De Quervains tendinit
+
+Orsakas av svullnad i *abductor pollicis longus*-/*extensor pollicis
+brevis*-senan.              
+Detta kan ske vid blödning/trauma och akut tenosynovit. En vanlig patientgrupp
+är kvinnor som börjat amma och då **använder handen på ett nytt sätt**.
+Tillståndet kan komma och försvinna relativt plöstligt.
+
+##### Kliniska drag/Diagnos
+
+Klinisk diagnos:
+
+- Ömhet över det första dorsala senfacket
+- Positivt finkelsteins test
+
+![Finkelsteins test](pics/Originaler_Finkelstein-Test.jpg){heigth=50% width=50%}
+
+Tumbasartros kan uteslutas mha rtg vid osäkerhet kring diagnos.
+
+##### Behandling
+
+- Ortos som hindrar tum-/handledsrörelser
+- Kortisoninjektion i senskidan
+- Vid recidiv/ej tillfredssällande resultat -> operation
+
+##### Prognos
+
+Icke-kirurgisk behandling ger ofta goda resultat. Kirurgi leder nästan alltid
+till besvärsfrihet.
+
+### Ganglion
+
+TODO: Detta
+
+### Lunatummalaci
+
+### Skafoideumpseudoartros
+
+### Skafolunär ligamentskada
+
+### Lunotrikvetral ligamentskada
+
+### TFCC-skada
+
+### Handledsarotros

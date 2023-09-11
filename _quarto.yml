@@ -21,13 +21,14 @@ bibliography: references.bib
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: [flatly, boktheme.scss]
+      dark: [darkly, boktheme.scss]
     number-depth: 3
     comments:
       hypothesis: true
   pdf:
     documentclass: scrreprt
+    number-depth: 3
 
 
 
