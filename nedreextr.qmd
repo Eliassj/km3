@@ -1,0 +1,110 @@
+# Nedre extremiteten
+
+## Bäcken
+
+### Bäckenfraktur
+
+Sker i princip antingen vid osteoporostillstånd+lågenergivåld eller hos unga
+efter högenergivåld. Efter lågenergivåld är de nästan alltid stabila och läker
+komplikationsfritt. Efter högenergivåld är de nästan alltid
+instabila/dislocerade.
+
+##### Kliniska drag/Diagnos
+
+## Höft
+
+### Höftfraktur
+
+En av de vanligaste och allvarligaste fragilitetsfrakturerna. 1-årsmortaliteten
+är **25%**.
+
+::: {.callout-tip}
+
+## Klassifikation
+
+Delas ffa in efter lokalisation.
+
+- **Cervikal**
+  - Delas vidare in enl Garden I-IV. I praktiken gäller odislocerad(I-II) eller
+    dislocerad(III-IV). Vid dislocerad cervikal fraktur är risken för
+  cirkulatorisk påverkan hög.
+- **Trokantär/Pertrokantär**
+- **Subtrokantär**
+
+:::
+
+##### Kliniska drag/Diagnos
+
+- Förkortat, utåtroterat ben
+- Smärta
+
+::: {.callout-warning}
+
+## Missas ibland
+
+Inkilade frakturer och stressfrakturer behöver inte vara felställda och
+patienten kan ofta belasta dem! Smärta kan ha funnits en längre tid. Särskilt
+vid stressfrakturer.         
+Smärtan kan ibland också upplevas endast i knät.^[Pat. med knäsmärta utan fynd
+-> Undersök höft!]
+
+:::
+
+Verifieras i första hand med röntgen. Vid stark klinisk misstanke och negativ
+röntgen bör MR utföras.
+
+##### Behandling
+
+Kirurgisk behandling, helst inom 24h. Mobilisering snabbast möjligt i nästan
+alla fall.          
+Rehab i ett antal månader.
+
+- **Cervikal** --- **Alla** nya frakturer ska opereras. Vid äldre odislocerad
+fraktur kan icke-kirurgisk behandling övervägas.
+  - **Odislocerad**
+    - Lätt valgusfelställning kan fixeras direkt. Andra reponeras. Fixering sker
+      med skruvar eller pinnar från lateralsidan **inom 12h**.
+  - **Dislocerad**
+    - Hög risk för skador på kärl längs *collum femoris* med störd läkning som
+    följd. **Äldre** behandlas därför alltid med protes.
+  - **Basocervikal**
+    - Glidskruv + platta.
+- **Trokantär** --- 2-fragmentfraktur läker ofta lätt. >2 fragment ökar instabilitet och risk för felställning.
+  - Oftast glidskruv+platta. Märgspik+collumskruv ger mer komplikationer.
+  - Fraktur som endast ses på MR kan ofta behandlas icke-kirurgiskt.
+  - **Isolerad trokantär fraktur** --- Endast avlösning av *trokanter major*
+    - Smärtlindring+mobilisering
+- **Subtrokantär**
+  - Lång märgspik eller biaxial glidskruvsplatta. Risk för blodförlust!
+
+##### Prognos
+
+Läker på ca 3-4mån i normalfallet. Full återhämtning tar betydligt längre tid.
+
+::: {.callout-warning}
+
+## Komplikationer
+
+- **Redislokation**
+- **Utskärning/Cut-out**
+- **Lateral glidning** --- För hög kompression av frakturen efter osteosyntes.
+Kan ge ljumsk/glutealsmärta och likna kaputnekros och pseduartros!
+- **Kaputnekros** --- Vanligast efter cervikal fraktur. Kan uppstå åratal efter
+  originalskadan. Ger sig till känna med vil-/belastningssmärta (oftast) efter
+en tids symtomfrihet. Röntgenfynd kommer sent i förloppet. MR visar tidigare.
+Kan finnas som rtg-bild utan symtom. Symtomgivande kaputnekros behandlas med
+höftprotes.
+- **Pseudartros** --- Misstänks vid fortsatt svår smärta och försämrat röngtenläge 3-4mån
+  efter fraktur. Behandlas med höftprotes.
+- **Implantatnära fraktur** --- Risk vid märgspik och höftprotes. Om protesen
+inte är lös kan den sitta kvar.
+
+:::
+
+## Lår
+
+## Knä
+
+## Underben
+
+## Fot

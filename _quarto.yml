@@ -12,11 +12,11 @@ book:
       chapters:
         - allmänfraktur.qmd
         - övreextr.qmd
+        - nedreextr.qmd
   search:
     location: sidebar
     type: textbox
 
-bibliography: references.bib
 
 format:
   html:
@@ -27,7 +27,7 @@ format:
     comments:
       hypothesis: true
   pdf:
-    documentclass: scrreprt
+    documentclass: scrreport
     number-depth: 3
 
 

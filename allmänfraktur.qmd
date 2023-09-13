@@ -13,15 +13,11 @@
 
 ## Klassifikation
 
-Klassifikationer inkluderar:
-
-::: {.column-margin}
-
 Hos vuxna anses allt som inte är diafysärt som metafysärt. Begreppet epifys används därför endast hos barn med öppna fyser!         
 **End segment** = Område lika långt som den bredaste delen av benet             
 **Mid segment** = resten
 
-:::
+Klassifikationer inkluderar:
 
 - **Grad av våld**
   - Lågenergiskada --- Ofta i samband med osteoporos

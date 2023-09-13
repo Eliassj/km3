@@ -1,23 +1,17 @@
 {
   "index.qmd": {
-    "index.html": "b46e1827"
+    "index.html": "0115276e"
   },
   "intro.qmd": {
-    "intro.html": "c12fac56"
-  },
-  "summary.qmd": {
-    "summary.html": "2a8285d8"
-  },
-  "references.qmd": {
-    "references.html": "d31e997d"
-  },
-  "ortopedi.qmd": {
-    "ortopedi.html": "c392ac02"
+    "intro.html": "3684b7e2"
   },
   "allmänfraktur.qmd": {
-    "allmänfraktur.html": "457f172f"
+    "allmänfraktur.html": "a39fc0de"
   },
   "övreextr.qmd": {
-    "övreextr.html": "64124ff5"
+    "övreextr.html": "83220aef"
+  },
+  "nedreextr.qmd": {
+    "nedreextr.html": "ae00a6c9"
   }
 }
