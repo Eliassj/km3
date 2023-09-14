@@ -11,6 +11,34 @@ instabila/dislocerade.
 
 ##### Kliniska drag/Diagnos
 
+**Stabil bäckenfraktur:** Kan likna odislocerad höfrfraktur vilket måste
+uteslutas.         
+
+**Instabil bäckenfraktur:** Pat är ofta svårt smärtpåverkad. Ofta kombinerad med
+inre kärlskador samt skador på bukorgan. Pat kan ej stödja på benen. Livshotande.
+
+Förutsatt att patienten är stabil ställs diagnos via rtg/trauma-DT beroende på
+omständigheter.
+
+##### Behandling
+
+**Stabil fraktur** kräver endast symtomatisk behandling. Belastning går bra så fort
+smärtan tillåter.           
+
+**Instabil fraktur** behandlas nästan alltid med öppen reposition och fixation. I
+väntan på dessa bör ett instabilt/dislocerat bäcken komprimeras med gördel för
+att hindra blödning.
+Instabil fraktur utan felställning kan *ibland* behandlas med avlastning i 12v.                 
+
+##### Prognos
+
+Äldre patienter har liknande risk som vid höftfraktur. Även de med stabila
+frakturer uppnår tidigare funktionsnivå i bara ca 50% av fall.              
+Engagerar frakturen acetabulum finns stor risk för artrosutveckling.
+
+Vid instabil fraktur avgör associerade skador ofta prognosen. En stor andel av
+dessa patienter blir inte återställda.
+
 ## Höft
 
 ### Höftfraktur
@@ -102,6 +130,30 @@ inte är lös kan den sitta kvar.
 :::
 
 ## Lår
+
+### Diafysär humerusfraktur
+
+::: {.callout-tip}
+
+## Klassifikation
+
+Enl AO/OTA:
+
+**A:** Enkel fraktur        
+**B:** Fraktur med böjkil           
+**C:** Kommplex fraktur
+
+
+[A-B kan vidare delas in i 1-3.](https://www.orthobullets.com/trauma/1040/femoral-shaft-fractures)
+
+:::
+
+Utgör ca 5% av alla femurfrakturer. Vanligaste patienten är en osteoporosdam som
+fallit i samma plan. Även yngre kan drabbas efter högenergivåld.            
+Skadan kan ge livshotande blödning.
+
+Kompartmentsyndrom är ovanligt. Muskelnekroser kan dock ge *crush syndrome* med
+elektrolytrubbningar och njursvikt som följd.
 
 ## Knä
 
