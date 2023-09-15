@@ -39,6 +39,12 @@ Engagerar frakturen acetabulum finns stor risk för artrosutveckling.
 Vid instabil fraktur avgör associerade skador ofta prognosen. En stor andel av
 dessa patienter blir inte återställda.
 
+#### Ramusfraktur
+
+##### Behandling
+
+Konservativ om ramus ej är helt av. Op med stabilisering om instabil.
+
 ## Höft
 
 ### Höftfraktur
@@ -56,6 +62,7 @@ Delas ffa in efter lokalisation.
   - Delas vidare in enl Garden I-IV. I praktiken gäller odislocerad(I-II) eller
     dislocerad(III-IV). Vid dislocerad cervikal fraktur är risken för
   cirkulatorisk påverkan hög.
+  - Valgus impact --- Kompression med valgusfelställning. Kärlmässigt okej.
 - **Trokantär/Pertrokantär**
 - **Subtrokantär**
 
@@ -83,7 +90,7 @@ röntgen bör MR utföras.
 
 ##### Behandling
 
-Kirurgisk behandling, helst inom 24h. Mobilisering snabbast möjligt i nästan
+Kirurgisk behandling, helst inom 24h.^[Pga lägre mortalitet ju lägre väntetid.] Mobilisering snabbast möjligt i nästan
 alla fall.          
 Rehab i ett antal månader.
 
@@ -94,16 +101,17 @@ fraktur kan icke-kirurgisk behandling övervägas.
       med skruvar eller pinnar från lateralsidan **inom 12h**.
   - **Dislocerad**
     - Hög risk för skador på kärl längs *collum femoris* med störd läkning som
-    följd. **Äldre** behandlas därför alltid med protes.
+    följd. **Äldre**(>65) behandlas därför alltid med protes. Unga behandlas i
+    allmänhet med LIH.
   - **Basocervikal**
-    - Glidskruv + platta.
-- **Trokantär** --- 2-fragmentfraktur läker ofta lätt. >2 fragment ökar instabilitet och risk för felställning.
-  - Oftast glidskruv+platta. Märgspik+collumskruv ger mer komplikationer.
+    - Samma som pertrokantära.
+- **Pertrokantär** --- 2-fragmentfraktur läker ofta lätt. >2 fragment ökar instabilitet och risk för felställning.
+  - Oftast glidskruv/twinhook+platta. Märgspik+collumskruv ger mer komplikationer.
   - Fraktur som endast ses på MR kan ofta behandlas icke-kirurgiskt.
   - **Isolerad trokantär fraktur** --- Endast avlösning av *trokanter major*
     - Smärtlindring+mobilisering
 - **Subtrokantär**
-  - Lång märgspik eller biaxial glidskruvsplatta. Risk för blodförlust!
+  - Lång märgspik med glidskruv och biaxial glidning. Risk för blodförlust!
 
 ##### Prognos
 
@@ -114,7 +122,7 @@ Läker på ca 3-4mån i normalfallet. Full återhämtning tar betydligt längre 
 ## Komplikationer
 
 - **Redislokation**
-- **Utskärning/Cut-out**
+- **Utskärning/Cut-out** --- Skruv "skär" ut ur caput pga hög belastning.
 - **Lateral glidning** --- För hög kompression av frakturen efter osteosyntes.
 Kan ge ljumsk/glutealsmärta och likna kaputnekros och pseduartros!
 - **Kaputnekros** --- Vanligast efter cervikal fraktur. Kan uppstå åratal efter
@@ -129,9 +137,13 @@ inte är lös kan den sitta kvar.
 
 :::
 
+### Luxation/Instabilitet
+
+
+
 ## Lår
 
-### Diafysär humerusfraktur
+### Diafysär femurfraktur
 
 ::: {.callout-tip}
 
@@ -146,6 +158,8 @@ Enl AO/OTA:
 
 [A-B kan vidare delas in i 1-3.](https://www.orthobullets.com/trauma/1040/femoral-shaft-fractures)
 
+Uppdelning efter energimängd vid trauma finns även.
+
 :::
 
 Utgör ca 5% av alla femurfrakturer. Vanligaste patienten är en osteoporosdam som
@@ -155,8 +169,115 @@ Skadan kan ge livshotande blödning.
 Kompartmentsyndrom är ovanligt. Muskelnekroser kan dock ge *crush syndrome* med
 elektrolytrubbningar och njursvikt som följd.
 
+##### Kliniska drag/Diagnos
+
+- trauma
+- Oförmåga att belasta
+- Smärta som ökar i rörelse
+- Konsistensökning av låret (pga blödning - upp till 1,5L)
+
+::: {.callout-note}
+
+## Fynd
+
+- frakturkrepetationer
+- Instabilitet
+- Felställning
+- Förkortning
+- **Gör distalstatus**
+
+:::
+
+::: {.callout-important}
+
+## OBS
+
+**Uteslut andra skador!** --- t.ex knä, höft, kotpelare, thorax.
+
+:::
+
+**Diagnos** bekräftas med röntgen av **hela femur inkl. höft och knä** (alt.
+trauma-DT).
+
+##### Behandling
+
+Enl. ATLS vid högenergiskada.
+
+
+Öppna frakturer bör tvättas och stabiliseras operativt snarast.
+Antibiotikaprofylax är viktigt.
+**Stabilisering** --- Bästa smärtlindringen. Hindrar blödning -> mindre
+inflammation.       
+Jämfört andra skador vid högenergivåld har frakturen låg prio förutom när det
+gäller att hindra blodförlust.          
+
+Icke kirurgisk behandling är i princip aldrig rekommenderad.            
+Vid implantat i femur sedan tidigare måste implantaten överlappa för att undvika
+ytterligare fraktur i benet mellan dem.
+
+Vid lågenergitraum används ofta antegrad(satt från trochanter) märgspik.
+
+Vid högenergitrauma används *Early Total Care* med märgspik om patienten tål det. Annars görs minsta möjliga åtgärd i akutskedet.
+
+##### Prognos
+
+Ju mer splittrad/instabil desto sämre prognos. Vid multitrauma är prognosen
+beroende av övriga skador.
+
+Läkningstid är 4-5mån.
+
+Benlängdsförkortning, rotationsfelställning, *delayed union* och *non
+union*/pseudartros är
+möjliga komplikationer.             
+Vid *non-union*/pseudartros friseras frakturytorna och fixering sker med grövre
+märgspik.               
+Om märgspikar ger smärta kan de plockas ut.
+
+### Stressfraktur
+
+Förekommer i bäcken, lårbenshals, femurdiafys.          
+Specialvariant återfinns i **atypisk subtrokantär femurfraktur** som ses vid
+långvarig bisfosfonatbehandling (och eventuellt andra osteoporosbehandlingar).
+
+##### Kliniska drag/Diagnos
+
+Förloppet börjar med ospecifik smärta vid belastning. Denna uppstår med fortsatt
+belastning även i vila. I normalfallet ses ej svullnad.
+
+::: {.callout-note}
+
+## Fynd
+
+- Smärta vid provokation av påverkad skelettdel
+- Smärta vid hopp på ett ben
+- Normal rtg tidigt
+
+:::
+
+Då rtg är normal i tidigt skede bör ny utföras efter 2-4v. MR eller scint kan
+visa förändringar direkt.
+
+##### Behandling
+
+- Minska aktivitet
+  - Lättare träning okej så länge den ej ger smärta
+- Vid utebliven smärtfrihet gäller total vila i 4-6v.
+- **Vid stressfraktur i lårbenshalsen:**
+  - Akut op. med skruvfixation pga hög risk för dislokation och
+  läkningsstörning.
+
+##### Prognos
+
+Läker oftast väl utan resttillstånd (undantaget i lårbenshals!). Fysisk
+aktivitet bör undvikas tills man är helt smärtfri.
+
 ## Knä
 
 ## Underben
 
 ## Fot
+
+Vissa Weber A och B, alla C opereras. A1 och B1 behöver aldrig opereras.
+
+Belastning är tillåtet förutsatt att stabilitet skapats. Undantaget svåra
+C-frakturer och patienter med osteoporotiskt skelett.

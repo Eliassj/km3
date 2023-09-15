@@ -5,6 +5,7 @@ language: customlang.yml
 book:
   title: "KM3"
   date: "2023-09-07"
+  cover-image: cover.jpg
   chapters:
     - index.qmd
     - intro.qmd
@@ -13,6 +14,8 @@ book:
         - allmänfraktur.qmd
         - övreextr.qmd
         - nedreextr.qmd
+  appendices:
+    - ordlista.qmd
   search:
     location: sidebar
     type: textbox
