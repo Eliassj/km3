@@ -1,0 +1,192 @@
+# Ortopediskt status
+
+## Rygg
+
+### Inspektion
+
+- Assymetri, lordos, kyfos, skolios, gång
+- Benlängdsskillnad
+
+### Palpation
+
+- Spinalutskotten - dunkömhet (böj lite framåt)
+- Paravertebral muskulatur
+- S-I lederna
+- Gluteal muskulatur
+
+### Rörlighet
+
+- Flexion/extension
+- Sidoböjning
+- Rotation
+
+### Neurologi
+
+#### Nacke
+
+##### Sensibilitet
+
+- Överarmens utsida (C5)
+- Underarmens utsida till dig 2(C6)
+- Dig 3 (C7)
+- Underarmens insida (C8)
+- Överarmens insida (Th1)
+
+##### Reflexer
+
+- Biceps (C 5)
+- Brachioradialis (C 6)
+- Triceps (C 7)
+
+##### Muskelstyrka
+
+- Deltoideus (C5)
+- Biceps, Handledsextension (C6)
+- Triceps, Handledsflektion, Fingerextension (C7)
+- Fingerflektion (C8)
+- Fingerabduktion/-adduktion (Th1)
+
+#### Ländrygg
+
+##### Sensibilitet
+
+- Lårets framsida (L4)
+- Lateralt på foten, fotrygg mellan dig 1 & 2 (L5)
+- Benets baksida, Lateralt på foten (S1)
+- Perianal sensibilitet (S1, vid misstanke om cauda equina)
+
+##### Reflexer
+
+- Patellarreflex (L4)
+- Achillesreflex (S1)
+
+##### Muskelstyrka
+
+###### Liggande
+
+- Quadriceps (L4)
+- Dorsalextension av stortå (L5)
+- Plantarflektion av fot (S1)
+
+###### Stående
+
+- Gå på tå
+- Gå på häl
+- Resa sig från huk
+
+### Specifika tester
+
+- **Lasègue/SLR** --- Talar för att nervrötter till *n. ischiadicus* är
+påverkade. Positivt vid smärta inom *n. ischiadicus* område (Smärtan ska gå
+nedom knät!) vid 30-60 graders
+lyft.
+- **Korsad Lasègue** --- Samma som ovan men smärta upplevs i benet som ej lyfts.
+  Talar *starkt* för ischias
+- **Babinski**
+- **Per rectum** --- Sfinktertonus+knipförmåga
+
+### Distalstatus
+
+- Motorik och sensibilitet
+- Pulsar
+
+## Höft
+
+### Inspektion
+
+- Assymetri (Förkortat ben, rotation, varus/valgus)
+- Ärr, hematom, benlängdskillnad
+- Hälta
+- Notera rörelser ex av/påklädning, upp-ner från britsen
+
+### Palpation
+
+- Bäckenringen
+- Trochanter majus
+- Os pubis --- Oklart när detta ska vara av värde
+- Proximala femur
+- Höftled
+
+### Rörlighet
+
+**Aktiv & passiv!**
+
+- Flektion (120° m. knä flekterat 90°)
+- Extension
+- Abduktion (40°)
+- Adduktion (20°)
+- Inåtrotation (20°)
+- Utåtrotation (45°)
+
+### Muskelstyrka
+
+- Rakt benlyft
+
+### Specifika tester
+
+- **Trendelburgs tecken** --- Positivt om pat ej orkar hålla upp friska höften stående på sjuka benet. Tyder ffa på svaghet *m. gluteus medius*.
+- **Flektionsrotationstrycktest**^[Namn?, Källa: Hypocampus] --- Flektera knä och höft till 90°, utåtrotera något och tryck inåt på höften. Ger smärta vid artros, *os pubis*-fraktur, artrit och foglossning.
+- **Patricks test** --- Båda benen lätt böjda -> Lägg ena foten på motsatt sidas
+  knä -> Tryck nedåt. Smärta i höft är ett tidigt artrostecken. Kan även påvisa
+  patologi i SI-led.
+
+### Distalstatus
+
+Pulsar, känsel, rörlighet
+
+## Knä
+
+### Inspektion
+
+- Deformitet --- Varus/Valgus? Ärr? Hematom? Missförgning? Svullnad? Atrofi?
+- Hälta
+- Spontana rörelser
+
+### Palpation
+
+- Svullnad, hydrops, bakercysta, värmeökning
+- Quadricepssena/Patella --- Randömhet, förskjutbarhet trycköm
+- Patellarsena
+- *Tuberositas tibia*
+- Kollateralligament, ledspringor --- Lättast med 90° flektion i knät.
+
+### Rörlighet
+
+- Flektion (135°)
+- Extension (0°)
+
+### Muskelstyrka
+
+- Lyft av rakt ben från underlaget
+
+### Stabilitet
+
+- Kollateralligament
+- Korsband --- Lachmans, Draglåda
+
+### Specifika test
+
+- **Menisktester**
+  - McMurray --- Flektera knät -> Rotera foten så hälen pekar mot sidan som ska
+    testas -> Palpera ledspringan samtidigt som knät extenderas.
+  - Appleys --- Flektera knät 90° -> Rotera foten så hälen pekar mot sidan som
+  ska testas -> Tryck nedåt på foten.
+- **Apprehension test** --- Skjut patellan lateralt. Vid patellär instabilitet
+kommer pat. reagera med smärta/obehag.
+
+### Distalstatus
+
+Pulsar, känsel, rörlighet
+
+## Fot/Fotled
+
+### Inspektion
+
+- Deformitet --- Felställning, varus/valgus, ärr m.m
+- Plattfot?
+- Svullnad, hematom, missfärgning, sår
+- Hälta
+
+### Palpation
+
+- Hela fibula

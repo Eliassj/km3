@@ -203,7 +203,6 @@ trauma-DT).
 
 Enl. ATLS vid högenergiskada.
 
-
 Öppna frakturer bör tvättas och stabiliseras operativt snarast.
 Antibiotikaprofylax är viktigt.
 **Stabilisering** --- Bästa smärtlindringen. Hindrar blödning -> mindre
@@ -227,8 +226,7 @@ beroende av övriga skador.
 Läkningstid är 4-5mån.
 
 Benlängdsförkortning, rotationsfelställning, *delayed union* och *non
-union*/pseudartros är
-möjliga komplikationer.             
+union*/pseudartros är möjliga komplikationer.             
 Vid *non-union*/pseudartros friseras frakturytorna och fixering sker med grövre
 märgspik.               
 Om märgspikar ger smärta kan de plockas ut.
@@ -275,9 +273,104 @@ aktivitet bör undvikas tills man är helt smärtfri.
 
 ## Underben
 
+### Diafysär tibiafraktur
+
+Finnes ofta tillsammans med fibulafraktur. I "*underbensfraktur*" ingår isolerad
+tibiafraktur, kombinerad tibia/fibulafraktur men inte isolerad fibulafraktur.
+
+::: {.callout-tip}
+
+## Klassifikation
+
+Klassificeras enligt A-B samt I-IIIC (Gustilo-Anderson) vid öppna frakturer.
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Trauma -> Smärta, oförmåga att gå/stå, nedsatt cirkulation/nervpåverkan distalt samt eventuell felställning ger misstanke.
+
+Rtg(Frontal+sida inklusive knä och fotled) bekräftar diagnos. Vid svårighet att avgöra om frakturen engagerar led kan DT användas.
+
+##### Behandling
+
+**Odislocerad fraktur:**        
+Helbensgips i ca 4 veckor. Rörelseträning i fot/knäled så fort som möjligt.
+Alternativt operation för snabbare mobilisering.
+
+**Dislocerad fraktur:**        
+I första hand grov märgspik med låsskruvar. Plattfixation kan användas vid t.ex
+komminuta frakturer men ger högre risk för utmattningsbrott av osteosyntesmaterial
+och större mjukdelspåverkan.        
+Öppna frakturer med liten mjukdelsskada kan ofta opereras direkt. Vid större
+mjukdelsskada används ofta extern fixation medan skadan täcks av
+hudlambåer/revideras.
+
+Även lätt dislocerade frakturer löper stor risk att dislocera under läkningen!(*särskilt om fibula är helt*)          
+
+##### Prognos
+
+Sluten fraktur läker på ca 4 månader. Öppen fraktuer läker på ca 6-8 månader.               
+Komplikationer som *delayed-/non-union* är ovanligt efter märgspikning. Smärta i
+knät där man satt spiken är dock vanligt. Rotationsfelställning förekommer ffa
+om tvärskruvar inte används.
+
+### Distal tibiafraktur
+
+::: {.callout-tip}
+
+## Klassifikation
+
+* **A** --- Enbart metafysärt engagemang
+* **B** --- Metafysär fraktur med delvis ledengagemang
+* **C** --- Metafysär fraktur med multipla ledengagemang
+
+:::
+
+##### Kliniska drag/diagnos
+
+Traum som följs av smärta, oförmåga att stödja ger misstanke.
+
+**Diagnos** ges av slätröntgen med frontal-, sido- och vridprojektioner av
+fotled+underben. DT-kartläggning bör ske inför operation.
+
+##### Behandling
+
+**Odislocerad fraktur:**        
+Underbensgips/ortos i 8-12v. Undvik belastning i minst 6 veckor.
+
+**Dislocerad fraktur/Frakturer med ledengagemang:**         
+Oftast plattfixation med mål att återskapa ledytan. Gips/ortos används i
+efterloppet och belastning undviks i 8v.
+
+##### Prognos
+
+Associerad med hög risk för komplikationer och nedsatt funktion. Dock stor
+variation beroende på skadetyp och ffa skademekanism.
+
+### Akut kompartmentsyndrom
+
+Ökat vävnadstryck i ett slutet rum leder till sänkt perfusion. Vid
+perfusionstryck kring 30-40mmHg finns stor risk för ischemi och nekros som i sig
+ökar svullnaden och späder på problemen.
+
+Kan orsakas av gips, bandage, trauma m. blödning, svullnad m.m. Speciellt
+vanligt i samband med tibiafrakturer!
+
+##### Kliniska drag/Diagnos
+
+* Tilltagande oproportionerlig smärta som ej svarar på smärtlindring
+* Ökad svullnad och Konsistens
+* Parestesier
+* Palpationsömhet
+* Som regel normal kärlstatus distalt
+
+Vid misstanke med osäkerhet bör intrakompartmentell tryckmätning utföras. I
+synnerhet på medvetslösa/sövda patienter!
+
 ## Fot
 
-Vissa Weber A och B, alla C opereras. A1 och B1 behöver aldrig opereras.
+Vissa Weber A och B samt alla C opereras. A1 och B1 behöver aldrig opereras.
 
 Belastning är tillåtet förutsatt att stabilitet skapats. Undantaget svåra
 C-frakturer och patienter med osteoporotiskt skelett.

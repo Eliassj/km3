@@ -8,9 +8,9 @@ book:
   cover-image: cover.jpg
   chapters:
     - index.qmd
-    - intro.qmd
     - part: "Ortopedi"
       chapters:
+        - ortostatus.qmd
         - allmänfraktur.qmd
         - övreextr.qmd
         - nedreextr.qmd
