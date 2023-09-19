@@ -14,6 +14,7 @@ book:
         - allmänfraktur.qmd
         - övreextr.qmd
         - nedreextr.qmd
+        - rygg.qmd
   appendices:
     - ordlista.qmd
   search:
