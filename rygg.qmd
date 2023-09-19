@@ -1,6 +1,8 @@
 # Rygg
 
-## Lumbago
+## Ländrygg
+
+### Lumbago {#sec-lumbago}
 
 = Ländryggssmärta
 
@@ -8,11 +10,11 @@
 
 **Orsak** till smärta är ofta okänd.
 
-::: {.callout-info}
+::: {.callout-tip}
 
 ## Diffdiagnoser
 
-![Internetmedicin](https://www.internetmedicin.se/behandlingsoversikter/smarta/lumbago/) har bra.
+[Internetmedicin](https://www.internetmedicin.se/behandlingsoversikter/smarta/lumbago/) har bra info om diffdiagnoser.
 
 - Spondylodiskit
 - Diskbråck
@@ -49,7 +51,54 @@ Radiologi är inte nödvändig i akutskedet vid typiskt insjuknande hos äldre u
 ##### Behandling
 
 - Rörelse så fort som möjligt
-- Råd om att gå/ligga ist. för sitta. Sitt ej framåtlutad, lyft nära kroppen etc.
+- Råd om att gå/ligga istället för sitta. Sitt ej framåtlutad, lyft nära kroppen etc.
 - Paracetamol+NSAID med *eventuellt* svag opioid vid svår smärta. **Tidsbegränsad behandling!**
 - Sjukgymnastik
 - Aktiv uppföljning m. ÅB inom ~4v.
+
+### Diskbråck
+
+Diskbråck m. ischias har ca 1-2% livstidsprevalens.
+
+För diffdiagnoser se [Lumbago -@sec-lumbago]
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Oftast smygande insjuknande med enbart lumbago i början. Bensmärtan är ofta
+  mindre uttalad hos barn.
+  - Symtom accentueras av sittande och ökat buktryck (t.ex hostning, nysning).
+  - Sensorisk/motorisk störning i specifika derma-/myotom (se [ryggstatus
+  -@sec-ryggstatus]).
+  - **Cauda equina**-syndrom.
+- **Fynd**
+  - SLR --- ger smärta vid 30-60 graders flexion. Notera när smärta *nedom* knät
+  upplevs.
+    - Positivt omvänd SLR/Lasègue --- Talar starkt för ischias.
+  - Smärtskolios --- C-formad, ökar ofta vid flexion i ryggen.
+  - Smärtskolios --- C-formad, ökar ofta vid flexion i ryggen.
+  - Störda reflexer/styrka/sensibilitet.
+    - Undersök perianal sensibilitet+sfinktertonus samt ev.
+    bulbocavernosusreflex hos män vid minsta **cauda equina**-misstanke!
+
+##### Behandling
+
+- **Icke-kirurgisk** --- Nästan alltid initial behandling. Uppmana till rörelse,
+  påminn om god prognos. Påtala att pat. ska söka akut vid försämring samt tarm/blåspåverkan.
+  - Analgetika --- Alvedon samt eventuellt NSAID. Undvik opioider. Eventuellt Gabapentin/Pregabalin vid svår ischias.
+  - Sjukgymnastik
+- **Kirurgisk** --- Kan övervägas efter 6-8v av utebliven förbättring eller försämring.
+  - Diagnos måste fastställas radiologiskt. Tidig (<6mån) kirurgi ger bättre
+  resultat.
+  - Mobilisering (nästan alltid) omedelbart med försiktighetsråd om
+  böjning/belastning av rygg under 2 veckor.
+  - Komplikationer inkluderar duraskada/likvorläckage (4%), nervrotsskada (<1%,
+  ofta ävergående inom 6mån) samt sårinfektion (2-5%).
+
+##### Prognos
+
+90% som inte får kirurgisk behandling blir besvärsvfria inom 6v. 80% av de som
+genomgår kirurgi är nöjda med resultatet.
+
+5-11% får recidiv i samma/närliggande kotnivå. Ung ålder, rökning och diabetes
+ökar recidivrisken.

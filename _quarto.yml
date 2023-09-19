@@ -6,6 +6,7 @@ book:
   title: "KM3"
   date: "2023-09-07"
   cover-image: cover.jpg
+  downloads: pdf
   chapters:
     - index.qmd
     - part: "Ortopedi"
