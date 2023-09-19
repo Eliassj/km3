@@ -1,0 +1,55 @@
+# Rygg
+
+## Lumbago
+
+= Ländryggssmärta
+
+80% av befolkningen drabbas någon gång. 80-90% av dessa blir besvärsfria inom 3 månader, 60% inom ett par veckor. Kvarstår smämrta >3 mån är prognosen sämre.
+
+**Orsak** till smärta är ofta okänd.
+
+::: {.callout-info}
+
+## Diffdiagnoser
+
+![Internetmedicin](https://www.internetmedicin.se/behandlingsoversikter/smarta/lumbago/) har bra.
+
+- Spondylodiskit
+- Diskbråck
+- Segmentell rörelsesmärta
+- Spondylolistes (kotglidning)
+- Kotkompression
+- Metastas
+- UVI
+- Spondyloartropatier
+- Spinal stenos
+
+:::
+
+##### Kliniska drag/Diagnos
+
+- **Rygginsufficiens**
+  - Ffa trötthetskänsla i rygg
+  - Svaghet och/eller stelhetskänsla
+- **Lumbago**
+  - Ofta plötsligt insättande smärta vid t.ex lyft. Ej ovanligt att vakna upp med smärtan.
+  - Kraftig smärta vid rörelse. Går oftast att hitta besvärsfri position.
+  - Utstrålning till skinkar/ljmuskar förekommer. Ej nedanför knänivå dock.
+  - Ensidig smärta relativt vanligt.
+- **Ischias**
+  - Smärta som strålar nedom knät i ett eller båda benen.
+  - Ibland neurologisk påverkan --- Domning svaghet, nedsatta reflexer
+- **Lumbago-Ischias**
+  - Blandning av ovanstående
+
+**Labb:** CRP, U-sticka, LPK, temp
+
+Radiologi är inte nödvändig i akutskedet vid typiskt insjuknande hos äldre utan varningstecken. Vid utebliven förbättring bör MR övervägas.
+
+##### Behandling
+
+- Rörelse så fort som möjligt
+- Råd om att gå/ligga ist. för sitta. Sitt ej framåtlutad, lyft nära kroppen etc.
+- Paracetamol+NSAID med *eventuellt* svag opioid vid svår smärta. **Tidsbegränsad behandling!**
+- Sjukgymnastik
+- Aktiv uppföljning m. ÅB inom ~4v.
