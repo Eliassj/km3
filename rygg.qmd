@@ -102,3 +102,33 @@ genomgår kirurgi är nöjda med resultatet.
 
 5-11% får recidiv i samma/närliggande kotnivå. Ung ålder, rökning och diabetes
 ökar recidivrisken.
+
+### Cauda equina-syndrom {#sec-caudaequina}
+
+Orsakas ffa av epiduralblödning efter truma/penetration, Infektion, Tumör, Diskbråck.        
+Kan uppstå akut (t.ex vid diskbråck) eller över lång tid (t.ex spinal stenos).
+
+##### Kliniska drag/Diagnos
+
+Akut CES ger ofta svår ryggsmärta med bilateral ischias. Vid långsammare förlopp kan ryggvärk komma smygande och följas av krampkänning bilateralt, ffa vid ryggradsextension.
+
+- **CES-I** --- Inkomplett syndrom
+  - Urinträngningar
+  - Svag stråle
+  - Ofrivillig flatulens
+  - Ofta halvsidig/partiell ridbyxeanastesi.
+- **CES-R** --- Komplett syndrom/*true Retention*
+  - Total urinretention som ibland är smärtfri.
+    - Man bör smärtlindra pat. då oförmåga att miktera kan bero på smärta.
+
+::: {.callout-note}
+
+## Fynd
+
+- **3S**
+  - Sensibilitetsnedsättning insida lår
+  - Nedsatt sfinktertonus
+  - Stortåflektionskraft sänkt
+- Bortfallen "anal wink"-reflex
+
+:::
