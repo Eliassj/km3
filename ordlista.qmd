@@ -1,3 +1,11 @@
 # Ordlista
 
-**LIH** --- [Lars Ingvar Hansson](https://orto.nu/operation.php?id=lih)
+###### LIH-spik {#sec-lih}
+
+[Lars Ingvar Hansson](https://orto.nu/operation.php?id=lih)        
+Ortopedisk spik med hake. Används bl.a vid cervikal femurfraktur hos yngre.
+
+###### Bulbocavernosusreflex
+
+Spinal reflex involverande S2-S4. Användbar vid misstanke om Cauda equina-syndrom ([Kapitel -@sec-caudaequina]).          
+Testas genom att palpera analsfinktern samtidigt som man hastigt kniper om glans penis(/klitoris) alternativt drar i en foley-kateter med uppspänd ballong. Vid fungerande reflex kniper analsfinktern åt.
