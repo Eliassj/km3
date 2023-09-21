@@ -8,4 +8,25 @@ Ortopedisk spik med hake. Används bl.a vid cervikal femurfraktur hos yngre.
 ###### Bulbocavernosusreflex
 
 Spinal reflex involverande S2-S4. Användbar vid misstanke om Cauda equina-syndrom ([Kapitel -@sec-caudaequina]).          
-Testas genom att palpera analsfinktern samtidigt som man hastigt kniper om glans penis(/klitoris) alternativt drar i en foley-kateter med uppspänd ballong. Vid fungerande reflex kniper analsfinktern åt.
+Testas genom att palpera analsfinktern samtidigt som man hastigt kniper om glans penis(/klitoris, testet används inte på kvinnor(?)) alternativt drar i en foley-kateter med uppspänd ballong. Vid fungerande reflex kniper analsfinktern åt.
+
+###### Haloväst {#sec-haloväst}
+
+:::: {.columns}
+
+::: {.column}
+
+Väst som stabiliserar halsryggen.           
+Kan användas vid t.ex fraktur i C5-Th1.
+
+:::
+
+
+::: {.column}
+
+![Haloväst^[BruceBlaus, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]](pics/Halo_Brace.png){width=40% height=40% fig-align="left"}
+
+:::
+
+
+::::

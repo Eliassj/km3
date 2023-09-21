@@ -139,7 +139,50 @@ inte är lös kan den sitta kvar.
 
 ### Luxation/Instabilitet
 
+## Knä
 
+### Distal femurfraktur
+
+Utgör ca 5% av alla femurfrakturer. Orsakas av sidovinkling, rotation och
+axiellt våld i kombination. Ofta efter fall på flekterat knä. Incidenstoppar är
+unga män efter högenergivåld och äldre kvinnor efter fall i samma plan.
+
+::: {.callout-note}
+
+## Klassifikation
+
+- **A** Extraartikulär fraktur med intakt knäled.
+- **B** Delvis intraartikulär.
+- **C** Splittrad fraktur med ledengagemant
+
+:::
+
+##### Kliniska drag/Diagnos
+
+::: {.callout-tip}
+
+## Fynd
+
+- Synlig felställning
+- Palpömhet och smärta vid rotationprovokation
+- Kraftig svullnad av lån/knä
+- **Distalstatus**
+
+:::
+
+Rtg bekräftar diagnos. Ofta sätts dorsal gipsskena innan rtg.
+
+##### Behandling
+
+I allmänhet kirurgisk. Vid minimal felställning alternativt gravt sjuk pat med
+osteoporotiskt skellett kan sträckbehandling/helbensgips övervägas.
+
+* **A**: Retrograd märgspik alternativt skruvfixation med platta.
+* **B:** Skruvfixation + eventuellt platta.
+* **C:** Glidskruv + platta, distal femurplatta alternativt kombo med skruv och
+  märgspik. C3 är svårbehandlade och har dålig prognos även med behandling.
+
+**Följs upp** med rtg var 6-8:e vecka tills full läkning.
 
 ## Lår
 

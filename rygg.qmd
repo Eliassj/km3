@@ -1,5 +1,67 @@
 # Rygg
 
+## Halsrygg
+
+### Halsryggsfraktur/-luxation
+
+Uppkommer hos yngre efter högenergivåld. Oftast på C0-C2 eller C5-C7. Hos äldre
+efter fall i samma plan hos vilka *dens axis*-fraktur är vanligast. Även
+C1-fraktur förekommer i denna grupp.             
+Även traumatiskt diskbråck kan följa trauma (vanligast efter luxation).             
+Vid fraktur som engagerar *foramina intervertebrae* bör skada på *a. vertebralis* betänkas.
+
+##### Kliniska drag/Diagnos
+
+Pat. kan ha:
+
+- Nacksmärta
+- Utstrålande smärta
+- Neurologiska bortfall
+- Armsmärta...
+
+...i nästan vilken kombination som helst.
+
+Medvetslösa patienter efter multitrauma har instabil nacke tills motsatsen
+bevisats (förekommer i 25% av fall).
+
+::: {.callout-tip}
+
+## Fynd
+
+- Palpabel smärta
+- Smärtinskränkt rörelse
+- Neurologiska bortfall
+- Neurogen shock
+
+:::
+
+Diagnos fås ofta genom (trauma-)DT. Även MR bör utföras vid frakturmisstanke då
+enbart ligamentskador kan orsaka instabilitet.
+
+##### Behandling
+
+**Immobilisering** från början (dvs vid misstanke).             
+Skallsträck kan användas för att helt/delvis reponera felställning och luxation
+i väntan på definitivbehandling.
+
+**Alternativ beroende på skada:**            
+
+- **Stabil skada** --- t.ex spinalutskottsfraktur
+  - Fri Mobilisering
+- **Medelinstabil skada i C2-C6**
+  - Hård halskrage, DT-kontroll efter en vecka. Därefter individuellt upplägg.
+- **Medelinstabil skada i C7-Th1**
+  - Cervikothorakal ortos.
+- **Instabil skada som ej lämpar sig för op**
+  - Haloväst ([@sec-haloväst])
+- **Instabil skada, uttallad felställning, neurologiska bortfallssymtom**
+  - Operation m. korrigering av felställning, dekompression av
+  ryggmärg/spinalutskott, intern fixation och fusion.
+
+##### Prognos
+
+Avgörs ffa av skadetyp och förekomst av neurologiska symtom.
+
 ## Ländrygg
 
 ### Lumbago {#sec-lumbago}
