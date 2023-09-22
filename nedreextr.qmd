@@ -139,50 +139,6 @@ inte är lös kan den sitta kvar.
 
 ### Luxation/Instabilitet
 
-## Knä
-
-### Distal femurfraktur
-
-Utgör ca 5% av alla femurfrakturer. Orsakas av sidovinkling, rotation och
-axiellt våld i kombination. Ofta efter fall på flekterat knä. Incidenstoppar är
-unga män efter högenergivåld och äldre kvinnor efter fall i samma plan.
-
-::: {.callout-note}
-
-## Klassifikation
-
-- **A** Extraartikulär fraktur med intakt knäled.
-- **B** Delvis intraartikulär.
-- **C** Splittrad fraktur med ledengagemant
-
-:::
-
-##### Kliniska drag/Diagnos
-
-::: {.callout-tip}
-
-## Fynd
-
-- Synlig felställning
-- Palpömhet och smärta vid rotationprovokation
-- Kraftig svullnad av lån/knä
-- **Distalstatus**
-
-:::
-
-Rtg bekräftar diagnos. Ofta sätts dorsal gipsskena innan rtg.
-
-##### Behandling
-
-I allmänhet kirurgisk. Vid minimal felställning alternativt gravt sjuk pat med
-osteoporotiskt skellett kan sträckbehandling/helbensgips övervägas.
-
-* **A**: Retrograd märgspik alternativt skruvfixation med platta.
-* **B:** Skruvfixation + eventuellt platta.
-* **C:** Glidskruv + platta, distal femurplatta alternativt kombo med skruv och
-  märgspik. C3 är svårbehandlade och har dålig prognos även med behandling.
-
-**Följs upp** med rtg var 6-8:e vecka tills full läkning.
 
 ## Lår
 
@@ -313,6 +269,133 @@ Läker oftast väl utan resttillstånd (undantaget i lårbenshals!). Fysisk
 aktivitet bör undvikas tills man är helt smärtfri.
 
 ## Knä
+
+### Distal femurfraktur
+
+Utgör ca 5% av alla femurfrakturer. Orsakas av sidovinkling, rotation och
+axiellt våld i kombination. Ofta efter fall på flekterat knä. Incidenstoppar är
+unga män efter högenergivåld och äldre kvinnor efter fall i samma plan.
+
+::: {.callout-note}
+
+## Klassifikation
+
+- **A** Extraartikulär fraktur med intakt knäled.
+- **B** Delvis intraartikulär.
+- **C** Splittrad fraktur med ledengagemant
+
+:::
+
+##### Kliniska drag/Diagnos
+
+::: {.callout-tip}
+
+## Fynd
+
+- Synlig felställning
+- Palpömhet och smärta vid rotationprovokation
+- Kraftig svullnad av lån/knä
+- **Distalstatus**
+
+:::
+
+Rtg bekräftar diagnos. Ofta sätts dorsal gipsskena innan rtg.
+
+##### Behandling
+
+I allmänhet kirurgisk. Vid minimal felställning alternativt gravt sjuk pat med
+osteoporotiskt skellett kan sträckbehandling/helbensgips övervägas. Mobilisering
+beroende på skada, fixationstyp och belastning. Äldre mobiliseras om möjligt
+direkt efter op. Osteoprosrelaterade frakturer hos äldre bör handläggas lika
+skyndsamt som en höftfraktur.
+
+* **A**: Retrograd märgspik alternativt skruvfixation med platta.
+* **B:** Skruvfixation + eventuellt platta.
+* **C:** Glidskruv + platta, distal femurplatta alternativt kombo med skruv och
+  märgspik. C3 är svårbehandlade och har dålig prognos även med behandling.
+
+**Följs upp** med rtg var 6-8:e vecka tills full läkning.
+
+##### Prognos
+
+Läker på ca 3-5 månader.
+
+### Patellafraktur
+
+Förekommer i alla åldersgrupper.
+
+Patella omges lateralt/medialt av quadricepssenans
+förlängning/extensorretinaklen. Det betyder att även vid tvärgående fraktur kan
+extensionsförmåga finnas kvar.
+
+Uppkommer i princip på 3 sätt:
+
+1. Plötslig flektion av knät ger reflexiv quadricepskontraktion som leder till
+   fraktur.
+2. Direkt våld mot ett böjt knä.
+3. Medial avulsionsfraktur kan ske hos unga vid patellaluxation.
+
+##### Kliniska drag/Diagnos
+
+Smärta framtill i knät som ökar i rörelse efter ovanstående trauma bör inge misstanke.
+
+::: {.callout-note}
+
+## Fynd
+
+- Palpömhet, ibland med kontinuitetsavbrott
+- frakturkrepetationer
+- Smärta medialt/lateralt tyder på skada mot extensorretinaklet
+- Oförmåga/förmåga att sträcka i knäleden?
+
+:::
+
+Diagnos fås genom rtg.          
+En hel patella som ligger kranialt/kaudalt kan tyda på ruptur av
+patellar-/quadricepssenan.          
+Ett normalfynd är *patella bipartia* där det finns en liten "extrapatella" vid
+patellas överkant. Frakturer har skarpa kanter till skillnad från *patella
+bipartia*.
+
+##### Behandling
+
+- Punktion för evakuering av hematom.
+- **Bevarad sträckfunktion** --- Rtg-kontroll efter 3-6 veckort vid
+icke-kirurgisk behandling.
+  - Längsgående: Reducerad aktivitet i 3-6 veckor. Fullt rörelseomfång tillåts.
+  - Tvärgående/splittrade: Låst ortos i 3-6 veckor. Belastning axialt och
+  quadricepsträning är ok.
+- **EJ bevarad sträckfunktion** --- Behandlas kirurgiskt.
+  - Tvärfraktur och komminut fraktur med dislokation >3-4mm och/eller hak i
+  ledytan >2-3mm opereras m. cerklage och pinnar. Vid stabil fixation tillåts
+  viss belastning och träning omedelbart efter operation. Vid tveksam stabilitet
+  används låst ortos i 3-6 veckor.
+  - Vid tvärfraktur vid patellans övre pol tas det övre fragmentet bort och
+  senan fixeras vid den kvarvarande patellan följt av temporärt cerklage.
+
+##### Prognos
+
+De flesta återfår full funktion och läker på 8 veckor. Viss risk finns för att
+osteosyntesmaterial släpper. Komplikationer är ovanliga. Ytligt
+osteosyntesmaterial ger dock ofta retning och tas då bort.
+
+### Proximal tibiafraktur
+
+::: {.callout-tip}
+
+## Klassifikation
+
+- **A** --- Utan ledengagemang
+- **B** --- Med ledengagemang
+- **C** --- Ledengagerande fraktur som avlöser båda kondylerna/splitterfraktur
+med ledengagemang.
+
+:::
+
+
+##### Kliniska drag/Diagnos
+
+
 
 ## Underben
 
