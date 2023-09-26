@@ -395,7 +395,258 @@ med ledengagemang.
 
 ##### Kliniska drag/Diagnos
 
+- Patienten stödjer inte på det skadade benet.
+- Palpation ger smärta och frakturoljud om splittrad fraktur.
+- Ibland kraftig svullnad av knä och underben.
+- Vid stabilitetstest i vissa fall uppenbar instabilitet i varus/valgus.
+- Eventuellt öppen skada med genomstickssår eller utstickande benändar.
+- Nerv- och kärlskador förekommer med påverkat distalstatus.
 
+Slätröntgen bekräftar diagnos. Ofta DT inför operation.
+
+##### Behandling
+
+- **Öppen fraktur, Kompartmentsyndrom, Kärlskada** är absoluta indikationer för
+  operation.
+- **A** --- Operation eller gips
+- **B** --- Ofta operation. Steg i ledyta >10mm hos äldre/5mm hos yngre är stark
+  indikation.
+- **C** --- I princip alltid operation.
+
+Vid gips/ortosbehandling utförs rtg-kontroll efter 1-2v. Avgipsning efter ca 6
+veckor.
+
+Efter behandling bör belastning undvikas då risk för dislokation är stor vid
+axiell belastning.
+
+##### Prognos
+
+Generellt sett god även vid allvarligare frakturer. Ca 75% uppnår gott resultat. Rehabtid dock upp till 1 år.
+
+Komplikationer inkluderar kärl-/nervskador, kompartmentsyndrom, instabilitet,
+tidig artros och postoperativ infektion.
+
+### Broskskada
+
+Kan vara ytlig eller djup (=går ned till skelettet). Uppkommer ofta i
+kombination med andra knäskador. Återfinns i 85-90% av fall på den mediala
+konylen. Oftast hos barn.
+
+##### Kliniska drag/Diagnos
+
+Symtomen är ofta lindriga till att börja med och påminner om meniskskada och går
+ofta kliniskt ej att skilja från sådan.
+
+- Smärta vid belastning
+- Upphakningar
+- Krepetationer
+- Svullnad
+
+Diagnos bekräftas med **MR**.
+
+##### Behandling
+
+Behandling bestäms utifrån skadans omfattning samt relevans för symtom. Viktigt
+att skilja från begynnande artros.
+
+- **Ytliga skador/Skador < 2cm^2^** --- Debridering och abrasion -> (ofta)
+mikrofrakturering.
+- **Djupa/stora skador** --- Ett antal [behandlingar](https://www.internetmedicin.se/behandlingsoversikter/ortopedi/broskskador/) är möjliga. Efter dessa
+undviks belastning i 4-8v varefter denna successivt ökar under upp till 6
+månader.
+
+##### Prognos
+
+Ofta gott korttidsresultat. På lång sikt varierar det beroende på behandling.
+
+### Luxation
+
+#### Knäledsluxation
+
+Sällsynt men allvarligt. Ofta tillsammans med skada på ett kollateralligament
+och båda korsbanden.
+
+##### Kliniska drag/Diagnos
+
+::: {.callout-note}
+
+## Fynd
+
+- Svullnad (m. dominans lateralt/medialt)
+- Uttalad instabilitet
+- Oförmåga att stödja på benet
+- **Distalstatus**
+    
+:::
+
+Vid misstänkt kärlskada utreds detta akut med doppler/angiografi. Efter att
+kärl-/nervskada uteslutits bekräftas diagnos med Rtg(utesluter fraktur), MR
+(värdera ligamentskada) samt DT vid avulsionsfraktur eller [eminentiafraktur](https://orto.nu/injury.php?id=knee_eminence).
+
+##### Behandling
+
+- **Kärlskada** --- Ofta akut kärlkirurgi
+- **Ligamentskada** --- Rekonstrueras tillsammans med ev. meniskskada/korsbandsskada semiakut.
+
+##### Prognos
+
+Ofta >1 års rehab. Ofta uppnås ett stabilt knä med nedsatt rörlighet/funktion.
+Artrosrisk är stor. Nervskada är ofta bestående och kan ge t.ex droppfot.
+
+#### Patellaluxation
+
+Förekommer ffa efter slag mot mediala delen av knäskålen kombinerat med
+utåtrotation av tibia samt lårbensmuskelaktivering^[t.ex vid tackling i
+idrottssammanhang.].
+
+Går alltid ur led åt lateralsidan. Drar även sönder ledkapseln och ledband på
+insidan av leden.
+
+##### Kliniska drag/Diagnos
+
+**Akut** luxation ger kraftig smärta i knäleden. Vid undersökning kan patella
+ligga kvar eller ha spontanreponerats.
+
+::: {.callout-note}
+
+## Fynd
+
+- Hemartros
+- Ev. luxerad patella
+- Uttalad ömhet över patellas mediala kan
+
+:::
+
+Rtg visar ibland små benbitar som avlösts från patella/femur.           
+CT/MR kan visa övriga mjukdelsskador och eventuella broskskador hos barn som
+växer.
+
+##### Behandling
+
+**Reponering** sker ofta spontant. Annar utförs den genom att trycka på
+patella samtidigt som knät sträcks.
+
+- **Förstagångsluxation utan lösa fragment** --- Kortvarig immobilisering (t.ex
+ortos).
+- **Med lösa fragment** --- Ofta akut operation.
+
+Muskelstärkande träning är alltid rekommenderad.
+
+##### Recidiverande patellaluxation
+
+Drabbar främst kvinnor. Är i allmänhet minimalt smärtsamt. Rtg/MR görs ej
+rutinmässigt, dock inför ställningstagande till operation.
+
+###### Behandling
+
+I första hand träning. Eventuellt stabiliserande operation.
+
+###### Prognos
+
+Om besvärsfrihet ej uppnås med träning ger operation i allmänhet stabilitet med
+full funktion. Dock finns ökad risk för artrosutveckling.
+
+### Sidoledbandsruptur
+
+Uppkommer i ofta efter vridvåld i idrottssammanhang, ibland efter att man landar
+med benet vikt på foten som vrider sig. Även snedtramp kan orsaka skadan.
+
+::: {.callout-tip}
+
+## Klassifikation
+
+- **Grad I** --- <5mm skillnad i sidovackling jmf friskt ben.
+- **Grad II** --- 5-10mm skillnad.
+- **Grad III** --- >10mm skillnad. Här finns ofta även andra skador
+(meniskskada, främre korsband).
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Pat kommer ofta med gångsvårigheter och ett knä som känns ostabilt och viker sig.
+
+::: {.callout-note}
+
+## Fynd
+
+- Svullnad --- Sällan vid grad I, hemartros tyder på samtidig ACL-skada.
+- Palpationsömhet över sidoledband --- Ofta så pass uttalad att ordentlig
+undersökning ej låter sig göras i akutskedet.
+    - Ofta över fästet på femur.
+- Skillnad vid vacklingsprov --- Jämför alltid med frisk sida!
+
+:::
+
+Rtg utesluter fraktur. Vid misstanke om tibiakondylfraktur kan DT utföras. **MR
+vid misstanke om skada på fler strukturer**.
+
+##### Behandling
+
+- **Isolerad grad I-II** --- Ortos med full rörelse/belastning/träning i 1-6
+veckor. Undvik NSAID.
+- **Grad III** --- Ofta kirurgisk behandling beroende på skadans karaktär.
+Ibland finns ruptur av senfästen kring knät. Detta är en indikation för akut
+kirurgi om funktionell stabilitet ska bevaras.
+- **Äldre/låga funktionskrav** --- Ortos i 6-8v -> träning.
+
+##### Prognos
+
+Oftast bra funktion efter 6-12v. Upp till 1 år innan full funktion återfås.
+
+### Främre korsbandsskada
+
+Inträffar vanligtvis vid vridskador under idrott. Vanligast hos unga kvinnor.           
+Ca 20-50ggr vanligare än bakre korsbandsskada.
+
+::: {.callout-tip}
+
+## Klassifikation
+
+- **Grad I-III** beroende på grad av sagitell rörelse mellan *tibia* och *femur*
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Pat kommer med tilltagande smärta, svullnad, instabilitet och rörelseinskränkning. Ofta
+beskriver pat att något "hände" i knät vid skadetillfället. 
+
+::: {.callout-note}
+
+## Fynd
+
+- Positivt främre draglådetest samt Lachmans test.
+- Positivt *pivot-test* --- Patognomt för ACL-skada.
+- Fynd som tyder på menisk, sidoledbandsskada m.fl
+  - Över 50% av ACL-skador är kombinerade med andra skador.
+- Svullnad
+  - Hemartros är ACL-skada tills motsatsen bevisats!
+
+:::
+
+Rtg bör utföras för att utesluta fraktur. Vid klinisk misstanke om ACL-skada
+utför MR.
+
+##### Behandling
+
+Beror på ålder, aktivitetsnivå och skadeläge.
+
+- **icke-kirurgisk** --- 3-6mån rehab samt aktivitetsanpassning-
+  - Vid *give-way* episoder och nedsatt funktionsförmåga trots rehab kan nytt
+  ställningstagande till op tas.
+- **Primär stabiliserande op** --- Barn, unga fysiskt aktiva, de med tyngre
+jobb.
+  - Barn m. *eminentiafraktur*^[[Se -@sec-eminentia]] bör opereras inom 1 vecka. Hos övriga är optimal
+    tid då knät svullnat av och rörelseförmåga återfåtts.^[Tidigare finns ökad
+  risk för ärrbildning i knät(artrofibros).]
+
+##### Prognos
+
+Det finns ökad risk för artros oavsett behandling. Upprepade
+subluxationer/*give-way*-episoder ökar risk än mer varför dessa bör opereras.
+
+**Graftruptur** sker hos 3% av all och *20%* av unga kvinnor.
 
 ## Underben
 

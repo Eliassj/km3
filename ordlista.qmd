@@ -30,3 +30,7 @@ Kan användas vid t.ex fraktur i C5-Th1.
 
 
 ::::
+
+###### Eminentiafraktur {#sec-eminentia}
+
+Fraktur hos barn då ACL-fästet sliter av en bit av tibia.
