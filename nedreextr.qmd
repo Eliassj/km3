@@ -500,3 +500,22 @@ Vissa Weber A och B samt alla C opereras. A1 och B1 behöver aldrig opereras.
 
 Belastning är tillåtet förutsatt att stabilitet skapats. Undantaget svåra
 C-frakturer och patienter med osteoporotiskt skelett.
+
+### Fotledsfraktur
+
+::: {.callout-tip}
+
+## Ottawakriterierna
+
+100% sensitivitet, 20-50% specificitet.
+
+US är indicerad vid:
+
+- **Smärta runt malleolerna**...
+  - ...samt palpömhet vid: Bakre randen av laterala malleolen *eller* oförmåga att belasta 4 steg.
+- **Smärta i mellanfoten**...
+  - ...samt palpömhet vid: Basen av metakarpalben V *eller* över båtbenet *eller* oförmåga att belasta 4 steg.
+
+Använd **inte** på: Barn<18, vid intoxikation, Multipla smärtsamma(distraherande) skador, gravida, skallskada, neurologiska bortfall.
+
+:::
