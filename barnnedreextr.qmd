@@ -1,0 +1,33 @@
+# Nedre extremiteten
+
+## Höft
+
+### Höftfyseolys
+
+Typpatienten är en sent utvecklad pojke med högt BMI åldern 9-15. Men **alla** barn kan drabbas! Riskfaktorer inkluderar högt BMI, hypotyreos och D-vitaminbrist. Då flickor utvecklas snabbare har de ofta något lägre debutålder.
+
+::: {.callout-note}
+
+- **Stabil**
+- **Instabil** --- Likställt med fraktur. Hög risk för kärlpåverkan med caputnekros som följd.
+
+:::
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Smärta --- I synnerhet vid instabil fyseolys då pat. ofta söker akuten.
+- **Fynd**
+  - Nedsatt inåtrotation
+  - Gång med utåtroterat ben och hälta
+  - Smärta vid passiv inåtrotation
+  - Svårighet att böja höftled --- tyder på större fyseolys
+
+Klinisk misstanke, oavsett stabil/instabil, räcker för remiss till ortopedakut.
+
+Diagnos ställs ffa genom röntgen. Fråga specifikt för rätt projektioner! (Lauenstein/Billing)
+
+##### Behandling
+
+- **Lindrig-måttlig glidning** --- Fixeras  in situ med spik eller skruv.
+- **Instabil fyseolys/större glidning** --- Dålig enighet om denna bör fixeras in situ eller repositioneras. Ofta görs ett försiktigt försök till sluten repositionering. Om detta inte fungerar fixeras leden in situ för att undvika avaskulär caputnekros
