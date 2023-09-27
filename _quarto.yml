@@ -16,6 +16,9 @@ book:
         - övreextr.qmd
         - nedreextr.qmd
         - rygg.qmd
+    - part: barnortopedi.qmd
+      chapters: 
+        - barnnedreextr.qmd
   appendices:
     - ordlista.qmd
   search:
