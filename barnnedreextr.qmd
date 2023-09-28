@@ -98,3 +98,48 @@ Diagnos ställs ffa genom röntgen. Fråga specifikt för rätt projektioner! (L
 Remodellering under tillväxt kan korrigera viss felställning. Caputnekros
 behandlas som vid Perthes sjukdom ([Se -@sec-perthes]). På sikt föreligger hög
 risk för höftledsprotes.
+
+### Kongenital höftledsluxation/DDH
+
+DDH = Developmental Dysplasia of the Hip
+
+Inbegriper kongenitalt luxerad, luxerbar eller instabil höft. I Sverige upptäcks
+~15 fall/år. 5 ggr vanligare hos flickor.
+
+Sen upptäckt = >2 veckor postpartum. Dåligt för prognos!
+
+Riskfaktorer:
+
+- Ärftlighet/genetisk predisposition.
+- Hormonella faktorer --- Överproduktion av östrogen/relaxin hos modern.
+- Mekaniska faktorer --- Vanligare hos förstfödda och vid sätesbjudning. Även
+att ett byfött barn ligger med benen utsträckta kan ge risk.
+
+###### Kliniska drag/Diagnos
+
+Upptäcks vid rutinundersökning av höften neonatalt med Barlows och Ortolanis
+test.
+
+::: {.callout-tip}
+
+## DDH-tester
+
+- **Barlows test** --- Positivt om höften luxeras med manövern.
+  - Böj knä och höft till 90 grader.
+  - Palpera trochanter major med en hand samtidigt som benet adduceras 10-20
+  grader.
+  - Tryck lätt på knät.
+- **Ortolanis test** --- Positivt om höften kan repositioneras med manövern. Vid
+  reposition hörs ett "*klunk*" (inte ett "*klick*"). Utförs på redan luxerad höft (spontant eller efter Barlows).
+  - Knä och höft i 90 grader.
+  - Stabilisera pelvis med pek+långinger mot kontralaterala trochanter major,
+  tummen i ljumskvecket.
+  - Abducera den höft som ska testas.
+
+:::
+
+##### Behandling
+
+Höfterna fixeras med Von Rosen skena i 6-12 veckor beroende på
+instabilitetsgrad. Om instabiliteten är lindrig alternativt mot slutet av
+behandlingen kan Frejkabyxa användas.
