@@ -1,5 +1,46 @@
 # Övre extremiteten
 
+## Axeln
+
+### Klavikelfraktur
+
+Vanligast hos yngre män. 75% drabbar den mellersta delen, ett fåtal den mediala
+delen.              
+Uppstår oftast efter fall mot armen, 15% genom slag. Förekommer som
+förlossningsfraktur.
+
+##### Kliniska drag/Diagnos
+
+Fall/direkttrauma med smärta i klavikeln samt eventuellt hematom och svårigheter
+att lyfta armen ger misstanke.
+
+Rtg. verifierar diagnos. Vid mediala frakturer kan DT vara indicerad för att
+utesluta fragment och felställning >1 benbredd.
+
+##### Behandling
+
+I allmänhet mitella eller liknande som stödjer/håller uppe armen. Förband är
+endast i smärtlindrande syfte.
+
+Op-indikationer:
+
+- Fraktur i mellersta delen med intermediärfragment och förkortning.
+- Fraktur i laterala/mediala delen med >1 benbredds dislokation.
+- Risk för hudpenetration
+
+##### Prognos
+
+Läker i allmänhet utan resttillstånd. Frakturer i mellersta delen med
+intermediärfragment och förkortning >2cm kan ge framskjuten skuldra, utskjutet
+skulderblad, smärta och handparestesier. Andra frakturer med dislokation >1
+benbredd kan ge pseudartros.
+
+### Skapulafraktur
+
+Ovanliga bland skulderfrakturer (~3%). Orsakas oftast av högenergiskador.
+
+
+
 ## Överarmen
 
 ### Diafysär humerusfraktur
