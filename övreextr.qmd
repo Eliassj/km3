@@ -39,7 +39,59 @@ benbredd kan ge pseudartros.
 
 Ovanliga bland skulderfrakturer (~3%). Orsakas oftast av högenergiskador.
 
+Vanligast i *corpus* och *collum scapulae*. Om *incisura scapulae* är engagerad
+finns risk för påverkan på *n. suprascapularis*.
 
+##### Kliniska drag/Diagnos
+
+Högenergivåld mot skuldran (indirekt/direkt) som följs av smärta och nedsatt
+rörligheten bör inge misstanke.
+
+Rtg bekräftar diagnos. DT kartlägger fraktursystemet. Vid glenoidfraktur är DT
+*nödvändig*.
+
+###### Behandling
+
+- **Floating shoulder** --- Operativ behandling
+- **Glenoidfraktur** med dislokation i ledytan >4mm alt. omfattande >25% av
+ledytan --- Reposition och skruvfixation
+- **Glenoidfraktur** med komplex bild kombinerat med andra skapulafrakturer och
+  ligamentskador --- Omfattande operativ behandling
+- **Övriga** --- Sällan operativ. Slynga eller axellås under kort tid.
+
+##### Prognos
+
+*Corpus-/collum*frakturer läker i allmänhet utan problem. Benpålagringar kan ge
+smärtsamma knäppningar vilka kan åtgärdas kirurgiskt.           
+Skada på *n. suprascapularis* och *plexus brachialis* kan ge mer långdragna
+besvär.         
+Glenoidfraktur m. inkongruens kan ge instabilitetskänsla.           
+*Acromion*- och *pr. coracoideus*frakturer med ligamenär instabilitet kan ge
+smärta och funktionsnedsättning. Pseudartros i *spina scapulae*/*acromion* kan
+stabiliseras sekundärt.
+
+### Proximal humerusfraktur
+
+Vanligare bland kvinnor än män. 3e vanligaste extremitetsfrakturen hos äldre.
+
+##### Kliniska drag/Diagnos
+
+Smärt över proximala humerus, svullnad, hematom, svårighet att röra armen
+efter direkt axeltrauma eller fall mot utsträckt hand bör inge misstanke.
+
+Verifieras med röntgen och eventuell DT-kartläggning inför operation.
+
+##### Behandling
+
+- **Ringa felställning** --- *Collar and cuff*-bandage i 1-2 veckor.
+Röntgenkontroll efter 7-10 dagar. Immobilisering bör hållas kortare än 3 veckor.
+- **Faktur som behöver repositionering** --- Bör i allmänhet även fixeras.
+Endast sluten repositionering är nästan aldrig tillräckligt.
+
+##### Prognos
+
+God om operation inte behövs. Viss felställning är relativt vanligt men sällan
+kliniskt signifikant. Även nervskador läker oftast ut.
 
 ## Överarmen
 

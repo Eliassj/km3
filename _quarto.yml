@@ -11,14 +11,14 @@ book:
     - index.qmd
     - part: "Ortopedi"
       chapters:
-        - ortostatus.qmd
-        - allmänfraktur.qmd
-        - övreextr.qmd
-        - nedreextr.qmd
-        - rygg.qmd
-    - part: barnortopedi.qmd
+        - ortopedi/ortostatus.qmd
+        - ortopedi/allmänfraktur.qmd
+        - ortopedi/övreextr.qmd
+        - ortopedi/nedreextr.qmd
+        - ortopedi/rygg.qmd
+    - part: ortopedi/barnortopedi.qmd
       chapters: 
-        - barnnedreextr.qmd
+        - ortopedi/barnnedreextr.qmd
   appendices:
     - ordlista.qmd
   search:
