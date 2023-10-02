@@ -34,5 +34,32 @@
   },
   "ortopedi/nedreextr.qmd": {
     "nedreextr.html": "9400d964"
+  },
+  "ortopedi/ortostatus.qmd": {
+    "ortostatus.html": "dcc93f54"
+  },
+  "ortopedi/allmänfraktur.qmd": {
+    "allmänfraktur.html": "d924f009"
+  },
+  "ortopedi/övreextr.qmd": {
+    "övreextr.html": "6198e5d1"
+  },
+  "ortopedi/rygg.qmd": {
+    "rygg.html": "b1750a5e"
+  },
+  "ortopedi/barnortopedi.qmd": {
+    "barnortopedi.html": "543e46ec"
+  },
+  "ortopedi/barnnedreextr.qmd": {
+    "barnnedreextr.html": "283b9f60"
+  },
+  "urologi/tumörer.qmd": {
+    "tumörer.html": "ab62ad70"
+  },
+  "urologi/urostatus.qmd": {
+    "urostatus.html": "5293e575"
+  },
+  "urologi/prostata.qmd": {
+    "prostata.html": "94cf2592"
   }
 }

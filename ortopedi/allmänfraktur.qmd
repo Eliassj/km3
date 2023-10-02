@@ -65,7 +65,7 @@ Skiljs från vuxna då barns tjocka periostie och mjuka skellett ofta ger annan 
 - Komplett fraktur --- Vanligare hos äldre barn
 - **Utifrån lokal jmf tillväxtzon**
   - Salter-harris 1-5       
-    ![Salter-Harris](pics/1280px-SalterHarris.svg.png){width=50% height=50%}
+    ![Salter-Harris](../pics/1280px-SalterHarris.svg.png){width=50% height=50%}
 
 ## Frakturläkning
 

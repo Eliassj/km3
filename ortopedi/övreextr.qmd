@@ -469,7 +469,7 @@ Klinisk diagnos:
 - Ömhet över det första dorsala senfacket
 - Positivt finkelsteins test
 
-![Finkelsteins test](pics/Originaler_Finkelstein-Test.jpg){heigth=50% width=50%}
+![Finkelsteins test](../pics/Originaler_Finkelstein-Test.jpg){heigth=50% width=50%}
 
 Tumbasartros kan uteslutas mha rtg vid osäkerhet kring diagnos.
 

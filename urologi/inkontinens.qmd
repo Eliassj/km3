@@ -1,0 +1,8 @@
+# Inkontinens
+
+Tät = Användbar app för patienter.
+
+##### Behandling
+
+- **TVT-band** --- För uretra ventralt vilket kan hjälpa vid
+ansträngningsinkontinens.

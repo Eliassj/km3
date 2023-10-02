@@ -1,0 +1,184 @@
+# Urologiska tumörer
+
+## Peniscancer
+
+Ovanligt, drabbar 2,1/100 000 män/år. I 99% av fall gäller det skivepitelcancer
+som primärt sprids lymfogent.
+
+::: {.callout-warning}
+
+## Riskfaktorer
+
+- Rökning
+- Lichen sclerosus
+- Fimosis
+- HPV
+- Dålig hygien
+
+:::
+
+##### Kliniska drag/Diagnos
+
+**Misstanke** föreligger vid något av:
+
+- Sår som inte läker
+- Röda områden
+- Förhårdnad
+- Illaluktande flytningar från trång förhud
+- Återkommande blödningar
+- Smärta
+
+*Misstanke* utan annan uppenbar orsak ska föranleda urolog-/dermatologkontakt.
+
+**Välgrundad misstanke** föreligger vid:
+
+- **Misstanke** kombinerat med lymfkörtelsvullnad inguinalt.
+- Bedömning av sådan hos urolog/dermatolog
+- Histopatologiska fynd talande för peniscancer
+
+*Välgrundad* misstanke ska föranleda SVF-remiss.
+
+##### Behandling
+
+- **Lokal sjukdom** --- Topikal behandling, lokal excision.
+- **Invasiv sjukdom** --- Nästan uteslutande kirurgisk behandling.
+
+##### Prognos
+
+Följs upp i 5 recidivfria år. De flesta återfall kommer dock inom 2 år.
+
+5-årsöverlevnaden är 73% och prognosen i stort styrs ffa av
+lymfkörtelmetastaser.
+
+## Testiscancer
+
+Ovanligt sett till hela befolkningen. Dock vanligaste cancerformen hos män
+15-35 och näst vanligast 35-39.
+
+::: {.callout-tip}
+
+## Klassificering
+
+- **Seminom** --- Utgår från germinalcellerna, utgör 60% av fall varav vilka 85%
+  är begränsade till testikeln.
+- **Icke-seminom** --- 40% har spridd sjukdom vid diagnos.
+
+:::
+
+::: {.callout-warning}
+
+## Riskfaktorer
+
+- Kryptorchidism
+- Hereditet --- Broder med testiscancer ger högst riskökning
+- Tidigare testiscancer --- 3-5% får en andra testikelcancer
+
+:::
+
+##### Kliniska drag/Diagnos
+
+**Misstanke** föreligger vid något av:
+
+- Förändrad stolek/konsistens av testikel
+- Smärta, obehag, tyngdkänsla i testikel utan annan förklaring
+- Misstänkt epididymit där symtom kvarstår >3 veckor trots behandling
+- Nytillkommen bröstkörtelförstoring utan annan förklaring
+
+Vid *misstanke* ska testiklar undersökas och beta-hCG tas vid nytillkommen
+bröstkörtelförstoring utan annan orsak.             
+Vid kvarstående misstanke remitteras patienten till akut (inom 5 dagar) ultraljud. Vid tecken på
+metastaserad sjukdom eller mycket höga tumörmarkörer (AFP/beta-hCG) handläggs
+patienten akut via regionansvarig onkolog.
+
+**Välgrundad** misstanke föreligger vid:
+
+- Palpabel knöl i testikel
+- Testikeltumör vid bilddiagnostik
+- Förhöjt AFP utan leversjukdom
+- Förhöjt beta-hCG
+- Histopatologiskt fynd talande för germinalcellscancer
+
+Vid *välgrundad* misstanke utfärdas SVF-remiss.
+
+##### Behandling
+
+- **Samtliga** --- Orchidektomi samt erbjudan om nedfrysning av spermier.
+- **Seminom**
+  - Stadie I (samtliga alternativ ger överlevnad 98-99%):
+    - Carboplatin AUC x7
+    - Täta kontroller --- 15-20% utvecklar metastaser. I dessa fall ges
+    cytostatika, lymfkörtelutrymning eller strålbehandling.
+    - Strålbehandling mot paraaortala +/- iliaca lymfkörtlar.
+  - Med metastaser:
+    3 cykler BEP
+- **Icke-seminom**
+  - Spridd sjukdom eller riskfaktorer för sådan(t.ex mikroskopisk kärlinväxt):
+    - BEP
+
+## Prostatacancer
+
+Vanligaste cancerformen bland män.          
+
+Drygt 50% av 50~60 åringar har prostatacancer i obduktionsstudier. De allra
+flesta kommer inte dö/få symtom av det.
+
+::: {.callout-tip}
+
+## PSA
+
+**Normalvärden:**
+
+- **<70:** <3 mikrogram/L
+- **70-80:** <5 mikrogram/L
+- **>80:** <7 mikrogram/L
+
+$PSAdensitet = \frac{PSAvärde}{körtelvolym}$ 
+
+PSA-densitet > 0.15 stärker malignitetsmisstanke.
+
+:::
+
+##### Kliniska drag/Diagnos
+
+Var frikostig med misstanke hos äldre män vid skelettsmärta och symtom från
+området kring prostatan (t.ex LUTS, obehag i perineum m.m).
+
+###### Undersökningar
+
+- **Biopsi:**
+  - Kan guidas med MR. Annars sticks på 12 ställen enligt schema. Gör ont och
+    är jobbigt för patienten.
+- **MR**
+  - Röntgenläkare sätter PI-RADS 1-5, ju högre desto högre misstanke om kliniskt relevant cancer.
+- **PSMA-PET-CT**
+  - Utförs ffa på höggradiga tumörer (cT3^[**c**T3 = klinisk bedömning, **p**T3 = patologens bedömning] alt. Gleason > 4+3 = 7 i mer än 50%
+  av *systematiska* biopsier *eller* i riktade biopsier vid PI-RADS 5 alt. PSA > 20).
+
+## Blåscancer
+
+**Alla** > 50 med makrohematuri ska utredas för blåscancer! Även många <50 ska
+utredas.            
+Vid plötsliga UVI-symtom utan påvisbar infektion bör man tänka lite på cancer.
+
+##### Kliniska drag/Diagnos
+
+###### Misstanke
+
+
+
+##### Behandling
+
+- **TUR-B** --- Trans Uretral Resektion av Blåsa aka hyvling.
+- **BCG** --- Sprutas in i blåsan mha tappningskateter. Ger ibland
+blås-tuberkulos och ofta UVI-/Cystitsymtom.
+Var frikostig med misstanke hos äldre män vid skelettsmärta och symtom från området kring prostatan (t.ex LUTS, obehag i perineum m.m).
+- **FDG-PET-CT**
+
+###### Rekonstruktion
+
+- **Bricker**
+- **Lundiana**
+
+## Njurcancer
+
+Hittas relativt ofta som bifynd vid DT-us av andra anledningar.
