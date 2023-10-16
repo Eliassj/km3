@@ -1,0 +1,163 @@
+# Expansiva processer i njurarna
+
+Upptäcks nuförtiden oftast incidentellt vid DT-/ULJ-undersökningar av andra
+andra anledningar.
+
+**Möjliga expansiviteter**
+
+|                                | **Benigna**                        | **Maligna**                                                            |
+| ---:                           | :---                               | :---                                                                   |
+| **Parenkymala expansiviteter** |                                    |                                                                        |
+|                                | Enkla njurcystor                   | Klarcellig njurcancer<br>*75-80% av njurcancer*<br>*VHL-deletion (3p)* |
+|                                | Polycystisk njursjukdom            | Papillär njurcancer<br>*10-15% av njurcancer*                          |
+|                                | Metanefriska adenom                | Kromofob njurcancer<br>*5% av njurcancer*                              |
+|                                | Papillära adenom                   | Collecting duct carcinoma<br>*<1% av njurcancer*                       |
+|                                | Onkocytom                          | Oklassificerbar njurcancer<br>*3-5% av njurcancer*                     |
+|                                | Angiomyolipom                      | Wilms tumör (Nefroblastom)                                             |
+| **Njurbäckentumörer**          |                                    |                                                                        |
+|                                | Njurbäckenpapillom                 | Njurbäckencancer                                                       |
+| **Mesenkymala tumörer**        |                                    |                                                                        |
+|                                | Leiomyom                           | Leiomyosarkom                                                          |
+|                                | Fibrom                             | Fibrosarkom                                                            |
+|                                | Hemangiom                          | Hemangiopericytom                                                      |
+|                                | Lymfangiom                         | Rabdomyosarkom                                                         |
+|                                | **Inflammatoriska expansiviteter** | **Metastaser**                                                         |
+|                                | Abscess                            | Solida tumörer                                                         |
+|                                | Pyelonefrit                        | Lymfom                                                                 |
+|                                | Tuberkulos                         |                                                                        |
+|                                | Xantogranulomatös pyelonefrit      |                                                                        |
+|                                | Malakoplaki                        |                                                                        |
+
+: Klassifikation av njurexpansiviteter {#tbl-njurexpansiviteter .responsive}
+
+## Maligna expansiviteter
+
+### Njurcancer
+
+::: {.callout-tip}
+
+## Riskskattning enl. heng
+
+- Karnovsky performance status <80%
+- Hb <normalt
+- Tid från diagnos till behandling >1år
+- Calcium >normalt
+- TPK >normalt
+- LPK >normalt
+
+1 kriterie = 1 poäng            
+Fler poäng = dåligt
+
+:::
+
+##### Familjär njurcancer
+
+- **von Hippel-Lindaus sjukdom** --- 3p-deletion
+  - Ger även retinala angiom, hemangioblastom i bakre skallgropen och njurcystor
+    av vilka 50% utvecklas till cancer.
+- **MET-mutation** --- Ger papillär njurcancer
+- **Hereditär klarcellig njurcancer** --- t(3;8), t(3;6)
+
+##### Kliniska drag/Diagnos
+
+Njurtumörer upptäcks oftast inte pga sina symtom. Vid klinisk presentation har
+tumören i allmänhet hunnit bli relativt stor
+
+- **Symtom**
+  - *Urologiska* --- Finns hos ca 1/3 av pat. med kliniskt märkbara symtom.
+    - Flanksmärta*
+    - Hematuri*
+    - Palpabel tumör*
+    - Varikocele hos män
+  - *Paraneoplastiska* --- Vanligt, orsak till diagnos hos 20-40%. Kan förekomma
+    både vid lokal och spridd sjukdom.
+    - Cushinglika symtom
+    - Leverdysfunktion --- Stauffers syndrom, oftast ej pga levermetastaser.
+    - Anemi
+    - Polycytemi
+    - Hypertension
+    - Hyperkalcemi
+    - Trombocytos
+    - Febrilitet
+    - Sjukdomskänsla
+    - Viktnedgång
+* **Bilddiagnostik**
+  - DT buk+thorax --- Tunna snitt med kontrast i 3 faser (utan, parenkym, utsöndring). Skillnad >20 Hounsfields =
+  kontrastuppladdande.
+  - MR --- Likvärdigt DT. Används ffa vid kontrastallergi/låg njurfunktion.
+    Förstahandsval vid utredning av tumörtromb.
+  - ULJ --- Kan utesluta tumörtromb i höger förmak.
+* **Njurfunktionsundersökning** --- Utförs på de med nedsatt/risk för nedsatt
+njurfunktion i samband med behandling samt på alla inför kirurgi.
+  - Clearanceundersökning
+  - Njurskintigrafi
+* **Biopsi** --- Utförs inför val av behandling vid minimalinvasiv behandling.
+Sällan indicerat när operation planeras.
+
+*: Del av "klassisk" triad. Ses hos <10%.
+
+**Cystiska** förändringar behöver ofta inte utredas vidare. Detta bestäms av
+klassifikationssystem som t.ex [Bosniak I-IV](https://kunskapsbanken.cancercentrum.se/diagnoser/njurcancer/vardprogram/diagnostik/#chapter-9-7-Cystiska-expansiviteter:~:text=Tabell%204.%20Kategorisering%20av%20cystiska%20njurexpansiviteter%20p%C3%A5%20DT%2C%20baserad%20p%C3%A5%20Bosniaks%20klassifikation%20version%202019%20(28)%2C%20med%20f%C3%B6rklarande%20kommentarer.)
+
+**Metastaser** utreds i standardfallet med DT-thorax. Skelettundersökning (I
+första hand skint, andra hand MR) ingår
+inte som standard men utförs vid symtom/tecken (smärta, förhöjt ALP m.m).           
+DT-skalle genomförs vid minsta misstanke.
+
+###### Stadieindelning
+
+- **T**
+  - **1** --- Tumör <= 7cm begränsad till njure.
+    - **a:** Tumör <= 4cm
+    - **b:** 4cm < Tumör <= 7cm
+  - **2** --- Tumör > 7cm begränsad till njuren.
+    - **a:** 7cm < Tumör <= 10cm
+    - **b:** Tumör > 10cm
+  - **3** --- Invaderar sinusfett/perinefrisk vävnad innanför Gerotas fascia.
+    - **a:** Ingen kärlutväxt utanför *v. renalis*
+    - **b:** Tumörtromb under diafragma
+    - **c:** Tumörtromb över diafragma
+  - **4** --- Invaderar utanför Gerotas fascia.
+- **N**
+  - **0** --- Ingen lymfkörtelmetastas
+  - **1** --- 1 lymfkörtelmetastas
+  - **2** --- Flera lymfkörtelmetastaser
+- **M**
+  - **0** --- Inga fjärrmetastaser
+  - **1** --- Fjärrmetastaser
+
+##### Behandling
+
+###### Icke-metastaserad sjukdom
+
+- **Enkel nefrektomi** --- Kan utföras laparoskopiskt. Ffa vid benigna diagnoser. Kan övervägas vid små
+tumörer hos äldre eller de med samsjuklighet.
+- **Radikal nefrektomi** --- Njuren med perirenalt fett, all vävnad över och
+lateralt om *v. cava* samt binjure(kan lämnas kvar beroende på DT) tas ut.
+Lymfkörtelutrymning är ffa i stadieindelningssyfte.
+- **Kirurgi vid veninvasion** --- Prognostiskt dåligt. Komplex kirurgi.
+- **Nefronsparande kirurgi** --- Indikationer inkluderar:
+  - Funktionell/anatomisk singelnjure
+  - Famliljär njurcancer
+  - Tumör <4cm, upp till 7cm i vissa fall.
+
+###### Metastaserande sjukdom
+
+- **Nefrektomi** --- Kontroversiellt. Nefrektomi + Interferon tycks ge längre
+överlevnad jmf endast interferon.
+- **Njurartärembolisering** --- Palliativ behandling
+- **Immunterapi** --- Interferon och/eller IL-2 ger partiell eller komplett
+remission hos 15-25%. 5% får lång recidivfrihet.
+- **Hormonell behandling** --- Progesteron eller antriöstrogener ger remission
+i enstaka fall. Kan dock även ge bättre aptit och välbefinnande.
+- **Målriktad behandling** --- anti-VEGF, -PDGF, mTOR. 
+- **Kirurgi mot metastaser** --- Saknas randomiserade studier. Ffa hos yngre med
+  goda prognostiska faktorer.
+- **Strålterapi** --- Ffa vid skelett-/hjärnmetastaser.
+
+**Uppföljning** sker oavsett om sjukdomen är spridd eller ej (ca 1/3 av de utan
+känd spridd sjukdom kommer få metastaser senare).
+
+### Njurbäckencancer
+
+

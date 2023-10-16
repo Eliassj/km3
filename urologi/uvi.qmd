@@ -1,0 +1,48 @@
+# Urologiska infektioner
+
+## Epididymit
+
+Mycket vanligt hos sexuellt aktiva, hos dessa associerat med klamydia. Även
+vanligt hos äldre med resurinproblematik här är *e. coli* vanligast.        
+Tuberkulos-epididymit förekommer ffa hos immunsupprimerade.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Svullnad, rodnad, värmeökning av (oftast) ena skrotalhalvan
+  - Intensiv ömhet
+  - Sjukdomskänsla
+  - Ibland feber
+- **Status**
+  - Palpera --- Vid fluktuerande område misstänks abscess
+- **Labb**
+  - Urin- +blododling
+  - CRP, LPK
+  - STD-kontroll hos yngre/sexuellt aktiva
+- **Bilddiagnostik**
+  - ULJ kan utesluta abscess
+  - Kontrollera resurin hos äldre
+
+::: {.callout-tip}
+
+## Diffdiagnoser
+
+- Skrotalabscess
+- Testistorsion
+- Testikeltumör
+
+:::
+
+##### Behandling
+
+- **Misstänkt klamydiainfektion** --- Tetracyklin
+- **Andra** --- Ciprofloxacin *eller* Trimetoprim + Sulfa
+- **Abscess** --- Incision på OP
+- **Epididymo-orkit** med nedsatt AT --- Ev. inneliggande vård
+
+Eventuellt även NSAID.        
+Behandlas i 2-4 veckor.
+
+## Orkit
+
+TODO: Detta

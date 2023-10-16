@@ -22,8 +22,18 @@ book:
     - part: "Urologi"
       chapters:
         - urologi/urostatus.qmd
+        - urologi/akutskrotum.qmd
+        - urologi/hematuri.qmd
+        - urologi/stensjukdom.qmd
+        - urologi/uvi.qmd
+        - urologi/njurexpans.qmd
         - urologi/prostata.qmd
         - urologi/tumörer.qmd
+    - part: "Anastesi"
+      chapters:
+        - anastesi/läkemedel.qmd
+        - anastesi/preopbedömning.qmd
+        - anastesi/luftväg.qmd
   appendices:
     - ordlista.qmd
   search:
@@ -42,6 +52,3 @@ format:
   pdf:
     documentclass: scrreport
     number-depth: 3
-
-
-

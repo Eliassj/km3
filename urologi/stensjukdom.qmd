@@ -1,0 +1,124 @@
+# Stensjukdom
+
+## Uretär-/njurbäckensten
+
+Vanligt, 10--20% av män och 3--5% av kvinnor drabbas någon gång.            
+30% recidiverar vid singelkonkrement och 50% vid multipla konkrement.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Flanksmärta --- Plötslig, intensiv, intervallartad, krampliknande. Pat. vill
+  oftast ej vara still. Står upp något framåtlutad. När stenen rör sig nedåt kan
+  smärtan istället projiceras mot ljumsken.
+  - Trängningar --- Pga retning av urinblåsan.
+  - Dysuri
+  - **Infektionssymtom** --- Kan tyda på avstängd pyelit!
+
+- **Labb**
+  - S-krea
+  - Elstatus
+  - CRP
+  - Vita
+  - U-odling vid feber
+  - Utredning avseende behandlingsbar sekundärprevention vid minst 1 tillfälle
+    - S-Ca-jon & S-Urat
+  - Analys av passerad/extraherad sten
+  - Metabol analys av urin i utvalda fall
+- **Bilddiagnostik**
+  - Akut CT-urografi
+  - CT-urinvägar vid högt S-krea
+
+Vid typiska symtom med mikrohematuri hos pat. med tidigare stensjukdom kan pat.
+anses ha ett nytt anfall utan vidare akut utredning.
+
+###### Diffdiagnoser
+
+- Nyinsjuknande avtar med ålder. Tänk på aneurysmruptur/-expansion och GI-perforation/-ischemi hos äldre!              
+- Appendicit
+- Extruterin graviditet
+- Divertikulit
+- Pleurit
+- Prostatit
+- Gallsten
+
+##### Behandling
+
+Vid typiskt anfall ges analgetika direkt varefter anamnes och status
+kompletteras.
+
+1. inj. Diklofenak 50-75mg
+2. Opioid vid allergi mot ovanstående. Dock sämre effekt.
+
+- **Väl smärtstillad patient med endast lätt stegrat kreatinin utan tecken på
+urinvägsinfektion** Hemskickas med remiss till poliklinisk DT-urografi inom
+2-3 veckor.
+  - alpha-blockad (t.ex alfuzosin 10mg/dag) kan öka chansen till spontan
+  stenpassage.
+  - Ökat vätskeintag ger *inte* lättare passage men kan ge ökad smärta pga ökad
+  urinmängd.
+  - Vid upprepade smärtanfall, smärta med feber, anfall som inte lindras av
+  diklofenak + spasmofen supp bör söka akutmottagning igen och genomgå
+  DT-urografi/urinvägar.
+- **Indikationer för akutinläggning:**
+  - *Adekvat smärtlindring kan ej uppnås* --- Kan kräva akut kirurgi eller
+  avlastning med stent.
+  - *Avstängd pyelit* --- Verifieras med rtg, kräver akut avlastning samt iv
+  antibiotika.
+  - Samtidig förekomst av konkrement och urinvägsinfektion med feber och nedsatt
+    AT.
+
+Stenar mindre än 5--6mm avgår i allmänhet spontant. Stenar >7mm kräver ofta
+*aktiv behandling*.
+
+###### Aktiv behandling
+
+- **Njurbäcken-/proximala stenar**
+  - *ESVL* --- Extrakorporeal StötVågsLitotropsi
+  - Endoskopisk ureterolitotripsi med laser --- Ffa vid stenar >10mm
+- **Distala uretärstenar**
+  - Ureterolitotripsi med laser
+- **Njurbäckenstenar >20mm**
+  - Perkutan stenextraktion
+
+::: {.callout-tip}
+
+## Gravida
+
+- Undvik DT, MR och ULJ bättre.
+- Diklofenak är kontraindicerat. Använd opioider istället.
+- Invasiv avlastning vid svår smärta
+  - Nefrostomi alt. JJ-stent
+  - Icke-akut ureterolitotripsi under 2a trimestern.
+:::
+
+## Blåssten
+
+Orsakas i Sverige av långvariga problem med resurin alternativt permanent KAD.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Strålavbrott under pågående miktion
+  - Recidiverande urinvägsinfektioner
+  - Hematuriepisoder
+  - Suprapubisk smärta/obehag
+  - Erosion/punktion av kateterballong hos kateterbärare
+
+**Diagnos** fås via cystoskopi.
+
+::: {.callout-tip}
+
+## Diffdiagnoser
+
+- Blåscancer
+- Prostatacancer
+- BPH
+
+:::
+
+##### Behandling
+
+Remiss till urolog för cystoskopi.      
+Avlägsnande av stenar transuretralt. Mycket stora stenar kan tas bort i öppen
+kirurgi.

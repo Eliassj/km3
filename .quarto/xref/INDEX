@@ -61,5 +61,29 @@
   },
   "urologi/prostata.qmd": {
     "prostata.html": "94cf2592"
+  },
+  "urologi/hematuri.qmd": {
+    "hematuri.html": "345f01c3"
+  },
+  "urologi/njurexpans.qmd": {
+    "njurexpans.html": "7db41785"
+  },
+  "urologi/akutskrotum.qmd": {
+    "akutskrotum.html": "fe96ec49"
+  },
+  "urologi/stensjukdom.qmd": {
+    "stensjukdom.html": "f62127e6"
+  },
+  "anastesi/läkemedel.qmd": {
+    "läkemedel.html": "3accafe5"
+  },
+  "anastesi/preopbedömning.qmd": {
+    "preopbedömning.html": "59ba62a4"
+  },
+  "urologi/uvi.qmd": {
+    "uvi.html": "6aeb59dc"
+  },
+  "anastesi/luftväg.qmd": {
+    "luftväg.html": "cd8e3b7f"
   }
 }

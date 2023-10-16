@@ -1,0 +1,48 @@
+# Akut skrotum
+
+Skrotal smärta med akut debut är i merparten (75-95%) av fallen något av:
+
+- Testistorsion
+- Epididymit
+- Torsion av (Morgagnis) hydatid
+
+Andra akuta orsaker inkluderar:
+
+- Inklämt ljumskbråck
+- Testikeltrauma m. kontusion eller ruptur
+- Fourniers gangrän
+- Skrotalabscess
+- Inflammation i bukhållan med peritonit i öppetstående *tunica vaginalis*
+- Inflammation eller blödning i testikeltumör.
+
+Icke-akuta orsaker som kan debutera med samma symtom:
+
+- Idiopatiskt skrotalödem
+- Henoch-Schönleins purpura
+- Varicocele
+- Hydrocele
+- Spermatocele
+
+##### Handläggning
+
+Testistorsion måste *alltid* uteslutas. Det finns inga kliniska
+undersökningsmetoder som säkert kan utesluta diganosen. Doppler-ULJ är
+användbart med van undersökare men får inte fördröja exploration.
+
+- **Anamnes**
+  - Smärtduration --- Den viktigaste uppgiften!
+- **Status**
+  - Testikulär ömhet --- Frånvaro utesluter *inte* torsion.
+  - Utsläckt cremasterreflex --- Talar starkt för torsion. Frånvaro utesluter
+  *inte* torsion.
+  - Testikel i vertikalläge i stående --- Talar *starkt* för torsion. Ses dock
+  endast hos ca 50% av pat. med torsion.
+  - Ömhet över epididymis --- Talar för epididymit men förekommer *även* vid
+  torsion.
+  - Ömhet vid övre testispolen --- Talar för morgagnis hydatid men utesluter
+  *inte* torsion.
+  - Prehns tecken --- Lyft skrotum med handen, om smärtan minskar talar detta
+  för epididymit. Utesluter *inte* torsion.
+  - Undersök även **bråckportar** och gör **bukstatus** då bråck och ileus kan ge
+  skrotal smärta!
+

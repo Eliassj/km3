@@ -1,0 +1,198 @@
+# Anestesiläkemedel
+
+## Analgesi
+
+##### Fentanyl
+
+##### Remifentanil
+
+##### Alfentanil
+
+## Anestesi
+
+##### Propofol
+
+##### Thiopental
+
+##### Ketanest
+
+## Relaxantia
+
+##### Celocurin/Suxametason
+
+##### Rocuronium
+
+##### Mivacurium
+
+## Tryckhöjande
+
+## Antikolinergika
+
+## Antidoter
+
+## Lokalanestetika
+
+##### Ropivacain
+
+## Antiemetika
+
+```{dot}
+#| column: column-screen-right
+digraph koag {
+  layout = dot
+  rankdir = TB
+  bgcolor = white
+
+  node [shape = none]
+  1 [label = "I"]
+  2 [label = "II"]
+  3 [label = "III"]
+  5 [label = V
+     shape = circle
+     color = darkgreen]
+  7 [label = VII]
+  9 [label = IX
+     shape = circle
+     color =  orange3
+     fixedsize = true
+     height = 0.5
+     width = 0.5]
+  10 [label = X]
+  11 [label = XI]
+  12 [label = XII]
+  13 [label = XIII]
+//  4 [label = "IV"]
+//  6 [label = VI]
+  8 [label = VIII
+     shape = circle
+     color =  orange3
+     fixedsize = true
+     height = 0.5
+     width = 0.5]
+  HemA [label = "Hemofili A"
+        fontcolor =  orange3]
+  HemB [label = "Hemofili B"
+        fontcolor =  orange3]
+  Antitrombin [label = "Antitrombin"]
+  trombmod [label = "Trombomodulin"]
+//  protS [label = "Protein S"]
+  protC [label = "Protein C"]
+  plasminogen [label = "Plasminogen"]
+  plasmin [label = "Plasmin"]
+ // tPa [label = "tPa, Urokinas, Kallikrein"]
+ vWF [label = vWF
+     shape = circle
+     color = gray28
+     fixedsize = true
+     height = 0.5
+     width = 0.5]
+  TTP [label = "TTP"
+        fontcolor = gray28]
+  vwfsjkd [label = "von Willebrands\nsjukdom"
+        fontcolor = gray28]
+  apcres [label = "APC-resistens\nf-V Leiden";
+          fontcolor = darkgreen]
+
+  TTP -> vWF [arrowhead = none
+             color = gray28
+             fontcolor = gray28
+             style = "dotted"
+             minlen = 1
+             label = Ansamling
+             decorate = true]
+  vwfsjkd -> vWF [arrowhead = none
+             color = gray28
+             fontcolor = gray28
+             style = "dotted"
+             minlen = 1
+             label = brist
+             decorate = true]
+  vWF -> 8 [arrowhead = none
+            style = dashed
+            label = "Stabiliserar"]
+  apcres -> 5 [constraint = true
+               color = darkgreen
+               arrowhead = none
+               style = dotted]
+
+  Antitrombin -> {10; 2} [color = red
+                          style = dashed
+                          arrowhead = tee]
+  HemA -> 8 [arrowhead = none
+             color =  orange3
+             fontcolor =  orange3
+             style = "dotted"
+             minlen = 1]
+  HemB -> 9 [arrowhead = none
+             color =  orange3
+             fontcolor =  orange3
+             style = "dotted"
+             minlen = 1]
+  7 -> 9 [color = green3]
+  8 -> 9 [label = Kofaktor
+          decorate = true
+          color = deepskyblue3
+          fontcolor = deepskyblue3
+          constraint = true]
+
+ 	subgraph cluster_0 {
+    style = filled
+    color = lightblue
+		node [style=filled]
+		3 -> 7 [color = green3]
+		label = "Extrinsic"
+	}
+
+  subgraph cluster_1 {
+    style = filled
+    color = darksalmon
+    12 -> 11 -> 9 [color = green3]
+    label = "Intrinsic"
+  }
+
+  subgraph cluster_2 {
+    style = filled
+    color = deeppink
+    plasminogen -> plasmin [label = "tPA\n Urokinas\nKallikrein"]
+  }
+
+  plasmin -> {1} [label = "Degraderar"
+                  fontcolor = red
+                  color = red
+                  style = dashed
+                  arrowhead = tee]
+
+    trombmod -> protC [color = green3
+                       style = dashed
+                       label = "Protein S"]
+    protC -> {5; 8} [style = dashed
+                     color = red
+                     arrowhead = tee]
+    2 -> trombmod [constraint = false;
+                   color = aquamarine4
+                   style = dashed
+                   label = "Kofaktor"
+                   decorate = true
+                   fontcolor = aquamarine4]
+
+  {9; 7} -> 10  [color = green3]
+  10 -> 5 -> 2 -> 1 [color = green3]
+  13 -> 1 [label = "Stabiliserar"
+           color = deepskyblue]
+  2 -> 13 [color = green3]
+
+  subgraph {
+    rank = same; 1; 13
+  }
+  subgraph {
+    rank = same; 5; 2; 10
+  }
+  subgraph {
+    rank = max; apcres
+  }
+
+2 -> {5; 11} [constraint = false; color = aquamarine4; style = dashed]
+2 -> 8 [constraint = false; label = "Positiv feedback"; color = aquamarine4; decorate = true; fontcolor = aquamarine4; style = dashed]
+} | cmd -Tsvg
+```
+

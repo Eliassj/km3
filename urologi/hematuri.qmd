@@ -1,0 +1,81 @@
+# Hematuri
+
+Hematuri definieras som >1-3 erytrocyter/högförstoringsfält(x400) vid
+mikroskopering.         
+**Urinsticka** som analysmetod ger utslag vid 1-2 erytrocyter/fält och ger
+därför hög risk för falskt positivt utslag. Även myoglobinuri, hemoglobinuri och
+vissa bakterier som bildar pseudoperoxidas^[Enterobacter, stafylokocker och
+streptokocker] kan ge positiv sticka.
+
+## Mikroskopisk hematuri
+
+**Asymtomatisk** mikroskopisk hematuri har ytterst sällan någon klinisk
+relevans. Vidare utredning är oftast inte indicerad om inte starka
+riskfaktorer/andra tecken på sjukdom föreligger. Testet bör därför inte användas utan riktad frågeställning och en idé
+om hur eventuellt positivt utfall ska utredas vidare.
+
+## Makroskopisk hematuri
+
+Ses vid erytrocytkoncentrationer över 5*10^9^/l (~1ml blod/l urin). Makroskopisk
+hematuri kan vara tyst eller associerad med symtom.
+
+::: {.callout-tip}
+
+## Andra orsaker till rödfärgad urin
+
+- Hemomyoglobinuri --- Vid intravasal hemolys, ger till skillnad från
+nedanstående positiv urinsticka.
+- Paroxysmal nokturnal hematuri (PNH)
+- Porfyrier --- Kan skiljas m. porfobilinogentest
+- Röda födoämnen
+- Läkemedel --- t.ex nitrofurantoin och doxorubicin
+
+:::
+
+Makroskopisk hematuri ska nästan alltid tas på största allvar då malignitet
+finnes i upp till 50% av de som *remitteras för utredning*.
+
+**Orsaker till makroskopisk hematuri:**
+
+- **Urinblåsecancer** --- Vanligaste orsaken vid utredning
+- **Njurcancer** --- Brukade vara ett kardinalsymtom innan upptäckt via
+DT/ultraljud blev vanligt. Dålig korrelation med grad/stadie av tumören.
+- **Prostatacancer**
+- **Sten** --- Relativt ovanligt, oftare mikroskopisk hematuri.
+- **Infektion** --- Den absolut vanligaste orsaken. Sekundär infektion är dock
+relativt vanligt vid tumörsjukdom!
+- **Prostatahyperplasi** --- Prevalens relativt okänd. 10% av kirurgifall har
+hematuri som indikation.
+- **IgA-nefrit**
+- **Fysisk ansträngning**
+
+::: {.callout-important}
+## Antikoagulantia och infektion
+
+Hematuri hos en patient med välinställd antikoagulansbehandling bör handläggas på samma
+sätt som hos en patient utan sådan!^[https://pubmed.ncbi.nlm.nih.gov/10654888/]         
+Inte heller infektion bör avleda från utredning.^[https://pubmed.ncbi.nlm.nih.gov/21917488/]
+
+:::
+
+###### Utredning
+
+- **Anamnes**
+  - Födointag, medicinering, trauma etc som kan ge rödfärgad urin.
+  - Hereditet
+  - Arbete, socialt
+  - Rökning
+- **Status**
+  - Prostata, varicocele, påverkan av blodförlust
+- **Labb**
+  - Urincytologi!!!
+  - SR, CRP
+  - S-kreatinin
+  - Hb
+  - PSA
+  - U-sticka
+  - Urinodling i vissa fall
+- **Bilddiagnostik**
+  - Cystoskopi!!!
+  - DT-urinvägar!!! utan kontrast samt kontrast i fyllnads- och utsöndringsfas.
+

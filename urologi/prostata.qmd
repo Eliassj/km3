@@ -3,7 +3,13 @@
 ## Benign prostatahyperplasi
 
 I stort sett alla män får förr eller senare någon grad av BPH. Tillväxten av
-prostata sker genom hyperplasi.
+prostata sker genom hyperplasi. Denna sker ffa i *transitionszonen*. Korrelation
+mellan storlek, obstruktion och symtom är svag.
+
+Det finns ingen konsensus om exakt vad BPH är (förutom den histopatologiska
+diagnosen), hur man får det och varför symtom
+uppträder.
+
 
 ##### Kliniska drag/Diagnos
 
@@ -11,5 +17,77 @@ prostata sker genom hyperplasi.
   - LUTS, ffa lagringssymtom
   - Hematuri --- Kan förekomma men ska föranleda *samma utredning som vid
   hematuri utan BPH*
-- **Fynd**
-  - Förstorad prostata vid pr.
+  - Skelettsmärta vid metastaserande sjkd.
+- **Status**
+  - Förstorad prostata vid pr
+- IPSS-score, dryckes-/miktionslista
+- Flödesmätning
+- Urodynamisk utredning vid misstanke om andra orsaker till symtom^[Parkinson,
+rest efter stroke, MS m.fl]
+- **Bilddiagnostik**
+  - Cystoskopi *vid atypiska symtom*
+  - Resurinkontroll
+  - TRUL *vid cancermisstanke*
+- **Labb**
+  - PSA
+  - Krea
+
+::: {.callout-tip}
+
+## Diffdiagnoser
+
+- Prostatit
+- Blåshalsskleros
+- Uretrastriktur
+- Prostatacancer
+- Blåssten
+
+:::
+
+##### Behandling
+
+Kirurgi, medicinsk alternativt kronisk kateter/RIK.
+
+**IPSS** kan guida:             
+Under 8p -> exspektans           
+8--18p -> Medicinsk Behandling         
+Över 18p -> Kirurgisk behandling
+
+- **Medicinsk behandling**
+  - *Finasterid* --- 5-alfa-reduktashämmare som minskar konvertering av
+  teestosteron till DHT. Kan krympa prostata med 30% över 3--6 månader.
+  Rekommenderas till körtlar >40g. PSA ska reduceras med 50% efter 6 månaders
+  behandling.
+  - *Alfuzosin* --- Alfa-receptorblockerare som relaxerar glatt muskulatur i
+  blåshals och prostatisk uretra. Ger effekt inom 14 dagar. Mer
+  biverkningar^[Yrsel, huvudvärk m.fl]. Försiktighet till äldre, kärlsjuka och
+  de med falltendens!
+  - *Tolterodin* --- Antikolinergika som minskar blåskontraktilitet och lindrar
+    lagringssymtom. CAVE gällande urinretention.
+  - *Mirabegron* --- Betareceptorblockerare med samma verkningsmekanism som
+  Tolterodin.
+- **Kirurgisk behandling**
+  - *TURP* --- TransUretral Resektion av Prostata
+  - *Transvesikal adenomenukleation* --- Öppen operation vid storlek >100g.
+  - *TUMT* --- TransUretral MikrovågsTerapi, skonsam behandling med nästan samma
+    effekt som TURP.
+
+
+::: {.callout-tip}
+
+## När ska PSA ordineras?
+
+- Palpatorisk misstanke om prostatacancer
+- Ökande skelettsmärta hos män > 40
+- Allmänna cancersymtom
+- Hereditär risk
+  - 2 eller fler i familjen m. PrCa
+  - Män med känd BRCA2-mut
+  - Män med mutation i G84E i HOXB13
+- Män som efter adekvat information önskar testas
+  - [Adekvat information](https://cancercentrum.se/globalassets/cancerdiagnoser/prostatacancer/om-psa-prov-for-att-upptacka-prostatacancer-i-ett-tidigt-skede-tryckfardig.pdf)
+- Behandlingskrävande LUTS hos män med > 10 års förväntad överlevnad. Alternativt då symtom ökat påtagligt under senaste året.
+
+:::
+
+
