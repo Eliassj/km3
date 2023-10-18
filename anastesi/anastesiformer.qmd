@@ -1,7 +1,0 @@
-# Anastesiformer
-
-## RSI --- Rapid Sequence Induction
-
-Utförs då man bedömer att risk för aspiration föreligger.
-
-

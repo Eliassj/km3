@@ -1,0 +1,26 @@
+# Anastesiformer
+
+## Intravenös anestesi
+
+### TCI --- Target Controlled Infusion
+
+Förstahandsval vid intravenös anestesi.
+
+Önskad målkoncentration av läkemedel ställs in efter ålder och kroppsvikt för
+propofol samt ålder, kroppsvikt, längd och kön för remifentanilinfusion.
+
+**Normal arbetsgång vid TCI:**
+
+1. Antikolinergika ges, prepxygenering startas.
+2. Propofolinfusionen startas.
+3. När propfolets Ce nått 0,2--0,4µg/ml startas remifentanilinfusionen
+    - Om alfentanil används ges istället bolusdos varpå infusion startar.
+4. 
+
+### TIVA --- Total IntraVenous Anaesthesia
+
+### RSI --- Rapid Sequence Induction
+
+Utförs då man bedömer att risk för aspiration föreligger.
+
+## Gasanestesi

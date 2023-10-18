@@ -1,5 +1,101 @@
 # Penis
 
-## Fimos
+## Fimosis
 
-Alla barn har trång förhud till någon grad.
+5--10% av barn och 1--2% av tonåringar har *fysiologisk* fimosis. Denna kan gå
+med synekier och talgansamlingar som släpper i individuell takt fram till
+puberteten. Barn med *äkta* fimosis eller återkommande balaniter kan behandlas.
+
+*Förvärvad/Äkta* fimosis fås t.ex av ärrbildning efter bristningar, för mycket
+tänjning och upprepade balaniter.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Svårighet att dra tillbaks förhud
+  - Sned stråle
+  - Ballonering
+  - Sveda vid miktion
+  - Upprepade balaniter
+  - Smärta vid erektion
+- **Status**
+  - *Inspektion*
+    - Förhud --- Synlig fimosis? Ärr? Mjuk, retraherbar?
+    - Penis --- Rakt/krökt?
+    - Glans --- Synekier? Talgansamlingar?
+    - Urinrörsmynning --- Synlig? Normalvid?
+
+Förhud som ej går att dra tillbaks åtgärdas med circumcision.
+
+::: {.callout-tip}
+
+## Diffdiagnoser
+
+- Peniscancer!
+- Kort frenulum
+:::
+
+##### Behandling
+
+- **Barn/tonåringar** --- Grupp IV-steroid dagligen i 4 veckor.
+- **Andra** --- Circumcision polikliniskt
+
+## Parafimosis
+
+= Förhud fastnar bakom glans.
+
+Samma bakgrund som fimosis. 
+
+##### Kliniska drag/Diagnos
+
+Förhud går ej att dra tillbaks.
+
+##### Behandling
+
+**Akut tillstånd!** Lägg (vid behov) penisblockad varpå förhuden i allmänhet kan
+reponeras. Ödem kan ofta tryckas bort med ett stadigt tag kring glans i
+5--10min. Tryck mot glans med tummarna.         
+Om ovanstående ej lyckas görs ett akut dorsalsnitt som eventuellt följs av
+elektiv circumcision.
+
+## Kort frenulum
+
+##### Kliniska drag/Diagnos
+
+Stramning, knickning av glans vid erektion. Eventuellt bristning av frenulum
+eller smärta vid samlag.
+
+##### Behandling
+
+- **Akut** --- Brustet frenulum kan kräva hemostatisk sutur
+- **Lugnt skede** --- Operation i lokalanestesi.
+
+## Priapism
+
+Finns 2 typer:
+
+1. **Lågflödespriapism** --- Utgör 95%. Lågt/inget blodflöde orsakar smärtsam
+   ischemi. Kan leda till fibros i svällkroppar med erektil dysfunktion/impotens
+   som följd.       
+   *Orsakas* av hyperkoagulabilitet, malignitet, läkemedel eller droger.
+2. **Högflödespriapism** --- Mycket ovanligt. Ger ingen smärta, orsakas oftast
+   av penistrauma med efterföljande arteriovenös fistelbildning.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+  - Oönskad erektion >4h.
+- **Status**
+  - Erektion, ofta utan fyllnad av *corpus cavernosum*
+- **Labb**
+  - Venös blodgas från *corpus cavernosum* skiljer högflödes-från
+  lågflödespriapism.
+
+##### Behandling
+
+- **Lågflödespriapism** --- Lägg penisblockad varpå *corpora cavernosa* töms på
+  blod tills ljusrött utbyte ses. Spruta sedan intrakavernöst efedrin 5mg/mg
+2--5ml. Avvakta effekt. Lyckad då penis ej längre är hård. Ödem går över med
+tid. Upprepa vid recidiv och övrväg *shunt* eller *penisprotes*^[Måste läggas in
+innnan *corpora cavernosa* ärromvandlas (efter långvarig priapism)!].
+- **Högflödespriapism** --- Embolisering i samband med angiografisk diagnostik.

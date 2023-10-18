@@ -2,19 +2,132 @@
 
 ## Analgesi
 
-##### Fentanyl
+### Opioider
 
-##### Remifentanil
+| **Mål** | **Verkningar** | **Biverkningar** |
+| :---|:---        |:---          |
+|µ-receptorer|Analgesi<br>Potentierar sömnmedel<br>Minskar neuroendokrint stresssvar|Andningsdepression<br>Sedering<br>Klåda<br>Urinretention<br>Paralytisk ileus<br>Gallspasm<br>Mios<br>Bradykardi<br>Illamående<br>Konfusion<br>Yrsel|
 
-##### Alfentanil
+
+|**Opioid**|**Dos**|**Peak/Duration**|
+|:---|:---|:---|
+|**Fentanyl**<br>1:a-handsval vid intraoperativ analgesi.|100mikrogram = 10mg morfin|3-5min/30min
+
+#### Fentanyl
+
+- **+**
+  - Inga aktiva metaboliter
+  - Kan reverseras
+  - Kortvarig effekt vid enstaka dosering
+- **-**
+  - Mycket längre effekt vid infusion/höga doser
+
+#### Remifentanil (Ultiva^R^)
+
+- **+**
+  - Mycket snabbverkande
+  - Effekt försvinner inom minuter
+- **-**
+  - Ger akut tolerans (*takyfylaxi*)
+  - Påtaglig muskelrigiditet
+
+#### Alfentanil
+
+#### Oxykodon
+
+Dubbelt så starkt po som morfin, liknande iv.
+
+|**Dos**|**Anslag/Duration**|
+|:---|:---|
+|0,05-0,1(-0,2) mg/kg iv|10--15min/3--6h
+
+: Oxykodon {.sm}
+
+- **+**
+  - Inga aktiva metaboliter
+  - Duration 3-6h
+
+#### Morfin
+
+|**Dos**|**Anslag/Duration**|**CAVE**
+|:---|:---|:---|
+|0,05-0,1(-0,2) mg/kg iv|10--15min/3--6h|**Aktiva metaboliter**<br>Njursvikt och leversvikt!
 
 ## Anestesi
 
-##### Propofol
+### Intravenösa
 
-##### Thiopental
+#### Propofol
 
-##### Ketanest
+GABAa-modulerare/stimulerare (m.m)
+
+- **Användningsområden**
+  - Induktion och underhåll av anastesi
+- **+**
+  - Snabbt tillslag
+  - Snabbt uppvaknande
+  - Antiemetiskt
+  - Dämpar svalg-/muskelreflexer
+  - Antiepileptiskt
+- **-**
+  - Blotrycksfall --- ffa pga vasodilatiation
+  - Andningsdeprimerande
+  - Smärta vid injektion
+
+#### Thiopental
+
+Barbiturat          
+GABAa
+
+- **Användningsområden**
+  - Induktion av anastesi --- Ffa då man vill ha snabbt tillslag (t.ex
+  aspirationsrisk och kejsarsnitt)
+  - Behandla högt ICP
+  - Status epilepticus
+- **+**
+  - Snabbt tillslag
+  - Anti-epileptiskt
+- **-**
+  - Laryngo-/bronkospasm
+  - Blodtrycksfall
+  - Andningsdepression
+  - Långsam metabolisering, aktiv metabolit
+  - Vävnadsnekros vid sc-injektion
+
+#### Midazolam (Dormicum^R^)
+
+Bensodiazepin
+
+- **Användningsområden**
+  - Anxiolys inför operation
+  - Sedering
+  - Kan *ej* ensamt inducera djup anastesi
+- **+**
+  - Liten hemodynamisk påverkan
+  - Anti-epileptiskt
+  - Reverserbart (Flumazenil)
+  - Kan administreras po, iv, rektalt, nasalt
+- **-**
+  - Långsamt, dålig styrbarhet
+  - Stora doser vid ensam användnin
+  - Anterograd amnesi
+  - Aktiva metaboliter
+
+#### Ketamin (Ketalar^R^)
+
+NMDA-receptorantagonist
+
+- **Användningsområden**
+  - Induktion och underhåll av anastesi
+    - Ffa vid chock, svår lokal(krig, olycka)
+  - Starkt analgetiskt
+- **+**
+  - Snabbt (30--60s) tillslag, duration 15--20min
+  - Mindre andnings-/blodtryckspåverkan
+  - Kan administreras po, rektalt, iv, im
+- **-**
+  - Psykiska biverkningar --- Mardrömmar, hallucinationer
+    - Ge låg dos midazolam först
 
 ## Relaxantia
 
@@ -28,6 +141,8 @@
 
 ## Antikolinergika
 
+Ges före anestesi för att minska slemsekretion.
+
 ## Antidoter
 
 ## Lokalanestetika
@@ -35,6 +150,8 @@
 ##### Ropivacain
 
 ## Antiemetika
+
+## En bild
 
 ```{dot}
 #| column: column-screen-right

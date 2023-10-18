@@ -7,10 +7,14 @@
 [Lars Ingvar Hansson](https://orto.nu/operation.php?id=lih)        
 Ortopedisk spik med hake. Används bl.a vid cervikal femurfraktur hos yngre.
 
+-----
+
 ##### Bulbocavernosusreflex
 
 Spinal reflex involverande S2-S4. Användbar vid misstanke om Cauda equina-syndrom ([Kapitel -@sec-caudaequina]).          
 Testas genom att palpera analsfinktern samtidigt som man hastigt kniper om glans penis(/klitoris, testet används inte på kvinnor(?)) alternativt drar i en foley-kateter med uppspänd ballong. Vid fungerande reflex kniper analsfinktern åt.
+
+-----
 
 ##### Haloväst {#sec-haloväst}
 
@@ -33,9 +37,13 @@ Kan användas vid t.ex fraktur i C5-Th1.
 
 ::::
 
+-----
+
 ##### Eminentiafraktur {#sec-eminentia}
 
 Fraktur hos barn då ACL-fästet sliter av en bit av tibia.
+
+-----
 
 ## Urologi
 
@@ -58,4 +66,38 @@ Kan delas upp i lagringssymtom och tömningssymtom:
   - Svärta/sveda vid miktion
   - Behov av att krysta vid miktion
   - Avbrott i strålen
+
+-----
+
+## Anastesi
+
+##### Context sensitive halftime
+
+Tiden det tar för ett läkemedel att nå 50% plasmakoncentration efter man slutat
+ge det. Känsligt för läkemedlets distribution efter att det getts som infusion.
+
+-----
+
+##### Effect site target
+
+Modus vid TCI där man siktar på en viss koncentration av läkemedel i CNS
+istället för i plasma. Mer lämplig vid ASA 1--2 då den initialt ger högre
+plasmakoncentration än plasma target modus.
+
+-----
+
+##### Plasma target
+
+Modus vid TCI där man siktar på en viss plasmakoncentration. Ger långsammare men
+säkrare induktion jmf effect site target.
+
+-----
+
+##### Cp, Cpt och Ce
+
+**Cp** = Concentration plasma       
+**Cpt** = Concentration plasma target       
+**Ce** Concentration effect site
+
+Cp och Ce kan jämföras med MAC vid gasanestesi.
 

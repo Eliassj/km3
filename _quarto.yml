@@ -26,11 +26,13 @@ book:
         - urologi/hematuri.qmd
         - urologi/stensjukdom.qmd
         - urologi/uvi.qmd
+        - urologi/penis.qmd
         - urologi/njurexpans.qmd
         - urologi/prostata.qmd
         - urologi/tumörer.qmd
     - part: "Anastesi"
       chapters:
+        - anastesi/anestesiformer.qmd
         - anastesi/läkemedel.qmd
         - anastesi/preopbedömning.qmd
         - anastesi/luftväg.qmd
@@ -47,8 +49,6 @@ format:
       light: [flatly, boktheme.scss]
       dark: [darkly, boktheme.scss]
     number-depth: 3
-    comments:
-      hypothesis: true
   pdf:
     documentclass: scrreport
     number-depth: 3
