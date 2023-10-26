@@ -1,0 +1,92 @@
+# Infektioner
+
+## Hand
+
+CPR, LPK, SR och temp kan ofta vara normala även vid allvarligare
+handinfektioner!
+
+::: {.callout-tip}
+
+## Diffdiagnoser
+
+- Gikt
+- Pseudogikt
+- Herpes simplex
+- Pyogent granulom
+
+:::
+
+*S. aurues* utgör 90% av fall. Även...
+
+- Strep grupp A--C
+- KNS
+- MRSA --- screena de som varit utomlands
+- Pasteurella --- Hund-/kattbett
+- Atypiska mykobakterier --- Akvarieägare
+- Gramnegativa bakterier
+
+...ses.
+
+### Paronyki
+
+Nagelbandsinflammation/-infektion
+
+##### Behandling
+
+- Antibiotika efter odling
+- Ev incision och debridering
+
+### Pulpaabscess
+
+Kan utvecklas från en paronyki.
+
+##### Behandling
+
+- Antibiotika
+- Incision och dränage. Alla septa måste öppnas.
+
+### Purulent tendovaginit
+
+Senskidor ligger nära huden (lätt att penetrera med stick), näringsrika och "dålig" blodförsörjning.
+
+##### Kliniska drag
+
+- Snabbt förlopp
+- Penetrerande trauma
+- Smärta vid extension
+- **4 tecken**
+    - Svullnad
+    - Semiflekterat
+    - Ömhet längs hela senskidan
+    - Smärta vid passiv extension
+
+##### Behandling
+
+- Odling
+- Antibiotika
+- Akut op
+- Immobilisering
+
+### Septisk artrit
+
+I princip samma handläggning som tendovaginit.
+
+### Osteit
+
+Finns akut och kronisk.
+
+### Nekrotiserande fasciit
+
+- Pain out of proportion
+- Diffus svullnad
+
+##### Behandling
+
+- Antibiotika
+- *Snabb* operation
+
+##### Djurbett
+
+Lämnas alltid öppna.
+
+

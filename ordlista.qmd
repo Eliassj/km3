@@ -45,6 +45,12 @@ Fraktur hos barn då ACL-fästet sliter av en bit av tibia.
 
 -----
 
+##### V-sign
+
+Radiologiskt tecken på subluxation av interfalangealled.
+
+![V-sign](pics/V-sign.png){width=40% height=40% fig-align="left"}
+
 ## Urologi
 
 ##### LUTS
@@ -70,6 +76,18 @@ Kan delas upp i lagringssymtom och tömningssymtom:
 -----
 
 ## Anastesi
+
+##### MAP
+
+Medelartärtryck beräknas enligt:
+
+$$MAP = Diastoliskt\ tryck + \frac{Pulsamplitud}{3}$$
+
+##### Malign hypertermi
+
+Ärftligt tillstånd där vissa gaser (*Sevofluran, Desfluran och Isofluran*) och
+särskilt depolariserande muskelrelaxantia(Celukorin^R^/Suxametonium) orsakar
+muskulär hypermetabolism.
 
 ##### Context sensitive halftime
 

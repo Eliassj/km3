@@ -55,6 +55,12 @@ Dubbelt så starkt po som morfin, liknande iv.
 
 ## Anestesi
 
+| **Läkemedel** | **Dos** |
+|---:      |:--- |
+|**Propofol**|*Induktion:*<br>20--40mg/10s utefter svar^[Pat >55 eller ASA >2 bör doseras försiktigare]<br>*Underhåll:*<br>4--12mg/kg/h|
+
+: Dosering av anestesiläkemedel
+
 ### Intravenösa
 
 #### Propofol
@@ -129,9 +135,24 @@ NMDA-receptorantagonist
   - Psykiska biverkningar --- Mardrömmar, hallucinationer
     - Ge låg dos midazolam först
 
+### Gaser
+
+#### Sevofluran
+
+- **+**
+    - Ej slemhinne-/bronkdilaterande
+    - Kan ges till barn och vuxna
+    - Bra till astmatiker
+- **-**
+    - Kan bilda njurtoxiska ämnen
+    - Illamående
+    - Risk för malign hypertermi
+
 ## Relaxantia
 
 ##### Celocurin/Suxametason
+
+
 
 ##### Rocuronium
 

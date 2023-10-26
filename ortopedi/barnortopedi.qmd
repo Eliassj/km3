@@ -1,3 +1,9 @@
 # Barnortopedi
 
 Ortopediska tillstånd som endast drabbar barn.
+
+::: {.callout-warning}
+
+**Tänk på att barn också kan få i princip allt vuxna kan få!**
+
+t och mortalitet [1]. Vi presenterar här ett förhållningssätt till patienten med chock p:::

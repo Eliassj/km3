@@ -1,0 +1,59 @@
+# Chock
+
+|**Chocktyp**|**Mekanismer**|
+|:---|:---|
+|**Hypovolem**|Blödning<br>Dehydrering|
+|**Obstruktiv**|Massiv lungemboli<br>Övertryckspneumotorax<br>Tamponad|
+|**Kardiogen**|Arytmi<br>Nedsatt myokardfunktion<br>Strukturella problem|
+|**Distributiv**|Sepsis<br>Anafylaktisk<br>Neurogen chock<br>Akut binjurebarkssvikt|
+
+
+- **Generella chocksymtom**
+    - Blekhet
+    - Kallsvettig
+    - Takypné
+    - Takykardi
+    - Kalla extremiteter
+    - Marmorerad hudkostym
+    - Hypotoni
+    - Medvetandepåverkan
+
+## Initialt omhändertagande
+
+- **ABCDE**
+- **Anamnes**
+- **Blodprov**
+- **EKG**
+- **Bedside-ULJ**
+
+Ordinera syrgas, adekvat vätska och tidiga läkemedel (t.ex adrenalin vid tecken
+på anafylaktisk chock) *samtidigt* som ovanstående utförs!
+
+## Hypovolem chock
+
+|**Blodförlust**|**Effekter**|
+|:---|:---|
+|**10--15%**|Inga|
+|**15--30%**|Oro/Ångest<br>Takypné<br>Takykardi<br>Blekhet<br>Fördröjd kapillär återfyllnad|
+|**30--40%**|Konfusion<br>Ökad takypné<br>Blekhet<br>Kyla|
+|**>40%**|Ofta medvetslöshet|
+
+##### Kliniska drag/Diagnos
+
+- **Tecken/symtom**
+    - *Tidiga:*
+        - Andningskorrelerad variation i blodtryckskurvan --- Kan ses redan när
+        andra symtom saknas.
+        - Minskad pulsamplitud pga ökat diastoliskt tryck och bibehållet
+        systoliskt. Perifera pulsationer blir alltså svagare innan systoliskt
+        blodtryck börjar falla.
+        - Takykardi --- HF > Systoliskt blodtryck = allvarligt, ofta efter
+        1,5--2 liters blödning.
+        - **Äldre** sjunker ofta i systoliskt tryck med mindre/utan ovanstående
+          varningstecken.
+- **Undersökningar**
+    - *ULJ:*
+        - *V. cava inferior* < 2cm eller kollapsgrad > 50%^[Kan även tala för
+        distributiv chock. Motsatsen talar för kardiogen eller obstruktiv chock.]
+
+

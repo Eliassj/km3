@@ -93,7 +93,23 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="../">KM3</a> 
         <div class="sidebar-tools-main">
-    <a href="../KM3.pdf" rel="" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="../KM3.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="../KM3.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Växla mörkt läge"><i class="bi"></i></a>
 </div>
     </div>
@@ -267,6 +283,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Luftväg</span></span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../anastesi/chock.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Chock</span></span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -303,6 +325,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#anestesi" id="toc-anestesi" class="nav-link" data-scroll-target="#anestesi"><span class="header-section-number">17.2</span> Anestesi</a>
   <ul class="collapse">
   <li><a href="#intravenösa" id="toc-intravenösa" class="nav-link" data-scroll-target="#intravenösa"><span class="header-section-number">17.2.1</span> Intravenösa</a></li>
+  <li><a href="#gaser" id="toc-gaser" class="nav-link" data-scroll-target="#gaser"><span class="header-section-number">17.2.2</span> Gaser</a></li>
   </ul></li>
   <li><a href="#relaxantia" id="toc-relaxantia" class="nav-link" data-scroll-target="#relaxantia"><span class="header-section-number">17.3</span> Relaxantia</a></li>
   <li><a href="#tryckhöjande" id="toc-tryckhöjande" class="nav-link" data-scroll-target="#tryckhöjande"><span class="header-section-number">17.4</span> Tryckhöjande</a></li>
@@ -467,6 +490,25 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="anestesi" class="level2" data-number="17.2">
 <h2 data-number="17.2" class="anchored" data-anchor-id="anestesi"><span class="header-section-number">17.2</span> Anestesi</h2>
+<table class="table">
+<caption>Dosering av anestesiläkemedel</caption>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;"><strong>Läkemedel</strong></th>
+<th style="text-align: left;"><strong>Dos</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;"><strong>Propofol</strong></td>
+<td style="text-align: left;"><em>Induktion:</em><br>20–40mg/10s utefter svar<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a><br><em>Underhåll:</em><br>4–12mg/kg/h</td>
+</tr>
+</tbody>
+</table>
 <section id="intravenösa" class="level3" data-number="17.2.1">
 <h3 data-number="17.2.1" class="anchored" data-anchor-id="intravenösa"><span class="header-section-number">17.2.1</span> Intravenösa</h3>
 <section id="propofol" class="level4">
@@ -569,6 +611,26 @@ GABAa</p>
 <ul>
 <li>Ge låg dos midazolam först</li>
 </ul></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="gaser" class="level3" data-number="17.2.2">
+<h3 data-number="17.2.2" class="anchored" data-anchor-id="gaser"><span class="header-section-number">17.2.2</span> Gaser</h3>
+<section id="sevofluran" class="level4">
+<h4 class="anchored" data-anchor-id="sevofluran">Sevofluran</h4>
+<ul>
+<li><strong>+</strong>
+<ul>
+<li>Ej slemhinne-/bronkdilaterande</li>
+<li>Kan ges till barn och vuxna</li>
+<li>Bra till astmatiker</li>
+</ul></li>
+<li><strong>-</strong>
+<ul>
+<li>Kan bilda njurtoxiska ämnen</li>
+<li>Illamående</li>
+<li>Risk för malign hypertermi</li>
 </ul></li>
 </ul>
 </section>
@@ -840,6 +902,12 @@ apcres-&gt;5
 </div>
 
 
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Pat &gt;55 eller ASA &gt;2 bör doseras försiktigare<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
 </section>
 
 </main> <!-- /main -->

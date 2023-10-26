@@ -11,16 +11,26 @@ propofol samt ålder, kroppsvikt, längd och kön för remifentanilinfusion.
 
 **Normal arbetsgång vid TCI:**
 
-1. Antikolinergika ges, prepxygenering startas.
+1. Antikolinergika ges, preoxygenering startas.
 2. Propofolinfusionen startas.
-3. När propfolets Ce nått 0,2--0,4µg/ml startas remifentanilinfusionen
+3. När propofolets Ce nått 0,2--0,4µg/ml startas remifentanilinfusionen
     - Om alfentanil används ges istället bolusdos varpå infusion startar.
-4. 
+4. Vid Tubintubation ges muskelrelaxantia då patienten inte reagerar vid
+   beröring eller på kornealstimulering.
+5. Intubera efter muskelrelaxantia fått effekt.
 
 ### TIVA --- Total IntraVenous Anaesthesia
 
 ### RSI --- Rapid Sequence Induction
 
 Utförs då man bedömer att risk för aspiration föreligger.
+
+- Svåra refluxbesvär
+- Icke-fastande patient
+- Gravid
+- Ileus
+- Appendicit
+
+
 
 ## Gasanestesi

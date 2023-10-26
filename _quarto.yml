@@ -6,7 +6,7 @@ book:
   title: "KM3"
   date: "2023-09-07"
   cover-image: cover.jpg
-  downloads: pdf
+  downloads: [pdf, epub]
   chapters:
     - index.qmd
     - part: "Ortopedi"
@@ -36,6 +36,7 @@ book:
         - anastesi/läkemedel.qmd
         - anastesi/preopbedömning.qmd
         - anastesi/luftväg.qmd
+        - anastesi/chock.qmd
   appendices:
     - ordlista.qmd
   search:
@@ -45,10 +46,18 @@ book:
 
 format:
   html:
+    mainfont: Liberation Serif
     theme:
       light: [flatly, boktheme.scss]
       dark: [darkly, boktheme.scss]
     number-depth: 3
   pdf:
-    documentclass: scrreport
+    documentclass: scrreprt
+    mainfont: Liberation Serif
+    sansfont: Liberation Serif
     number-depth: 3
+  epub:
+    toc: true
+    creator: "Elias Sjölin"
+    number-depth: 3
+    css: boktheme.scss

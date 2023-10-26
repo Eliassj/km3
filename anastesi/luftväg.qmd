@@ -1,3 +1,125 @@
 # Luftväg
 
+||**Maxflöde**<br>**FiO~2~**|
+|:---|:---|
+|**Grimma**|max 6L/min^[CAVE: Torra slemhinnor. Byt till mask om man ska använda länge/mer än ett fåtal l/min]<br>24-44%|
+|**Stängd mask utan reservoar**|5-10L/min|
+|**Stängd mask med reservoar**|1-15L/min<br>90% vid 15L/min|
+|**Oxymask**|1-15L/min<br>24-90%|
+|**HFNC**|10-60L/min<br>21-100%
 
+: Syrgasmetoder och deras maxflöden/FiO~2~
+
+## Akut andningspåverkan
+
+### Blodgastolkning
+
+**Begrepp:**        
+*Alkalemi* --- pH>7,45          
+*Acidemi* --- pH<7,35           
+*Alkalos* --- Process som höjer pH          
+*Acidos* --- Process som sänker pH
+
+|**Tillstånd**|**pH**|**pCO~2~**|**BE**|
+|:---|:---|:---|:---|
+|**Normalt**|7,35--7,45|4,6--6,0kPa|-3,0--3,0|
+|**Metabol acidos**<br>*Okompenserad*<br>Kompenserad|<br>*<7,35*<br>Normalt|<br>*Normalt*<br><4,6|<br>*<-3*<br><-3|
+|**Respiratorisk acidos**<br>*Okompenserad*<br>Kompenserad|<br>*<7,35*<br>Normalt|<br>*>6,0*<br>>6,0|<br>*Normalt*<br>>3|
+|**Metabol alkalos**<br>*Okompenserad*<br>Kompenserad|<br>*>7,45*<br>Normalt|<br>*Normalt*<br><4,6|<br>*>3*<br>>3
+|**Respiratorisk alkalos**<br>*Okompenserad*<br>Kompenserad|<br>*>7,45*<br>Normalt|<br>*>6,0*<br>>6,0|<br>*Normalt*<br><-3|
+
+: Blodgasvärden (*arteriella*)
+
+##### Beräkning av anjongap
+
+
+Anjongapet är till största del relevant vid **metabol acidos**.         
+Det representerar det normala överskottet av anjoner i blodet när Na^+^,
+Cl^-^ och HCO~3~ räknats bort. Dessa utgörs ffa av negativt laddat protein (ffa albumin).
+
+Anjongapet beräknas enl:
+
+$$Na^+ + Övriga\ katjoner = Cl^- + HCO_3 + Övriga\ anjoner$$
+$$Na^+ - (Cl^- + HCO_3) = Övriga\ anjoner-Övriga\ katjoner$$
+$$\boldsymbol{Na^+ - (Cl^- + HCO_3) = Anjongap}$$
+
+**Normalvärde** är 12+/-2 i äldre blodgasapparater.             
+I nyare maskiner kan normalvärdet vara 6+/-3 då vissa ger högre kloridvärde.
+
+Det finns 2 grupper av tillstånd som kan skiljas med anjongap:          
+
+|||
+|:---|:---|
+|**Metabol acidos med normalt anjongap**<br><br>**U**reterostomi<br>**S**mall bowel fistula<br>**E**xtra chloride<br>**D**iarrhea<br>**C**arbonic anhydrase inhibitor<br>**R**enal tubular acidosis<br>**A**drenal insufficiency<br>**P**ancreatic fistula|Hyperkloremisk metabol acidos. HCCO~3~ förlust ger Cl^-^-retention *eller* Cl^-^-retention som kompenseras med HCO~3~-utsöndring.|
+
+##### Kliniska drag/Diagnos
+
+1. **Titta:**
+    - Panik?
+    - Andningsmönster
+        - Frekvens? Paradoxal?
+    - Hållning? --- Vill ej ligga, sitter framåtlutad
+    - Cyanos?
+    - Erytem?
+    - Halsvenstas --- Halsvener >4cm över sternum -> CVP>9cm H~2~O^[Oftast]
+        - Ses vid högerkammarsvikt, lungemboli, hjärttamponad, stor
+        tricuspidalisinsufficiens(ger pulserande halsvener).
+2. **Lyssna:**
+    - Kan tala?
+    - Stridor?
+    - Snarkningar?
+    - Lungjud? --- Liksidiga, rassel, ronki, dämpning, perkussionston
+3. **Känn:**
+    - Finns något i munnen?
+    - Går trachea där den ska? (Ffa vid trauma)
+    - Liksidiga andningsrörelser?
+    - Kotpelare?
+4. **Bedöm säker luftväg:**
+    - Är luftvägen hotad nu?
+    - Kan tillståndet försämras snabbt?
+    - Behövs **intubation**?
+5. **Labbvärden**
+    - Pulsoximeter --- Kan visa 100% trots respiratorisk svikt! Säger inget om
+    CO~2~. Methemoglobin och kolmonoxidförgiftning ger falskt förhöjda värden.
+    - Blodgas --- pCO~2~ skiljer sig ca 1kPa mellan venöst och arteriellt blod.
+    - Troponin-T --- Förhöjt värde *med dynamik* talar för hjärtinfarkt. Ses
+    även vid lungemboli och hjärtsvikt.
+    - D-dimer --- Förhöjt värde talar för DVT/lungemboli. *Mycket* ospecifikt. Tas endast
+    vid låg sannolikhet för att *utesluta* DVT/lungemboli.
+
+|**Orsak**|**Tecken**|**Handläggning**|
+|:---|:---|:---|
+|**Ofri luftväg**|Stridor<br>Panik<br>Paradoxala andningsrörelser<br>Kan ej tala|Se nedan|
+|**Lungemboli**|Smärta<br>Takykardi<br>Passande anamnes|Efter Wells score|
+
+: Orsaker till dyspné
+
+| **Kriterie**                                     | **Poäng**              |
+| :---                                         | :---               |
+| Kliniska symtom talande för DVT              | 3p                 |
+| Andra diagnoser mindre sannolika             | 3p                 |
+| HF>100slag/min                               | 1,5p               |
+| Immobilisering/kirurgi de senaste 4 veckorna | 1,5p               |
+| Tidigare DVT/lungemboli                      | 1.5p               |
+| Hemoptys                                     | 1p                 |
+| Malignitet                                   | 1p                 |
+| <br>**Sannolikhet**                              | <br>**Totalpoäng**     |
+| Hög                                          | >6                 |
+| Måttlig                                      | 2--6p               |
+| Låg                                          | <2p                |
+
+: Wells score
+
+
+|**Orsak**|**Handläggning**|
+|:---|:---|
+|**Främmande kropp**|Ryggdunk, Heimlisch<br>Titta i svalget<br>Bronkoskopi|
+|**Medvetslöshet**|Framstupa sidoläge<br>Käklyft<br>Näskantarell<br>Svalgtub<br>Intubation|
+|**Kräkning**^[Lämna *aldrig* patienter på traumabräda ensamma!]|Framstupa sidoläge<br>Sug<br>Intubation|
+|**Blödning**<br>t.ex näsblödning|Tamponad<br>Packa|
+|**Anafylaxi**^[Ta tryptas i akutskedet för att verifiera sann anafylaxi, jämför 8h senare]|0.5mg adrenalin im<br>Repetera adrenalin<br>Ventolin<br>Intubera<br>Kortison<br>Antihistamin|
+|**Angioödem**<br>(*Quinckeödem*)|Svarar ej på adrenalin<br>Firasyr, Danasol^[Bradykininreceptorantagonister]|
+|**Infektion**<br>*Epiglottit*<br>*Munbottenflegmone*|**Övervakning**<br>Intubation|
+
+
+: Orsaker till ofri luftväg

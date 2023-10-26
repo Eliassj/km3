@@ -1,95 +1,71 @@
 {
   "index.qmd": {
-    "index.html": "0115276e"
-  },
-  "intro.qmd": {
-    "intro.html": "3684b7e2"
-  },
-  "allmänfraktur.qmd": {
-    "allmänfraktur.html": "a39fc0de"
-  },
-  "övreextr.qmd": {
-    "övreextr.html": "83220aef"
-  },
-  "nedreextr.qmd": {
-    "nedreextr.html": "ae00a6c9"
-  },
-  "ordlista.qmd": {
-    "ordlista.html": "fcff9df5"
-  },
-  "Ortopedi.qmd": {
-    "Ortopedi.html": "69964d9c"
-  },
-  "ortostatus.qmd": {
-    "ortostatus.html": "d68d07fb"
-  },
-  "rygg.qmd": {
-    "rygg.html": "1d3d8cc8"
-  },
-  "barnortopedi.qmd": {
-    "barnortopedi.html": "c3d75781"
-  },
-  "barnnedreextr.qmd": {
-    "barnnedreextr.html": "ad5556e7"
-  },
-  "ortopedi/nedreextr.qmd": {
-    "nedreextr.html": "9400d964"
+    "index.html": "3381de1b"
   },
   "ortopedi/ortostatus.qmd": {
-    "ortostatus.html": "dcc93f54"
+    "ortostatus.html": "9bebbc83"
   },
   "ortopedi/allmänfraktur.qmd": {
-    "allmänfraktur.html": "d924f009"
+    "allmänfraktur.html": "64e36826"
   },
   "ortopedi/övreextr.qmd": {
-    "övreextr.html": "6198e5d1"
+    "övreextr.html": "f9a8de4c"
+  },
+  "ortopedi/nedreextr.qmd": {
+    "nedreextr.html": "c0623e96"
   },
   "ortopedi/rygg.qmd": {
-    "rygg.html": "b1750a5e"
+    "rygg.html": "1f3cab33"
   },
   "ortopedi/barnortopedi.qmd": {
-    "barnortopedi.html": "543e46ec"
+    "barnortopedi.html": "61039feb"
   },
   "ortopedi/barnnedreextr.qmd": {
-    "barnnedreextr.html": "283b9f60"
-  },
-  "urologi/tumörer.qmd": {
-    "tumörer.html": "ab62ad70"
+    "barnnedreextr.html": "91e4a38c"
   },
   "urologi/urostatus.qmd": {
-    "urostatus.html": "5293e575"
-  },
-  "urologi/prostata.qmd": {
-    "prostata.html": "94cf2592"
-  },
-  "urologi/hematuri.qmd": {
-    "hematuri.html": "345f01c3"
-  },
-  "urologi/njurexpans.qmd": {
-    "njurexpans.html": "7db41785"
+    "urostatus.html": "c207a780"
   },
   "urologi/akutskrotum.qmd": {
-    "akutskrotum.html": "fe96ec49"
+    "akutskrotum.html": "0f9dc5b5"
+  },
+  "urologi/hematuri.qmd": {
+    "hematuri.html": "d6e0be9b"
   },
   "urologi/stensjukdom.qmd": {
-    "stensjukdom.html": "f62127e6"
-  },
-  "anastesi/läkemedel.qmd": {
-    "läkemedel.html": "3accafe5"
-  },
-  "anastesi/preopbedömning.qmd": {
-    "preopbedömning.html": "59ba62a4"
+    "stensjukdom.html": "994b2357"
   },
   "urologi/uvi.qmd": {
-    "uvi.html": "6aeb59dc"
-  },
-  "anastesi/luftväg.qmd": {
-    "luftväg.html": "cd8e3b7f"
+    "uvi.html": "2d2c51d6"
   },
   "urologi/penis.qmd": {
-    "penis.html": "10001954"
+    "penis.html": "3236793a"
+  },
+  "urologi/njurexpans.qmd": {
+    "njurexpans.html": "692e9a45"
+  },
+  "urologi/prostata.qmd": {
+    "prostata.html": "b383e859"
+  },
+  "urologi/tumörer.qmd": {
+    "tumörer.html": "b3f412dd"
   },
   "anastesi/anestesiformer.qmd": {
-    "anestesiformer.html": "958d9b4d"
+    "anestesiformer.html": "87124515"
+  },
+  "anastesi/läkemedel.qmd": {
+    "läkemedel.html": "c362744b"
+  },
+  "anastesi/preopbedömning.qmd": {
+    "preopbedömning.html": "f903158d"
+  },
+  "anastesi/luftväg.qmd": {
+    "luftväg.html": "60d26da5"
+  },
+  "ordlista.qmd": {
+    "ordlista.html": "ee5d2d8a"
+  },
+  "anastesi/chock.qmd": {
+    "chock.html": "5ab09b37"
   }
 }

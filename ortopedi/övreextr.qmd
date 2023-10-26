@@ -494,8 +494,175 @@ TODO: Detta
 
 ### Skafolunär ligamentskada
 
+Diffdiagnos till scaphoideumfraktur.
+
 ### Lunotrikvetral ligamentskada
 
 ### TFCC-skada
 
 ### Handledsarotros
+
+## Hand
+
+::: {.callout-warning}
+
+## Tänk vid handgipsning
+
+- **MCP-led** --- Kollateralligament är som längst vid flektion.
+- **IP-led** --- Kollateralligamenten är som längst vid extension.
+
+:::
+
+### Nervskador
+
+#### Traumatiska
+
+##### Behandling
+
+- **Digital**nervsskador
+    - Epineurala suturer (9-0)
+    - Immobilisering i 2-3v.
+    - Undvik tension
+    - Kan ofta göras av din lokale ortoped
+- **Större** nervskador
+    - Epi- eller perineural teknik (9-0)
+    - Undvik tension
+    - Immobilisering i tom 6v.
+
+
+#### Carpaltunnelsyndrom
+
+##### Kliniska drag/Diagnos
+
+Ofta mer symtom i pek-/långfinger än tumme.         
+Tänk på hypotyreos vid bilaterala problem!
+
+- **Symtom**
+    - *Tidiga:*
+        - Nattliga parestesier
+        - Varierande symtom- 
+        - Få symtom dagtid
+    - *Sena:*
+        - Fumlighet
+        - Konstanta symtom
+        - Thenaratrofi
+        - Domningar
+- **Fynd**
+    - Positivt Tinells/Phalens tecken
+    - 2-punktsdiskriminering --- Sent tecken
+- **Undersökningar**
+    - Neurografi
+
+##### Behandling
+
+- Nattskena
+- Kortison(?)
+- NSAID
+- OP --- Oftast väldigt bra resultat. Vänta inte för länge! Risk för skada på
+innervering av *n. radialis*.
+
+#### Ulnarisnervkompression
+
+Oftast cubitaltunneln
+
+##### Kliniska drag/Diagnos
+
+- **Tecken**
+    - *Känselnedsättning:*
+        - Volart dig V (*hög/låg*)
+        - Dorso-ulnara delen av handen (*hög*)
+    - *Svaghet:*
+        - Fingerspretning (*hög/låg*)
+        - FDP (*hög*)
+
+### Artros i handen
+
+- Smärta med smygande debut.
+    - Ansträngningskorrelerad, rörelsekorrelerad, under vila
+- Stelhet
+- Minskad rörlighet --- Tummen dras in -> Hyperextension i MCP-led
+- Svullnad, värmeökning
+- Felställningar kontrakturer
+
+#### Tumbasartros
+
+Vanligare hos kvinnor än män.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+    - Volar smärta som varierar med tiden
+- **Tecken**
+    - Positivt grinding test
+    - Adduktionskontraktur
+
+Rtg av tumbas och handled frontalt. Artros finns ofta i CMC-1 och STT-led.
+
+##### Behandling
+
+- NSAID
+- Ortos
+- Kortisoninjektion --- Ej för ofta
+- OP --- I sista hand.
+    - *Os. trapezium* tas bort. FCR eller APL används för att stabilisera.
+
+#### Heberden artros
+
+Artros i DIP-leden.
+
+##### Kliniska drag/Diagnos
+
+- **Symtom**
+    - Mucoidcysta --- Synovialcysta, *töm inte hemma*!
+    - Knotiga stela, ömma ytterleder
+
+##### Behandling
+
+- NSAID
+- Kortisoninjektion
+- OP-Artrodes --- Så sent som möjligt
+
+#### Bouchard artros
+
+Artors i PIP-leder. Samma symtom som heberden. Svårare att behandla med
+Kortisoninjektion och operation. Särskilt vid upprepade Kortisoninjektioner.
+
+### Kollateralligamentskador
+
+Kan drabba alla småleder. Alltid rtg och sidovacklingstest.
+
+PIP-leder vanligast och kan svullna i månader. Mobilisera så tidigt som möjligt.
+
+##### Behandling
+
+- 2-fingerförband för smärtlindring och enklare mobilisering
+
+### Metatarsalfraktur
+
+Enstaka frakturer är *oftast* stabila. Flera frakturer och
+*icke-*spiralfrakturer ger mer instabilitet.
+
+#### Boxers fracture
+
+Subkapitulär fraktur i metatarsale V.       
+
+##### Behandling
+
+- **Felställning<70 grader** --- Ofta konservativ behandling
+    - Kolla så pat kan sträcka och att fragmentet ej är avhoppat.
+    - Kolla även rotationsfelställning!
+- **Felställning>70 grader**
+    - Reponera, gipsa, följ upp.
+
+### Bennettfraktur
+
+Intraartikulär fraktur i proximalt i metatarsale 1. Fragment dras av APL-senan.
+Ofta sluten reposition med stift.
+
+### Rolandofraktur
+
+Liknar bennet men komminut. Ofta öppen reposition.
+
+### Falangfrakturer
+
+Små vinkel-/rotationsfelställningar kan ge stora problem!
