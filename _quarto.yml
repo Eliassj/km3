@@ -32,11 +32,13 @@ book:
         - urologi/tumörer.qmd
     - part: "Anastesi"
       chapters:
-        - anastesi/anestesiformer.qmd
-        - anastesi/läkemedel.qmd
-        - anastesi/preopbedömning.qmd
-        - anastesi/luftväg.qmd
-        - anastesi/chock.qmd
+        - anestesi/anestesiformer.qmd
+        - anestesi/vätskebalans.qmd
+        - anestesi/läkemedel.qmd
+        - anestesi/preopbedömning.qmd
+        - anestesi/luftväg.qmd
+        - anestesi/chock.qmd
+        - anestesi/dödförklaring.qmd
   appendices:
     - ordlista.qmd
   search:

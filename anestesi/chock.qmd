@@ -5,8 +5,17 @@
 |**Hypovolem**|Blödning<br>Dehydrering|
 |**Obstruktiv**|Massiv lungemboli<br>Övertryckspneumotorax<br>Tamponad|
 |**Kardiogen**|Arytmi<br>Nedsatt myokardfunktion<br>Strukturella problem|
-|**Distributiv**|Sepsis<br>Anafylaktisk<br>Neurogen chock<br>Akut binjurebarkssvikt|
+|**Distributiv**|Sepsis^[Har en mer komplex bild då man kan få blödning, hjärtpåverkan, mikroembolisering och vasodilatation samtidigt.]<br>Anafylaktisk<br>Neurogen chock<br>Akut binjurebarkssvikt|
 
+Chock uppträder då syretillförseln till organ ej uppnår deras behov.
+Definitionsmässigt ska *symtom* från minst 2 organsystem föreligga.
+
+|**Mekanism**|**Effekt**|
+|:---|:---|
+|**Positiv ino-/krontotropi**|Takykardi
+|**Konstriktion av resistens- och kapacitanskärl**|Diastolisk tryckstegring|
+|**Retention av natrium och vatten**||
+|**Perifer insulinresistens och glukoneogenes**|Ökad extracellulär glukoskoncentration.<br>Drar vätska till extracellulärrummet via osmos.
 
 - **Generella chocksymtom**
     - Blekhet
@@ -18,7 +27,7 @@
     - Hypotoni
     - Medvetandepåverkan
 
-## Initialt omhändertagande
+### Initialt omhändertagande
 
 - **ABCDE**
 - **Anamnes**
@@ -28,6 +37,18 @@
 
 Ordinera syrgas, adekvat vätska och tidiga läkemedel (t.ex adrenalin vid tecken
 på anafylaktisk chock) *samtidigt* som ovanstående utförs!
+
+### Generell behandling
+
+- **Inotropa läkemedel**
+    - Dobutamin
+    - Adrenalin
+- **Vätska**
+    - Kristalloid
+    - Kolloid
+    - Blod
+- **Perifer vasokonstriktion**
+    - Noradrenalin
 
 ## Hypovolem chock
 
@@ -56,4 +77,12 @@ på anafylaktisk chock) *samtidigt* som ovanstående utförs!
         - *V. cava inferior* < 2cm eller kollapsgrad > 50%^[Kan även tala för
         distributiv chock. Motsatsen talar för kardiogen eller obstruktiv chock.]
 
+##### Behandling
+
+* **Volymersättning**
+    - *1 liter blodförlust kan ersättas med:*
+        - 2 SAGMAN + 0,5L kolloid
+        - 1L Kolloid
+        - 4L Kristalloid
+        - 2L Kristalloid + 0,5L kolloid
 

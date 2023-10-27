@@ -1,0 +1,89 @@
+# Vätskebalans
+
+#### Basala vätskeförluster
+
+- **Normal diures** är ca 0,5--1,5ml/kg/h (30--35ml/kg/dygn)          
+    - Kan användas för att utvärdera vätskebalans. Högre/lägre värden bör
+    föranleda fundering kring över-/undervätskning.
+- **Hud och slemhinnor** avger ca 0,5ml/kg/h.
+
+#### Perioperativa förluster
+
+- **Mindre kirurgi** --- 100ml/h
+- **Medelstor kirurgi** --- 200ml/h
+- **Stor kirurgi** --- 300ml/h (upp till 400ml/h)
+
+Ovanstående är en baslinje för normal samt perioperativ vätsketillförsel.       
+Vid Blodförlust ger man:            
+Låg blödningsrisk och bra blodvärde -> Kristalloider        
+Medelstor blödning -> Kolloider             
+Blödning som påverkar syretransportförmåga -> Blodprodukter
+
+Acceptala Hb-värden vid operation:            
+**Unga friska** --- > 70--80          
+**Medelåldern** --- > 90            
+**Svårt sjuka** --- > 110
+
+**Acceptabel blödning** beräknas enl:
+
+$$\frac{Hb_{utgångsvärde} - Hb_{acceptabelt}}{Hb_{utgångsvärde}} * Blodvolym$$
+
+Vid blödning > 50% av blodvolymen ges *varje* enhet erytrocytkoncentrat tillsammans
+med en enhet plasma.        
+Vid blödning > 100% av blodvolymen ges istället *färskfrusen* plasma.           
+För var 4e^[Då en enhet trombocyter kommer från 4 donatorer] blod+plasma-enhet som ges ska 1 enhet trombocyter ges!
+
+## Vätskebehandling
+
+::: {.callout-tip}
+
+Det är ofta *bättre* att ge vätska snabbt via PVK än CVK med motsvarande
+lumendiameter. Detta då PVK:n är kortare och därför ger bättre flöde.
+
+:::
+
+### Kolloider
+
+- **Plasma**
+    - Ska ej användas som volymsubstitut om man ej har särskild anledning, t.ex
+    behov av koagulationsfaktorer.
+- **Albumin**
+    - 4%-koncentration --- Motsvarar fysiologisk koncentration.
+    - 20%-koncentration --- Drar vätska från interstitiet.
+- **Dextran-70**
+    - CAVE: Ge Dextran-1 2--15min innan tillförsel för att undvika anafylaktisk chock!
+    - Påverkar trombocytfunktion när man ger >1--1,5L.
+
+### Kristalloider
+
+3/4 av de kristalloider vi ger förloras direkt till interstitiet ->         
+-> 4L krävs för att substituera 1L blodförlust!
+
+- **Ringer-acetat**
+    - <3
+    - Är buffrad och kompenserar för acidostendens vid hypovolemi.
+- **Natriumklorid**
+    - Ska endast ges vid Na^+^/Cl^-^-brist. T.ex hypokloremisk alkalos vid
+    kräkning.
+    - Kan ge förstärkt acidos då Cl^-^-överskott ger ökad renal HCO~3~-utsöndring.
+
+### Glukoslösningar
+
+Är tekniskt sett kristalloider men används generellt mer för
+TPN/vätskesubstitution till fastande. **Helt värdelösa** som snabbt volymsubstitut.
+
+- **Glukos 5%**
+    - Distribueras helt "fritt" i kroppen vid normal insulinfunktion. Krävs
+    därför 12L för att kompensera 1L förlust.
+- **Buffrad glukos 2,5%**
+    - Mellanting mellan Ringer-acetat och glukos 5%. Fördelar sig som helhet
+    50/50 extracellulärt/hela kroppsvattnet.
+    - Bra för rehydrering då man både får vätska extracellulärt och i
+    celler.^[Jmf Ringer-acetat som nästan uteslutande ger extracellulär
+    volym]
+    - Kan precis som Ringer-acetat buffra mot acidos.
+
+### Blodprodukter
+
+4:4:1 är ca lika med 1,8L helblod.
+

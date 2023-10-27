@@ -357,151 +357,158 @@
     "text": "cT3 = klinisk bedömning, pT3 = patologens bedömning↩︎"
   },
   {
-    "objectID": "anastesi/anestesiformer.html#intravenös-anestesi",
-    "href": "anastesi/anestesiformer.html#intravenös-anestesi",
+    "objectID": "anestesi/anestesiformer.html#intravenös-anestesi",
+    "href": "anestesi/anestesiformer.html#intravenös-anestesi",
     "title": "16  Anastesiformer",
     "section": "16.1 Intravenös anestesi",
     "text": "16.1 Intravenös anestesi\n\n16.1.1 TCI — Target Controlled Infusion\nFörstahandsval vid intravenös anestesi.\nÖnskad målkoncentration av läkemedel ställs in efter ålder och kroppsvikt för propofol samt ålder, kroppsvikt, längd och kön för remifentanilinfusion.\nNormal arbetsgång vid TCI:\n\nAntikolinergika ges, preoxygenering startas.\nPropofolinfusionen startas.\nNär propofolets Ce nått 0,2–0,4µg/ml startas remifentanilinfusionen\n\nOm alfentanil används ges istället bolusdos varpå infusion startar.\n\nVid Tubintubation ges muskelrelaxantia då patienten inte reagerar vid beröring eller på kornealstimulering.\nIntubera efter muskelrelaxantia fått effekt.\n\n\n\n16.1.2 TIVA — Total IntraVenous Anaesthesia\n\n\n16.1.3 RSI — Rapid Sequence Induction\nUtförs då man bedömer att risk för aspiration föreligger.\n\nSvåra refluxbesvär\nIcke-fastande patient\nGravid\nIleus\nAppendicit"
   },
   {
-    "objectID": "anastesi/anestesiformer.html#gasanestesi",
-    "href": "anastesi/anestesiformer.html#gasanestesi",
+    "objectID": "anestesi/anestesiformer.html#gasanestesi",
+    "href": "anestesi/anestesiformer.html#gasanestesi",
     "title": "16  Anastesiformer",
     "section": "16.2 Gasanestesi",
     "text": "16.2 Gasanestesi"
   },
   {
-    "objectID": "anastesi/läkemedel.html#analgesi",
-    "href": "anastesi/läkemedel.html#analgesi",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.1 Analgesi",
-    "text": "17.1 Analgesi\n\n17.1.1 Opioider\n\n\n\n\n\n\n\n\nMål\nVerkningar\nBiverkningar\n\n\n\n\nµ-receptorer\nAnalgesiPotentierar sömnmedelMinskar neuroendokrint stresssvar\nAndningsdepressionSederingKlådaUrinretentionParalytisk ileusGallspasmMiosBradykardiIllamåendeKonfusionYrsel\n\n\n\n\n\n\n\n\n\n\n\nOpioid\nDos\nPeak/Duration\n\n\n\n\nFentanyl1:a-handsval vid intraoperativ analgesi.\n100mikrogram = 10mg morfin\n3-5min/30min\n\n\n\n\nFentanyl\n\n+\n\nInga aktiva metaboliter\nKan reverseras\nKortvarig effekt vid enstaka dosering\n\n-\n\nMycket längre effekt vid infusion/höga doser\n\n\n\n\nRemifentanil (UltivaR)\n\n+\n\nMycket snabbverkande\nEffekt försvinner inom minuter\n\n-\n\nGer akut tolerans (takyfylaxi)\nPåtaglig muskelrigiditet\n\n\n\n\nAlfentanil\n\n\nOxykodon\nDubbelt så starkt po som morfin, liknande iv.\n\nOxykodon\n\n\nDos\nAnslag/Duration\n\n\n\n\n0,05-0,1(-0,2) mg/kg iv\n10–15min/3–6h\n\n\n\n\n+\n\nInga aktiva metaboliter\nDuration 3-6h\n\n\n\n\nMorfin\n\n\n\n\n\n\n\n\nDos\nAnslag/Duration\nCAVE\n\n\n\n\n0,05-0,1(-0,2) mg/kg iv\n10–15min/3–6h\nAktiva metaboliterNjursvikt och leversvikt!"
+    "objectID": "anestesi/vätskebalans.html#vätskebehandling",
+    "href": "anestesi/vätskebalans.html#vätskebehandling",
+    "title": "17  Vätskebalans",
+    "section": "17.1 Vätskebehandling",
+    "text": "17.1 Vätskebehandling\n\n\n\n\n\n\nTips\n\n\n\nDet är ofta bättre att ge vätska snabbt via PVK än CVK med motsvarande lumendiameter. Detta då PVK:n är kortare och därför ger bättre flöde.\n\n\n\n17.1.1 Kolloider\n\nPlasma\n\nSka ej användas som volymsubstitut om man ej har särskild anledning, t.ex behov av koagulationsfaktorer.\n\nAlbumin\n\n4%-koncentration — Motsvarar fysiologisk koncentration.\n20%-koncentration — Drar vätska från interstitiet.\n\nDextran-70\n\nCAVE: Ge Dextran-1 2–15min innan tillförsel för att undvika anafylaktisk chock!\nPåverkar trombocytfunktion när man ger &gt;1–1,5L.\n\n\n\n\n17.1.2 Kristalloider\n3/4 av de kristalloider vi ger förloras direkt till interstitiet -&gt;\n-&gt; 4L krävs för att substituera 1L blodförlust!\n\nRinger-acetat\n\n&lt;3\nÄr buffrad och kompenserar för acidostendens vid hypovolemi.\n\nNatriumklorid\n\nSka endast ges vid Na+/Cl--brist. T.ex hypokloremisk alkalos vid kräkning.\nKan ge förstärkt acidos då Cl--överskott ger ökad renal HCO3-utsöndring.\n\n\n\n\n17.1.3 Glukoslösningar\nÄr tekniskt sett kristalloider men används generellt mer för TPN/vätskesubstitution till fastande. Helt värdelösa som snabbt volymsubstitut.\n\nGlukos 5%\n\nDistribueras helt “fritt” i kroppen vid normal insulinfunktion. Krävs därför 12L för att kompensera 1L förlust.\n\nBuffrad glukos 2,5%\n\nMellanting mellan Ringer-acetat och glukos 5%. Fördelar sig som helhet 50/50 extracellulärt/hela kroppsvattnet.\nBra för rehydrering då man både får vätska extracellulärt och i celler.2\nKan precis som Ringer-acetat buffra mot acidos.\n\n\n\n\n17.1.4 Blodprodukter\n4:4:1 är ca lika med 1,8L helblod."
   },
   {
-    "objectID": "anastesi/läkemedel.html#anestesi",
-    "href": "anastesi/läkemedel.html#anestesi",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.2 Anestesi",
-    "text": "17.2 Anestesi\n\nDosering av anestesiläkemedel\n\n\n\n\n\n\nLäkemedel\nDos\n\n\n\n\nPropofol\nInduktion:20–40mg/10s utefter svar1Underhåll:4–12mg/kg/h\n\n\n\n\n17.2.1 Intravenösa\n\nPropofol\nGABAa-modulerare/stimulerare (m.m)\n\nAnvändningsområden\n\nInduktion och underhåll av anastesi\n\n+\n\nSnabbt tillslag\nSnabbt uppvaknande\nAntiemetiskt\nDämpar svalg-/muskelreflexer\nAntiepileptiskt\n\n-\n\nBlotrycksfall — ffa pga vasodilatiation\nAndningsdeprimerande\nSmärta vid injektion\n\n\n\n\nThiopental\nBarbiturat\nGABAa\n\nAnvändningsområden\n\nInduktion av anastesi — Ffa då man vill ha snabbt tillslag (t.ex aspirationsrisk och kejsarsnitt)\nBehandla högt ICP\nStatus epilepticus\n\n+\n\nSnabbt tillslag\nAnti-epileptiskt\n\n-\n\nLaryngo-/bronkospasm\nBlodtrycksfall\nAndningsdepression\nLångsam metabolisering, aktiv metabolit\nVävnadsnekros vid sc-injektion\n\n\n\n\nMidazolam (DormicumR)\nBensodiazepin\n\nAnvändningsområden\n\nAnxiolys inför operation\nSedering\nKan ej ensamt inducera djup anastesi\n\n+\n\nLiten hemodynamisk påverkan\nAnti-epileptiskt\nReverserbart (Flumazenil)\nKan administreras po, iv, rektalt, nasalt\n\n-\n\nLångsamt, dålig styrbarhet\nStora doser vid ensam användnin\nAnterograd amnesi\nAktiva metaboliter\n\n\n\n\nKetamin (KetalarR)\nNMDA-receptorantagonist\n\nAnvändningsområden\n\nInduktion och underhåll av anastesi\n\nFfa vid chock, svår lokal(krig, olycka)\n\nStarkt analgetiskt\n\n+\n\nSnabbt (30–60s) tillslag, duration 15–20min\nMindre andnings-/blodtryckspåverkan\nKan administreras po, rektalt, iv, im\n\n-\n\nPsykiska biverkningar — Mardrömmar, hallucinationer\n\nGe låg dos midazolam först\n\n\n\n\n\n\n17.2.2 Gaser\n\nSevofluran\n\n+\n\nEj slemhinne-/bronkdilaterande\nKan ges till barn och vuxna\nBra till astmatiker\n\n-\n\nKan bilda njurtoxiska ämnen\nIllamående\nRisk för malign hypertermi"
+    "objectID": "anestesi/vätskebalans.html#footnotes",
+    "href": "anestesi/vätskebalans.html#footnotes",
+    "title": "17  Vätskebalans",
+    "section": "",
+    "text": "Då en enhet trombocyter kommer från 4 donatorer↩︎\nJmf Ringer-acetat som nästan uteslutande ger extracellulär volym↩︎"
   },
   {
-    "objectID": "anastesi/läkemedel.html#relaxantia",
-    "href": "anastesi/läkemedel.html#relaxantia",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.3 Relaxantia",
-    "text": "17.3 Relaxantia\n\nCelocurin/Suxametason\n\n\nRocuronium\n\n\nMivacurium"
+    "objectID": "anestesi/läkemedel.html#analgesi",
+    "href": "anestesi/läkemedel.html#analgesi",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.1 Analgesi",
+    "text": "18.1 Analgesi\n\n18.1.1 Opioider\n\n\n\n\n\n\n\n\nMål\nVerkningar\nBiverkningar\n\n\n\n\nµ-receptorer\nAnalgesiPotentierar sömnmedelMinskar neuroendokrint stresssvar\nAndningsdepressionSederingKlådaUrinretentionParalytisk ileusGallspasmMiosBradykardiIllamåendeKonfusionYrsel\n\n\n\n\n\n\n\n\n\n\n\nOpioid\nDos\nPeak/Duration\n\n\n\n\nFentanyl1:a-handsval vid intraoperativ analgesi.\n100mikrogram = 10mg morfin\n3-5min/30min\n\n\n\n\nFentanyl\n\n+\n\nInga aktiva metaboliter\nKan reverseras\nKortvarig effekt vid enstaka dosering\n\n-\n\nMycket längre effekt vid infusion/höga doser\n\n\n\n\nRemifentanil (UltivaR)\n\n+\n\nMycket snabbverkande\nEffekt försvinner inom minuter\n\n-\n\nGer akut tolerans (takyfylaxi)\nPåtaglig muskelrigiditet\n\n\n\n\nAlfentanil\n\n\nOxykodon\nDubbelt så starkt po som morfin, liknande iv.\n\nOxykodon\n\n\nDos\nAnslag/Duration\n\n\n\n\n0,05-0,1(-0,2) mg/kg iv\n10–15min/3–6h\n\n\n\n\n+\n\nInga aktiva metaboliter\nDuration 3-6h\n\n\n\n\nMorfin\n\n\n\n\n\n\n\n\nDos\nAnslag/Duration\nCAVE\n\n\n\n\n0,05-0,1(-0,2) mg/kg iv\n10–15min/3–6h\nAktiva metaboliterNjursvikt och leversvikt!"
   },
   {
-    "objectID": "anastesi/läkemedel.html#tryckhöjande",
-    "href": "anastesi/läkemedel.html#tryckhöjande",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.4 Tryckhöjande",
-    "text": "17.4 Tryckhöjande"
+    "objectID": "anestesi/läkemedel.html#anestesi",
+    "href": "anestesi/läkemedel.html#anestesi",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.2 Anestesi",
+    "text": "18.2 Anestesi\n\nDosering av anestesiläkemedel\n\n\n\n\n\n\nLäkemedel\nDos\n\n\n\n\nPropofol\nInduktion:20–40mg/10s utefter svar1Underhåll:4–12mg/kg/h\n\n\n\n\n18.2.1 Intravenösa\n\nPropofol\nGABAa-modulerare/stimulerare (m.m)\n\nAnvändningsområden\n\nInduktion och underhåll av anastesi\n\n+\n\nSnabbt tillslag\nSnabbt uppvaknande\nAntiemetiskt\nDämpar svalg-/muskelreflexer\nAntiepileptiskt\n\n-\n\nBlotrycksfall — ffa pga vasodilatiation\nAndningsdeprimerande\nSmärta vid injektion\n\n\n\n\nThiopental\nBarbiturat\nGABAa\n\nAnvändningsområden\n\nInduktion av anastesi — Ffa då man vill ha snabbt tillslag (t.ex aspirationsrisk och kejsarsnitt)\nBehandla högt ICP\nStatus epilepticus\n\n+\n\nSnabbt tillslag\nAnti-epileptiskt\n\n-\n\nLaryngo-/bronkospasm\nBlodtrycksfall\nAndningsdepression\nLångsam metabolisering, aktiv metabolit\nVävnadsnekros vid sc-injektion\n\n\n\n\nMidazolam (DormicumR)\nBensodiazepin\n\nAnvändningsområden\n\nAnxiolys inför operation\nSedering\nKan ej ensamt inducera djup anastesi\n\n+\n\nLiten hemodynamisk påverkan\nAnti-epileptiskt\nReverserbart (Flumazenil)\nKan administreras po, iv, rektalt, nasalt\n\n-\n\nLångsamt, dålig styrbarhet\nStora doser vid ensam användnin\nAnterograd amnesi\nAktiva metaboliter\n\n\n\n\nKetamin (KetalarR)\nNMDA-receptorantagonist\n\nAnvändningsområden\n\nInduktion och underhåll av anastesi\n\nFfa vid chock, svår lokal(krig, olycka)\n\nStarkt analgetiskt\n\n+\n\nSnabbt (30–60s) tillslag, duration 15–20min\nMindre andnings-/blodtryckspåverkan\nKan administreras po, rektalt, iv, im\n\n-\n\nPsykiska biverkningar — Mardrömmar, hallucinationer\n\nGe låg dos midazolam först\n\n\n\n\n\n\n18.2.2 Gaser\n\nSevofluran\n\n+\n\nEj slemhinne-/bronkdilaterande\nKan ges till barn och vuxna\nBra till astmatiker\n\n-\n\nKan bilda njurtoxiska ämnen\nIllamående\nRisk för malign hypertermi"
   },
   {
-    "objectID": "anastesi/läkemedel.html#antikolinergika",
-    "href": "anastesi/läkemedel.html#antikolinergika",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.5 Antikolinergika",
-    "text": "17.5 Antikolinergika\nGes före anestesi för att minska slemsekretion."
+    "objectID": "anestesi/läkemedel.html#relaxantia",
+    "href": "anestesi/läkemedel.html#relaxantia",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.3 Relaxantia",
+    "text": "18.3 Relaxantia\n\nCelocurin/Suxametason\n\n\nRocuronium\n\n\nMivacurium"
   },
   {
-    "objectID": "anastesi/läkemedel.html#antidoter",
-    "href": "anastesi/läkemedel.html#antidoter",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.6 Antidoter",
-    "text": "17.6 Antidoter"
+    "objectID": "anestesi/läkemedel.html#tryckhöjande",
+    "href": "anestesi/läkemedel.html#tryckhöjande",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.4 Tryckhöjande",
+    "text": "18.4 Tryckhöjande"
   },
   {
-    "objectID": "anastesi/läkemedel.html#lokalanestetika",
-    "href": "anastesi/läkemedel.html#lokalanestetika",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.7 Lokalanestetika",
-    "text": "17.7 Lokalanestetika\n\nRopivacain"
+    "objectID": "anestesi/läkemedel.html#antikolinergika",
+    "href": "anestesi/läkemedel.html#antikolinergika",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.5 Antikolinergika",
+    "text": "18.5 Antikolinergika\nGes före anestesi för att minska slemsekretion."
   },
   {
-    "objectID": "anastesi/läkemedel.html#antiemetika",
-    "href": "anastesi/läkemedel.html#antiemetika",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.8 Antiemetika",
-    "text": "17.8 Antiemetika"
+    "objectID": "anestesi/läkemedel.html#antidoter",
+    "href": "anestesi/läkemedel.html#antidoter",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.6 Antidoter",
+    "text": "18.6 Antidoter"
   },
   {
-    "objectID": "anastesi/läkemedel.html#en-bild",
-    "href": "anastesi/läkemedel.html#en-bild",
-    "title": "17  Anestesiläkemedel",
-    "section": "17.9 En bild",
-    "text": "17.9 En bild\n\n\n\n\n\n\n\nkoag\n\n \n\ncluster_0\n\n Extrinsic  \n\ncluster_1\n\n Intrinsic  \n\ncluster_2\n\n   \n\n1\n\nI   \n\n2\n\nII   \n\n2-&gt;1\n\n    \n\n5\n\n V   \n\n2-&gt;5\n\n    \n\n11\n\nXI   \n\n2-&gt;11\n\n    \n\n13\n\nXIII   \n\n2-&gt;13\n\n    \n\n8\n\n VIII   \n\n2-&gt;8\n\n  Positiv feedback    \n\ntrombmod\n\nTrombomodulin   \n\n2-&gt;trombmod\n\n  Kofaktor    \n\n3\n\nIII   \n\n7\n\nVII   \n\n3-&gt;7\n\n    \n\n5-&gt;2\n\n    \n\n9\n\n IX   \n\n7-&gt;9\n\n    \n\n10\n\nX   \n\n7-&gt;10\n\n    \n\n9-&gt;10\n\n    \n\n10-&gt;5\n\n    \n\n11-&gt;9\n\n    \n\n12\n\nXII   \n\n12-&gt;11\n\n    \n\n13-&gt;1\n\n  Stabiliserar   \n\n8-&gt;9\n\n  Kofaktor    \n\nHemA\n\nHemofili A   \n\nHemA-&gt;8\n\n   \n\nHemB\n\nHemofili B   \n\nHemB-&gt;9\n\n   \n\nAntitrombin\n\nAntitrombin   \n\nAntitrombin-&gt;2\n\n     \n\nAntitrombin-&gt;10\n\n     \n\nprotC\n\nProtein C   \n\ntrombmod-&gt;protC\n\n  Protein S   \n\nprotC-&gt;5\n\n     \n\nprotC-&gt;8\n\n     \n\nplasminogen\n\nPlasminogen   \n\nplasmin\n\nPlasmin   \n\nplasminogen-&gt;plasmin\n\n  tPA  Urokinas Kallikrein   \n\nplasmin-&gt;1\n\n   Degraderar   \n\nvWF\n\n vWF   \n\nvWF-&gt;8\n\n Stabiliserar   \n\nTTP\n\nTTP   \n\nTTP-&gt;vWF\n\n Ansamling    \n\nvwfsjkd\n\nvon Willebrands sjukdom   \n\nvwfsjkd-&gt;vWF\n\n brist    \n\napcres\n\nAPC-resistens f-V Leiden   \n\napcres-&gt;5"
+    "objectID": "anestesi/läkemedel.html#lokalanestetika",
+    "href": "anestesi/läkemedel.html#lokalanestetika",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.7 Lokalanestetika",
+    "text": "18.7 Lokalanestetika\n\nRopivacain"
   },
   {
-    "objectID": "anastesi/läkemedel.html#footnotes",
-    "href": "anastesi/läkemedel.html#footnotes",
-    "title": "17  Anestesiläkemedel",
+    "objectID": "anestesi/läkemedel.html#antiemetika",
+    "href": "anestesi/läkemedel.html#antiemetika",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.8 Antiemetika",
+    "text": "18.8 Antiemetika"
+  },
+  {
+    "objectID": "anestesi/läkemedel.html#en-bild",
+    "href": "anestesi/läkemedel.html#en-bild",
+    "title": "18  Anestesiläkemedel",
+    "section": "18.9 En bild",
+    "text": "18.9 En bild\n\n\n\n\n\n\n\nkoag\n\n \n\ncluster_0\n\n Extrinsic  \n\ncluster_1\n\n Intrinsic  \n\ncluster_2\n\n   \n\n1\n\nI   \n\n2\n\nII   \n\n2-&gt;1\n\n    \n\n5\n\n V   \n\n2-&gt;5\n\n    \n\n11\n\nXI   \n\n2-&gt;11\n\n    \n\n13\n\nXIII   \n\n2-&gt;13\n\n    \n\n8\n\n VIII   \n\n2-&gt;8\n\n  Positiv feedback    \n\ntrombmod\n\nTrombomodulin   \n\n2-&gt;trombmod\n\n  Kofaktor    \n\n3\n\nIII   \n\n7\n\nVII   \n\n3-&gt;7\n\n    \n\n5-&gt;2\n\n    \n\n9\n\n IX   \n\n7-&gt;9\n\n    \n\n10\n\nX   \n\n7-&gt;10\n\n    \n\n9-&gt;10\n\n    \n\n10-&gt;5\n\n    \n\n11-&gt;9\n\n    \n\n12\n\nXII   \n\n12-&gt;11\n\n    \n\n13-&gt;1\n\n  Stabiliserar   \n\n8-&gt;9\n\n  Kofaktor    \n\nHemA\n\nHemofili A   \n\nHemA-&gt;8\n\n   \n\nHemB\n\nHemofili B   \n\nHemB-&gt;9\n\n   \n\nAntitrombin\n\nAntitrombin   \n\nAntitrombin-&gt;2\n\n     \n\nAntitrombin-&gt;10\n\n     \n\nprotC\n\nProtein C   \n\ntrombmod-&gt;protC\n\n  Protein S   \n\nprotC-&gt;5\n\n     \n\nprotC-&gt;8\n\n     \n\nplasminogen\n\nPlasminogen   \n\nplasmin\n\nPlasmin   \n\nplasminogen-&gt;plasmin\n\n  tPA  Urokinas Kallikrein   \n\nplasmin-&gt;1\n\n   Degraderar   \n\nvWF\n\n vWF   \n\nvWF-&gt;8\n\n Stabiliserar   \n\nTTP\n\nTTP   \n\nTTP-&gt;vWF\n\n Ansamling    \n\nvwfsjkd\n\nvon Willebrands sjukdom   \n\nvwfsjkd-&gt;vWF\n\n brist    \n\napcres\n\nAPC-resistens f-V Leiden   \n\napcres-&gt;5"
+  },
+  {
+    "objectID": "anestesi/läkemedel.html#footnotes",
+    "href": "anestesi/läkemedel.html#footnotes",
+    "title": "18  Anestesiläkemedel",
     "section": "",
     "text": "Pat &gt;55 eller ASA &gt;2 bör doseras försiktigare↩︎"
   },
   {
-    "objectID": "anastesi/preopbedömning.html#anamnes",
-    "href": "anastesi/preopbedömning.html#anamnes",
-    "title": "18  Preoperativ bedömning",
-    "section": "18.1 Anamnes",
-    "text": "18.1 Anamnes\n\nRökning\nAlkohol\nRefluxbesvär"
+    "objectID": "anestesi/preopbedömning.html#anamnes",
+    "href": "anestesi/preopbedömning.html#anamnes",
+    "title": "19  Preoperativ bedömning",
+    "section": "19.1 Anamnes",
+    "text": "19.1 Anamnes\n\nRökning\nAlkohol\nRefluxbesvär"
   },
   {
-    "objectID": "anastesi/preopbedömning.html#status",
-    "href": "anastesi/preopbedömning.html#status",
-    "title": "18  Preoperativ bedömning",
-    "section": "18.2 Status",
-    "text": "18.2 Status"
+    "objectID": "anestesi/preopbedömning.html#status",
+    "href": "anestesi/preopbedömning.html#status",
+    "title": "19  Preoperativ bedömning",
+    "section": "19.2 Status",
+    "text": "19.2 Status"
   },
   {
-    "objectID": "anastesi/preopbedömning.html#läkemedel",
-    "href": "anastesi/preopbedömning.html#läkemedel",
-    "title": "18  Preoperativ bedömning",
-    "section": "18.3 Läkemedel",
-    "text": "18.3 Läkemedel"
+    "objectID": "anestesi/preopbedömning.html#läkemedel",
+    "href": "anestesi/preopbedömning.html#läkemedel",
+    "title": "19  Preoperativ bedömning",
+    "section": "19.3 Läkemedel",
+    "text": "19.3 Läkemedel"
   },
   {
-    "objectID": "anastesi/preopbedömning.html#luftvägsbedömning",
-    "href": "anastesi/preopbedömning.html#luftvägsbedömning",
-    "title": "18  Preoperativ bedömning",
-    "section": "18.4 Luftvägsbedömning",
-    "text": "18.4 Luftvägsbedömning"
+    "objectID": "anestesi/preopbedömning.html#luftvägsbedömning",
+    "href": "anestesi/preopbedömning.html#luftvägsbedömning",
+    "title": "19  Preoperativ bedömning",
+    "section": "19.4 Luftvägsbedömning",
+    "text": "19.4 Luftvägsbedömning"
   },
   {
-    "objectID": "anastesi/luftväg.html#akut-andningspåverkan",
-    "href": "anastesi/luftväg.html#akut-andningspåverkan",
-    "title": "19  Luftväg",
-    "section": "19.1 Akut andningspåverkan",
-    "text": "19.1 Akut andningspåverkan\n\n19.1.1 Blodgastolkning\nBegrepp:\nAlkalemi — pH&gt;7,45\nAcidemi — pH&lt;7,35\nAlkalos — Process som höjer pH\nAcidos — Process som sänker pH\n\nBlodgasvärden (arteriella)\n\n\n\n\n\n\n\n\nTillstånd\npH\npCO2\nBE\n\n\n\n\nNormalt\n7,35–7,45\n4,6–6,0kPa\n-3,0–3,0\n\n\nMetabol acidosOkompenseradKompenserad\n&lt;7,35Normalt\nNormalt&lt;4,6\n&lt;-3&lt;-3\n\n\nRespiratorisk acidosOkompenseradKompenserad\n&lt;7,35Normalt\n&gt;6,0&gt;6,0\nNormalt&gt;3\n\n\nMetabol alkalosOkompenseradKompenserad\n&gt;7,45Normalt\nNormalt&lt;4,6\n&gt;3&gt;3\n\n\nRespiratorisk alkalosOkompenseradKompenserad\n&gt;7,45Normalt\n&gt;6,0&gt;6,0\nNormalt&lt;-3\n\n\n\n\nBeräkning av anjongap\nAnjongapet är till största del relevant vid metabol acidos.\nDet representerar det normala överskottet av anjoner i blodet när Na+, Cl- och HCO3 räknats bort. Dessa utgörs ffa av negativt laddat protein (ffa albumin).\nAnjongapet beräknas enl:\n\\[Na^+ + Övriga\\ katjoner = Cl^- + HCO_3 + Övriga\\ anjoner\\] \\[Na^+ - (Cl^- + HCO_3) = Övriga\\ anjoner-Övriga\\ katjoner\\] \\[\\boldsymbol{Na^+ - (Cl^- + HCO_3) = Anjongap}\\]\nNormalvärde är 12+/-2 i äldre blodgasapparater.\nI nyare maskiner kan normalvärdet vara 6+/-3 då vissa ger högre kloridvärde.\nDet finns 2 grupper av tillstånd som kan skiljas med anjongap:\n\n\n\n\n\n\n\nMetabol acidos med normalt anjongapUreterostomiSmall bowel fistulaExtra chlorideDiarrheaCarbonic anhydrase inhibitorRenal tubular acidosisAdrenal insufficiencyPancreatic fistula\nHyperkloremisk metabol acidos. HCCO3 förlust ger Cl--retention eller Cl--retention som kompenseras med HCO3-utsöndring.\n\n\n\n\n\nKliniska drag/Diagnos\n\nTitta:\n\nPanik?\nAndningsmönster\n\nFrekvens? Paradoxal?\n\nHållning? — Vill ej ligga, sitter framåtlutad\nCyanos?\nErytem?\nHalsvenstas — Halsvener &gt;4cm över sternum -&gt; CVP&gt;9cm H2O2\n\nSes vid högerkammarsvikt, lungemboli, hjärttamponad, stor tricuspidalisinsufficiens(ger pulserande halsvener).\n\n\nLyssna:\n\nKan tala?\nStridor?\nSnarkningar?\nLungjud? — Liksidiga, rassel, ronki, dämpning, perkussionston\n\nKänn:\n\nFinns något i munnen?\nGår trachea där den ska? (Ffa vid trauma)\nLiksidiga andningsrörelser?\nKotpelare?\n\nBedöm säker luftväg:\n\nÄr luftvägen hotad nu?\nKan tillståndet försämras snabbt?\nBehövs intubation?\n\nLabbvärden\n\nPulsoximeter — Kan visa 100% trots respiratorisk svikt! Säger inget om CO2. Methemoglobin och kolmonoxidförgiftning ger falskt förhöjda värden.\nBlodgas — pCO2 skiljer sig ca 1kPa mellan venöst och arteriellt blod.\nTroponin-T — Förhöjt värde med dynamik talar för hjärtinfarkt. Ses även vid lungemboli och hjärtsvikt.\nD-dimer — Förhöjt värde talar för DVT/lungemboli. Mycket ospecifikt. Tas endast vid låg sannolikhet för att utesluta DVT/lungemboli.\n\n\n\nOrsaker till dyspné\n\n\n\n\n\n\n\nOrsak\nTecken\nHandläggning\n\n\n\n\nOfri luftväg\nStridorPanikParadoxala andningsrörelserKan ej tala\nSe nedan\n\n\nLungemboli\nSmärtaTakykardiPassande anamnes\nEfter Wells score\n\n\n\n\nWells score\n\n\n\n\n\n\nKriterie\nPoäng\n\n\n\n\nKliniska symtom talande för DVT\n3p\n\n\nAndra diagnoser mindre sannolika\n3p\n\n\nHF&gt;100slag/min\n1,5p\n\n\nImmobilisering/kirurgi de senaste 4 veckorna\n1,5p\n\n\nTidigare DVT/lungemboli\n1.5p\n\n\nHemoptys\n1p\n\n\nMalignitet\n1p\n\n\nSannolikhet\nTotalpoäng\n\n\nHög\n&gt;6\n\n\nMåttlig\n2–6p\n\n\nLåg\n&lt;2p\n\n\n\n\nOrsaker till ofri luftväg\n\n\n\n\n\n\nOrsak\nHandläggning\n\n\n\n\nFrämmande kropp\nRyggdunk, HeimlischTitta i svalgetBronkoskopi\n\n\nMedvetslöshet\nFramstupa sidolägeKäklyftNäskantarellSvalgtubIntubation\n\n\nKräkning3\nFramstupa sidolägeSugIntubation\n\n\nBlödningt.ex näsblödning\nTamponadPacka\n\n\nAnafylaxi4\n0.5mg adrenalin imRepetera adrenalinVentolinIntuberaKortisonAntihistamin\n\n\nAngioödem(Quinckeödem)\nSvarar ej på adrenalinFirasyr, Danasol5\n\n\nInfektionEpiglottitMunbottenflegmone\nÖvervakningIntubation"
+    "objectID": "anestesi/luftväg.html#akut-andningspåverkan",
+    "href": "anestesi/luftväg.html#akut-andningspåverkan",
+    "title": "20  Luftväg",
+    "section": "20.1 Akut andningspåverkan",
+    "text": "20.1 Akut andningspåverkan\n\n20.1.1 Blodgastolkning\nBegrepp:\nAlkalemi — pH&gt;7,45\nAcidemi — pH&lt;7,35\nAlkalos — Process som höjer pH\nAcidos — Process som sänker pH\n\nBlodgasvärden (arteriella)\n\n\n\n\n\n\n\n\nTillstånd\npH\npCO2\nBE\n\n\n\n\nNormalt\n7,35–7,45\n4,6–6,0kPa\n-3,0–3,0\n\n\nMetabol acidosOkompenseradKompenserad\n&lt;7,35Normalt\nNormalt&lt;4,6\n&lt;-3&lt;-3\n\n\nRespiratorisk acidosOkompenseradKompenserad\n&lt;7,35Normalt\n&gt;6,0&gt;6,0\nNormalt&gt;3\n\n\nMetabol alkalosOkompenseradKompenserad\n&gt;7,45Normalt\nNormalt&lt;4,6\n&gt;3&gt;3\n\n\nRespiratorisk alkalosOkompenseradKompenserad\n&gt;7,45Normalt\n&gt;6,0&gt;6,0\nNormalt&lt;-3\n\n\n\n\nBeräkning av anjongap\nAnjongapet är till största del relevant vid metabol acidos.\nDet representerar i normalfallet överskottet av anjoner i blodet när Na+, Cl- och HCO3 räknats bort. Dessa utgörs ffa av negativt laddat protein (ffa albumin).\nAnjongapet beräknas enl:\n\\[Na^+ + Övriga\\ katjoner = Cl^- + HCO_3 + Övriga\\ anjoner\\] \\[Na^+ - (Cl^- + HCO_3) = Övriga\\ anjoner-Övriga\\ katjoner\\] \\[\\boldsymbol{Na^+ - (Cl^- + HCO_3) = Anjongap}\\]\nNormalvärde är 12+/-2 i äldre blodgasapparater.\nI nyare maskiner kan normalvärdet vara 6+/-3 då vissa ger högre kloridvärde.\nDet finns 2 grupper av tillstånd som kan skiljas med anjongap:\n\n“Minnesregler” USEDCRAP och MUDPILES\n\n\n\n\n\n\nMetabol acidos med normalt anjongapUreterostomiSmall bowel fistulaExtra chlorideDiarrheaCarbonic anhydrase inhibitorRenal tubular acidosisAdrenal insufficiencyPancreatic fistula\nHyperkloremisk metabol acidos. HCCO3 förlust ger Cl--retention eller Cl--retention som kompenseras med HCO3-utsöndring.\n\n\nMetabol acidos med förhöjt anjongapMetanol, MorfinUremiDiabetisk ketoacidosPyroglutamat, PropylenglykolIsonidazid, IronLaktatEtylenglykol, EtanolketoacidosSalicylsyra, Solvents, Svält ketoacidos\nHär finns en eller flera förklarande anjoner som ger metabol acidos (t.ex laktat).\n\n\n\n\n\nKliniska drag/Diagnos\n\nTitta:\n\nPanik?\nAndningsmönster\n\nFrekvens? Paradoxal?\n\nHållning? — Vill ej ligga, sitter framåtlutad\nCyanos?\nErytem?\nHalsvenstas — Halsvener &gt;4cm över sternum -&gt; CVP&gt;9cm H2O2\n\nSes vid högerkammarsvikt, lungemboli, hjärttamponad, stor tricuspidalisinsufficiens(ger pulserande halsvener).\n\n\nLyssna:\n\nKan tala?\nStridor?\nSnarkningar?\nLungjud? — Liksidiga, rassel, ronki, dämpning, perkussionston\n\nKänn:\n\nFinns något i munnen?\nGår trachea där den ska? (Ffa vid trauma)\nLiksidiga andningsrörelser?\nKotpelare?\n\nBedöm säker luftväg:\n\nÄr luftvägen hotad nu?\nKan tillståndet försämras snabbt?\nBehövs intubation?\n\nLabbvärden\n\nPulsoximeter — Kan visa 100% trots respiratorisk svikt! Säger inget om CO2. Methemoglobin och kolmonoxidförgiftning ger falskt förhöjda värden.\nBlodgas — pCO2 skiljer sig ca 1kPa mellan venöst och arteriellt blod.\nTroponin-T — Förhöjt värde med dynamik talar för hjärtinfarkt. Ses även vid lungemboli och hjärtsvikt.\nD-dimer — Förhöjt värde talar för DVT/lungemboli. Mycket ospecifikt. Tas endast vid låg sannolikhet för att utesluta DVT/lungemboli.\n\n\n\nOrsaker till dyspné\n\n\n\n\n\n\n\nOrsak\nTecken\nHandläggning\n\n\n\n\nOfri luftväg\nStridorPanikParadoxala andningsrörelserKan ej tala\nSe nedan\n\n\nLungemboli\nSmärtaTakykardiPassande anamnes\nEfter Wells score\n\n\n\n\nWells score\n\n\n\n\n\n\nKriterie\nPoäng\n\n\n\n\nKliniska symtom talande för DVT\n3p\n\n\nAndra diagnoser mindre sannolika\n3p\n\n\nHF&gt;100slag/min\n1,5p\n\n\nImmobilisering/kirurgi de senaste 4 veckorna\n1,5p\n\n\nTidigare DVT/lungemboli\n1.5p\n\n\nHemoptys\n1p\n\n\nMalignitet\n1p\n\n\nSannolikhet\nTotalpoäng\n\n\nHög\n&gt;6\n\n\nMåttlig\n2–6p\n\n\nLåg\n&lt;2p\n\n\n\n\nOrsaker till ofri luftväg\n\n\n\n\n\n\nOrsak\nHandläggning\n\n\n\n\nFrämmande kropp\nRyggdunk, HeimlischTitta i svalgetBronkoskopi\n\n\nMedvetslöshet\nFramstupa sidolägeKäklyftNäskantarellSvalgtubIntubation\n\n\nKräkning3\nFramstupa sidolägeSugIntubation\n\n\nBlödningt.ex näsblödning\nTamponadPacka\n\n\nAnafylaxi4\n0.5mg adrenalin imRepetera adrenalinVentolinIntuberaKortisonAntihistamin\n\n\nAngioödem(Quinckeödem)\nSvarar ej på adrenalinFirasyr, Danasol5\n\n\nInfektionEpiglottitMunbottenflegmone\nÖvervakningIntubation"
   },
   {
-    "objectID": "anastesi/luftväg.html#footnotes",
-    "href": "anastesi/luftväg.html#footnotes",
-    "title": "19  Luftväg",
+    "objectID": "anestesi/luftväg.html#footnotes",
+    "href": "anestesi/luftväg.html#footnotes",
+    "title": "20  Luftväg",
     "section": "",
     "text": "CAVE: Torra slemhinnor. Byt till mask om man ska använda länge/mer än ett fåtal l/min↩︎\nOftast↩︎\nLämna aldrig patienter på traumabräda ensamma!↩︎\nTa tryptas i akutskedet för att verifiera sann anafylaxi, jämför 8h senare↩︎\nBradykininreceptorantagonister↩︎"
   },
   {
-    "objectID": "anastesi/chock.html#initialt-omhändertagande",
-    "href": "anastesi/chock.html#initialt-omhändertagande",
-    "title": "20  Chock",
-    "section": "20.1 Initialt omhändertagande",
-    "text": "20.1 Initialt omhändertagande\n\nABCDE\nAnamnes\nBlodprov\nEKG\nBedside-ULJ\n\nOrdinera syrgas, adekvat vätska och tidiga läkemedel (t.ex adrenalin vid tecken på anafylaktisk chock) samtidigt som ovanstående utförs!"
+    "objectID": "anestesi/chock.html#hypovolem-chock",
+    "href": "anestesi/chock.html#hypovolem-chock",
+    "title": "21  Chock",
+    "section": "21.1 Hypovolem chock",
+    "text": "21.1 Hypovolem chock\n\n\n\n\n\n\n\nBlodförlust\nEffekter\n\n\n\n\n10–15%\nInga\n\n\n15–30%\nOro/ÅngestTakypnéTakykardiBlekhetFördröjd kapillär återfyllnad\n\n\n30–40%\nKonfusionÖkad takypnéBlekhetKyla\n\n\n&gt;40%\nOfta medvetslöshet\n\n\n\n\nKliniska drag/Diagnos\n\nTecken/symtom\n\nTidiga:\n\nAndningskorrelerad variation i blodtryckskurvan — Kan ses redan när andra symtom saknas.\nMinskad pulsamplitud pga ökat diastoliskt tryck och bibehållet systoliskt. Perifera pulsationer blir alltså svagare innan systoliskt blodtryck börjar falla.\nTakykardi — HF &gt; Systoliskt blodtryck = allvarligt, ofta efter 1,5–2 liters blödning.\nÄldre sjunker ofta i systoliskt tryck med mindre/utan ovanstående varningstecken.\n\n\nUndersökningar\n\nULJ:\n\nV. cava inferior &lt; 2cm eller kollapsgrad &gt; 50%2\n\n\n\n\n\nBehandling\n\nVolymersättning\n\n1 liter blodförlust kan ersättas med:\n\n2 SAGMAN + 0,5L kolloid\n1L Kolloid\n4L Kristalloid\n2L Kristalloid + 0,5L kolloid"
   },
   {
-    "objectID": "anastesi/chock.html#hypovolem-chock",
-    "href": "anastesi/chock.html#hypovolem-chock",
-    "title": "20  Chock",
-    "section": "20.2 Hypovolem chock",
-    "text": "20.2 Hypovolem chock\n\n\n\n\n\n\n\nBlodförlust\nEffekter\n\n\n\n\n10–15%\nInga\n\n\n15–30%\nOro/ÅngestTakypnéTakykardiBlekhetFördröjd kapillär återfyllnad\n\n\n30–40%\nKonfusionÖkad takypnéBlekhetKyla\n\n\n&gt;40%\nOfta medvetslöshet\n\n\n\n\nKliniska drag/Diagnos\n\nTecken/symtom\n\nTidiga:\n\nAndningskorrelerad variation i blodtryckskurvan — Kan ses redan när andra symtom saknas.\nMinskad pulsamplitud pga ökat diastoliskt tryck och bibehållet systoliskt. Perifera pulsationer blir alltså svagare innan systoliskt blodtryck börjar falla.\nTakykardi — HF &gt; Systoliskt blodtryck = allvarligt, ofta efter 1,5–2 liters blödning.\nÄldre sjunker ofta i systoliskt tryck med mindre/utan ovanstående varningstecken.\n\n\nUndersökningar\n\nULJ:\n\nV. cava inferior &lt; 2cm eller kollapsgrad &gt; 50%1"
-  },
-  {
-    "objectID": "anastesi/chock.html#footnotes",
-    "href": "anastesi/chock.html#footnotes",
-    "title": "20  Chock",
+    "objectID": "anestesi/chock.html#footnotes",
+    "href": "anestesi/chock.html#footnotes",
+    "title": "21  Chock",
     "section": "",
-    "text": "Kan även tala för distributiv chock. Motsatsen talar för kardiogen eller obstruktiv chock.↩︎"
+    "text": "Har en mer komplex bild då man kan få blödning, hjärtpåverkan, mikroembolisering och vasodilatation samtidigt.↩︎\nKan även tala för distributiv chock. Motsatsen talar för kardiogen eller obstruktiv chock.↩︎"
   },
   {
     "objectID": "ordlista.html#ortopedi",
@@ -530,5 +537,12 @@
     "title": "Appendix A — Ordlista",
     "section": "",
     "text": "BruceBlaus, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, via Wikimedia Commons↩︎"
+  },
+  {
+    "objectID": "anestesi/dödförklaring.html",
+    "href": "anestesi/dödförklaring.html",
+    "title": "22  Dödsförklaring",
+    "section": "",
+    "text": "Indirekta kriterier\nSka visa att ”att hjärnans samtliga funktioner totalt och oåterkalleligen har fallit bort”.\n\nIngen palpabel puls\nInga hörbara hjärtslag\nIngen spontanandning\nLjusstela, oftast vida pupiller\n\n\n\nDirekta kriterier\nAnvänds ffa på IVA-patienter där andning och cirkulation ofta fortsätter då syresättning sköts av respirator.\nLägsta temperaturgräns för att kunna dödförklara på klinisk neurologisk undersökning är 35 grader.\n\nUteslut reversibla orsaker (t.ex sedering)\n\n5 T1/2 ska ha gått. I fallet propofol blir det 24h.\n\nMedvetslöshet utan reaktion på tilltal, beröring eller smärta inom kranialnervsinnerverat område.\nAvsaknad av spontana rörelser i ögon, käke, ansikte, tunga och svalg.\nLjusstela pupiller som är medelvida/vida.\nAvsaknad av svalgreflex.\nAvsaknad av vestibulookulära reflexer.\nOpåverkad hjärtrytm vid tryck på ögonbulber eller massage av sinus caroticus.\nAvsaknad av spontanandning vid apnétest.\n\nVid något av följande tillstånd ska neurofysiologisk undersökning (fyrkärlsangiografi eller gammakameraundersökning).\n\nHjärnfunktionerna är metabolt eller farmakologiskt påverkade.\nDet finns isolerad process i hjärnstammen eller bakre skallgropen.\nDen centrala kroppstemperaturen är &lt; 35 grader.\nDet har inte varit möjligt att genomföra alla delar av klinisk neurologundersökning.\nOrsaken till utveckling av total hjärninfarkt är oklar."
   }
 ]

@@ -1,0 +1,21 @@
+# Trauma
+
+## Initial handläggning
+
+- **Prover**
+    - BAS-test
+    - APTT, PK, TPK, fibrinogen
+    - Hb
+    - Lac
+    - ABG
+    - Blodgas
+
+## FAST
+
+**FAST** = Focused Assessement with Sonography in Trauma
+**eFAST** = extended Focused Assessement with Sonography in Trauma
+
+## Kritisk blödning
+
+Om man under de första 30 minutrarna behövt ge minst 4 SAGMAN bör man
+fortsättningsvis ge 4:4:1!

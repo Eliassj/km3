@@ -34,7 +34,7 @@
 
 
 Anjongapet är till största del relevant vid **metabol acidos**.         
-Det representerar det normala överskottet av anjoner i blodet när Na^+^,
+Det representerar i normalfallet överskottet av anjoner i blodet när Na^+^,
 Cl^-^ och HCO~3~ räknats bort. Dessa utgörs ffa av negativt laddat protein (ffa albumin).
 
 Anjongapet beräknas enl:
@@ -51,6 +51,9 @@ Det finns 2 grupper av tillstånd som kan skiljas med anjongap:
 |||
 |:---|:---|
 |**Metabol acidos med normalt anjongap**<br><br>**U**reterostomi<br>**S**mall bowel fistula<br>**E**xtra chloride<br>**D**iarrhea<br>**C**arbonic anhydrase inhibitor<br>**R**enal tubular acidosis<br>**A**drenal insufficiency<br>**P**ancreatic fistula|Hyperkloremisk metabol acidos. HCCO~3~ förlust ger Cl^-^-retention *eller* Cl^-^-retention som kompenseras med HCO~3~-utsöndring.|
+|**Metabol acidos med förhöjt anjongap**<br><br>**M**etanol, **M**orfin<br>**U**remi<br>**D**iabetisk ketoacidos<br>**P**yroglutamat, **P**ropylenglykol<br>**I**sonidazid, **I**ron<br>**L**aktat<br>**E**tylenglykol, **E**tanolketoacidos<br>**S**alicylsyra, **S**olvents, **S**vält ketoacidos|Här finns en eller flera förklarande anjoner som ger metabol acidos (t.ex laktat).
+
+: "Minnesregler" **USEDCRAP** och **MUDPILES**
 
 ##### Kliniska drag/Diagnos
 

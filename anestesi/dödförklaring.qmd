@@ -1,0 +1,40 @@
+# Dödsförklaring
+
+###### Indirekta kriterier
+
+Ska visa att *”att hjärnans samtliga funktioner totalt och oåterkalleligen har fallit bort”*.
+
+- Ingen palpabel puls
+- Inga hörbara hjärtslag
+- Ingen spontanandning
+- Ljusstela, oftast vida pupiller
+
+###### Direkta kriterier
+
+Används ffa på IVA-patienter där andning och cirkulation ofta fortsätter då
+syresättning sköts av respirator.           
+
+**Lägsta temperaturgräns** för att kunna dödförklara på klinisk neurologisk
+undersökning är **35 grader**.
+
+- Uteslut reversibla orsaker (t.ex sedering)
+    - 5 T^1/2^ ska ha gått. I fallet propofol blir det 24h.
+- Medvetslöshet utan reaktion på tilltal, beröring eller smärta inom
+kranialnervsinnerverat område.
+- Avsaknad av spontana rörelser i ögon, käke, ansikte, tunga och svalg.
+- Ljusstela pupiller som är medelvida/vida.
+- Avsaknad av svalgreflex.
+- Avsaknad av vestibulookulära reflexer.
+- Opåverkad hjärtrytm vid tryck på ögonbulber eller massage av *sinus
+caroticus*.
+- Avsaknad av spontanandning vid apnétest.
+
+Vid något av följande tillstånd ska neurofysiologisk undersökning
+(fyrkärlsangiografi eller gammakameraundersökning).
+
+- Hjärnfunktionerna är metabolt eller farmakologiskt påverkade.
+- Det finns isolerad process i hjärnstammen eller bakre skallgropen.
+- Den centrala kroppstemperaturen är < 35 grader.
+- Det har inte varit möjligt att genomföra alla delar av klinisk
+  neurologundersökning.
+- Orsaken till utveckling av total hjärninfarkt är oklar.

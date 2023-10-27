@@ -67,5 +67,26 @@
   },
   "anastesi/chock.qmd": {
     "chock.html": "5ab09b37"
+  },
+  "anestesi/anestesiformer.qmd": {
+    "anestesiformer.html": "3797c1ca"
+  },
+  "anestesi/vätskebalans.qmd": {
+    "vätskebalans.html": "f34013a3"
+  },
+  "anestesi/läkemedel.qmd": {
+    "läkemedel.html": "6cc48a28"
+  },
+  "anestesi/preopbedömning.qmd": {
+    "preopbedömning.html": "3ceebf0d"
+  },
+  "anestesi/luftväg.qmd": {
+    "luftväg.html": "78e2d4d0"
+  },
+  "anestesi/chock.qmd": {
+    "chock.html": "9d8ff05d"
+  },
+  "anestesi/dödförklaring.qmd": {
+    "dödförklaring.html": "0291a18b"
   }
 }
