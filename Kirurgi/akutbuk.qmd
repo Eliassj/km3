@@ -184,14 +184,14 @@ De flesta har kollateraler mellan tarmens kärl. Långsam ocklusion leder därf�
 - **Arteriell trombos**
     - Står för ca 25% av alla fall. Också vanligast i *a. mesenterica superior*.
     - Kan ibland ge upphov till NOMI
-    - Vid långsamt progredierande sjukdom finns ofta utbredd kollateralcirkulation. Tarmangina kan då uppträda endast efter måltid eller vid global             ischemi (blodtrycksfall, syrebrist, anemi m.m)
+    - Vid långsamt progredierande sjukdom finns ofta utbredd kollateralcirkulation. Tarmangina kan då uppträda endast efter måltid eller vid global ischemi (blodtrycksfall, syrebrist, anemi m.m)
         - Vid *kronisk trombotisering* ger den reversibla ichemin med tid atrofi och nekros av tarmmukosan.
     - *Akut trombotisering*
         - Sitter ofta vid övergången Aorta->AMS och ger därför (ofta) mer utbredd ischemi än den kroniska formen.
         - Utlöses t.ex av försämrad cirkulation, dehydrering och koagulopatier.
 - **Icke ocklusiv tarmischemi (Non-occlusive Mesenteric Ischemia --- NOMI)**
     - Står för <25% av alla fall. Drabbar ffa patienter med ateroskleros i tarmkärl.
-    - *Möjliga orsaker:* Cirkulatorisk svikt, hjärtinfarkt, Läkemedel^[t.ex dogoxin, vissa inotropa lm (t.ex NA!)], Uttalad aortainsufficiens, större           bukkirurgi, intraabdominell hypertension eller kompartmentsyndrom.]
+    - *Möjliga orsaker:* Cirkulatorisk svikt, hjärtinfarkt, Läkemedel^[t.ex dogoxin, vissa inotropa lm (t.ex NA!)], Uttalad aortainsufficiens, större bukkirurgi, dialys, intraabdominell hypertension eller kompartmentsyndrom.]
     - **Vanligaste orsaken** till ischemisk kolit.
 - **Venös tromboembolism**
     - Ovanligaste orsaken till ischemi.
@@ -219,4 +219,101 @@ Vid **akut ischemi sker insjuknandet ofta i tre faser:
     - Smärtor ökar, blir mer utbredda än tidigare
     - Blodiga avföringar då mukosan går i nekros
     - Feber, allmänpåverkan, nekros ger bakterieläckage, perforation
+
+**Tarmangina** ger ofta...
+
+- (ofta) Långvarig postprandiell smärta
+- Viktnedgång pga *fear of food*. De saknar alltså inte aptit.
+- Diarréer, ofta med blod pga villusatrofi --- Blodiga diarréer bör föranleda halvakur handläggning!
+
+Ovanstående kan ge misstanke om malignitet och patienterna är ofta koloskopiutredda.
+
+**Icke ocklusiv tarmischemi (NOMI)**
+
+Kan gå med akut eller subakut insjuknande. Vid akut liknar förloppet ofta arteriell tarmischemi.        
+Bör alltid övervägas vid akut--halvakut tarmparalys med växande bukomfång och stigande infektionsparametrar!
+
+**Venös trombos**
+
+Ger ofta mer diffus symtombild pga mer begränsad omfattning.        
+Symtom har subakut debut och längre duration jmf ovanstående. Blodiga diarréer ska föranleda akutremiss till kärlkirurg.
+
+###### Fynd
+
+- Sammanfallen buk, senare uppblåst
+- Tarmljud
+    - Normala/stegrade i början, därefter tyst buk.
+    - Ev. blåsljud i epigastriet --- hos 50% med stenos i AMS
+- Muskelförsvar
+    - Saknas tidigt
+    - Kommer då tarmen går i nekros
+- PR --- ev. blodig avföring
+
+###### Labb
+
+- **LPK** --- Ospecifikt men snabbt och sensitivt
+- **D-dimer** --- Som LPK
+- **Laktat** --- Ospecifikt och långsamt
+- Hb
+- CRP --- Stiger efter ca 12h. Ses även vid t.ex aortadissektion
+- Troponin
+- Glukos
+- Leverstatus
+- Amylas
+- Blödningsstatus
+- Blodgruppering/BAS-test
+
+##### Handläggning
+
+**DT-angio buk** är den viktigaste akuta undersökningen! Prata direkt med rtg-jouren. Trefasundersökning med fina snitt över bukkärl krävs! Krea är ofta lätt förhöjt pga dehydrering. Sätt in adekvat vätska men låt ej detta hindra undersökning.
+
+**Angiografi** är mest tillförlitlig. Kan kombineras m. endovaskulär åtgärd.
+
+- *Aktuellt*
+    - OPQRST
+    - Ändrade avföringsvanor? Blod PR?
+    - Viktnedgång?
+    - Nyligen sjukdom med cirkulationspåverkan?
+    - Smärtstillning på morfin? --- Dålig smärtstillning talar för ischemisk smärta
+- *Tidigare sjukdomar*
+    - Buk-OP?
+    - Diarré?
+    - Arteriella/venösa tromboser/embolier
+- *Nuvarande sjukdomar*
+    - Känd aterosklerotisk sjukdom?
+    - Känd embolikälla?
+    - Synkron embolisering?
+    - Övriga tillstånd m. ökad risk för embolier?
+
+- Bedöm ABCDE
+- EKG bör värderas. Sätt V-sond vid kräkningar då paralytisk ileus ofta finns.
+- Syrgas 10L vid SpO~2~ <98%, 5L om SpO~2~ >98%.
+- 2 minst gröna infarter
+- Vätska --- Kristalloid eller NaCl vid uttalade kräkningar
+    - CAVE: Försiktighet vid misstanke om rAAA! Dessa patienter ska helst ej ha systoliskt >100mmHg.
+- Smärtstilla --- Små doser morfin eller ketogan vid njursvikt
+- V-sond, ev. KAD
+- Säkra odlingar
+- **Farmakologisk behandling**
+    - Antibiotika pip-tazo --- Minskar bakteriell genomvandring
+    - Heparin/LMWH --- Heparin tills kirurgi bedöms som avslutad pga kortare halveringstid
+    - Ev. lösning av vasospasm --- Glukagon eller papaverin iv
+    - Vasopressorer --- Vid hypotension. Använd beta-adrenerga preparat för att inte förvärra eventuell NOMI!
+    - Rehydrering --- 2000ml 5-10% buffrad glukos + 2000ml Ringer under dygn 1 (till hjärtfrisk).
+    - Korrigera elektrolytrubbning vid behov.
+- **Kirurgiska behandlingsalternativ**
+    - *Laparotomi* --- Embolektomi och revaskularisering. Ev. tarmresektion om avgränsat parti drabbats.
+    - *Endovaskulär revaskularisering* --- Kan vara förstahandsval. Endoskopisk "second look" vid minsta tvivel om tarmens livsduglighet!
+- **NOMI** --- Kräver multidisciplinär handläggning för att behandla bakomliggande tillstånd.
+    - Ev. stentning av AMS
+    - Använd *EJ* alfa-adrenerga lm
+- **Venös trombos**
+    - Ofta heparin/LMWH följt av NOAK. Vid hotandee/manifest nekros krävs dock invvasiv behandling.
+    - Trombolys via kateter har ej evidens men kan vara bra.
+- **Tarmangina**
+    - Koloskopi på misstanke om malignitet
+    - Remiss halvakut DT-angui
+    - Remiss till kärlkirurg för ev. endovaskulär behandling
+    - Om endast 1 tarmartär är ockluderad bör andra orsaker till smärta övervägas
+
 
