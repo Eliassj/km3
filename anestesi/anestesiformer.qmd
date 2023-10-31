@@ -34,3 +34,8 @@ Utförs då man bedömer att risk för aspiration föreligger.
 
 
 ## Gasanestesi
+
+<!--
+Detta är em kommentar
+
+-->
