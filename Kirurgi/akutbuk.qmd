@@ -1,0 +1,319 @@
+# Akut buk
+
+**Akut buk** enligt MeSH:        
+> *Kliniskt syndrom med akut buksmärta som är svår, lokal och snabbt förvärras. Akut buk kan orsakas av en mängd olika tillstånd, skador eller sjukdomar.*
+
+## The big five
+
+- **rAAA** (rupturerat Abdominellt AortaAneurysm)
+- **Tarmischemi**
+- **Ileus**
+- **Perforerat ulkus**
+- **Pankreatit**
+
+Innefattar de 5 **mest akuta** buktillstånden vid akut buk. Gemensamt för dem är att de oftast ger höga, centrala och/eller generella buksmärtor utan tydlig sidoskillnad.        
+
+::: {.callout-important}
+
+Betänk även blödning (t.ex mjältruptur) och akuta icke-kirurgiska diagnoser!
+
+:::
+
+### rAAA
+
+::: {.callout-info}
+
+## Screening
+
+Sverige erbjuder män >65 ULJ-screening. Man upptäcker här AAA i ca 1-2% av fall.
+
+:::
+
+Definieras som vidgning med >1,5cm eller utbuktning på bukaorta >3cm.
+
+Dödsorsak i ca 1% av manliga dödsfall. Dock mörkertal pga låg obduktionsfrekvens.               
+Vanligare hos män än kvinnor^[Kvinnor har dock 3--4ggr högre rupturrisk vid motsvarande diameter!].
+
+**Ruptur** sker oftast intraperitonealt eller retroperitonealt.        
+Vid intraperitoneal ruptur dör patienten inom minuter. De fall som ses på akutmottagning är därför nästan uteslutande retroperitoneala. Kan även rupturera mot GI-kanalen (aortoenterisk fistel) eller *v. cava* (aortocaval fistel).        
+Rupturrisk ökar exponentiellt vid storlek >5cm. Kvinnor har 3--4ggr högre rupturrisk jmf män vid motsvarande storlek!
+
+::: {.callout-warning}
+
+## Riskfaktorer
+
+- **Risk för utveckling**
+    - Ärftlighet
+    - Manligt kön
+    - Ålder
+    - Rökning
+    - Kronisk obstruktiv lungsjukdom
+    - Bukfetma
+- **Risk för ruptur**
+    - Ej deltagit i screening
+    - Aneurysmstorlek
+    - Kvinnligt kön
+    - Aktiv rökning
+    - Hypertoni
+    - Kronisk Obstruktiv Lungsjukdom
+
+:::
+
+##### Kliniska drag/Diagnos
+
+De flesta är asymtomatiska innan ruptur.
+
+###### Symtom
+
+- **Icke-rupturerat**
+    - Obehag, smärta
+    - Upplevda pulsationer i magen
+    - Tryck mot omgivande organ m. symtom därefter --- t.ex uretärer, duodenum
+    - Mikroembolism
+    - Trombotisk ocklusion
+- **Rupturerat**
+    - *Klassisk triad:*
+        - Kraftig, akut buksmärta m. utstrålning mot ryggen
+        - Blodtrycksfall, takykardi, svimning
+        - Pulserande resistens i buken --- Kan vara svårpalperad pga fetma eller lågt blodtryck
+    - Illamående, kräkningar
+    - Hematemes vid aortoenterisk fistel (mycket ovanligt)
+
+###### Fynd
+
+- Pulserande, breddökad resistens i buk --- Avsaknad utesluter ej rAAA
+- Ev. peritonitstatus
+- Ev perifera ischemitecken vid mikroembolisering
+
+##### Handläggning
+
+###### Rupturerat AAA
+
+- Syrgas
+- Infarter
+- Vätska ENDAST vid manifest cirkulatorisk chock.
+    - Mål är talbar patient
+- Smärtställning
+    - Opioid, små upprepade doser
+- **Urakur DT**-aorta
+    - Inled utan kontrast. Vid indikation för endovaskulär intervention ges kontrast.
+- **Vid DT-bekräftad rAAA:**
+    - Urakut öppen kirurgi
+      *eller*
+    - Urakut endovaskulär aneurysmrekonstruktion (EVAR)
+
+###### Ej rupturerat AAA
+
+**Indikationer för kirurgi:**
+
+- Storlek >5,5cm
+- Symtom
+- Ischemiska symtom (ocklusion, embolisering)
+- Expansion >0,5cm på 6mån --- Kan vara mätfel, mer relativ indikation än ovanstående
+
+Kirurgiska metoder är desamma som vid rupturerat AAA.
+
+###### Val av op-metod
+
+Yngre (<70-75) opereras med fördel öppet då risken för reruptur är lägre än vid EVAR.        
+DT-angio av hög kvalité är en absolut förutsättning för EVAR.
+
+::: {.callout-info}
+
+## Uppföljning
+
+Efter **öppen kirurgi** utförs kontroll efter 30 dagar och ett år.            
+Efter **EVAR** kontrolleras patienten under hela livet.^[pga komplikationer som graftmigration, endoläckage och graftskänkelocklusion] Om resultatet är utmärkt efter 30 dagar planeras nästa DT-kontroll efter 5 år.
+
+ULJ-uppföljning hos icke opererade patienter görs beroende på storlek:        
+3--3,9cm --- Vartannat år        
+4--5cm --- 1 gång/år        
+5--5,4cm --- 2 ggr/år
+
+AAA >4,5cm bör remitteras till kärlkirurg för bedömning.
+
+:::
+
+## Tarmischemi
+
+Ovanligt men mycket allvarligt. Slutstadiet är nekros vilken börjar i mukosan och rör sig utåt mot serosan. Detta leder till bakterieutvandring och perforation.
+
+::: {.callout-info}
+
+## Tarmens kärlförsörjning
+
+´´´{dot}
+
+digraph G {
+    rankdir = LR
+
+    node [style = filled; color = "red"; shape = "rectangle"]
+    aorta [label = "Aorta"]
+    TC [label = "Truncus celiakus\n\nKan komprimeras av diafragma och ge ischemi\nBör övervägas hos yngre"]
+    AMS [label = "A. mesenterica\nsuperior\n\nSjukdom ger oftast tarmischemi/-angina"]
+    AMI [label = "A. mesenterica\ninferior\n\nSjukdom ger oftast ischemisk kolit\nVänsterkolon kan dock överleva ocklusion pga AMS-kollateraler"]
+
+    
+    node [style = filled; color = "cornsilk3"; shape = "rectangle"]
+    distd [label = "- Distala duodenum\n- Jejunum\n- Ileum\n- Högerkolon\ntom Payers punkt"]
+    
+    node [style = filled; color = "cornsilk4"; shape = "rectangle"]
+    Höger2 [label = "- Distala transversum\n- Vänsterkolon\n- Proximala rektum"]
+    
+    node [style = filled; color = "darkkhaki"; shape = "rectangle"]
+    eso [label = "- Esofagus\n- Ventrikel\n- Proximala duodenum\n- Lever\n- Mjälte"]
+    
+    aorta -> {TC; AMS; AMI}
+    TC -> {eso}
+    AMS -> {distd}
+    AMI -> {Höger2}
+}
+
+´´´
+
+De flesta har kollateraler mellan tarmens kärl. Långsam ocklusion leder därför i allmänhet ej till nekros.
+
+:::
+
+###### Orsaker
+
+- **Arteriell embolisering**
+    - Står för 50% av alla fall. Drabbar oftast i *a. mesenterica superior*.
+    - Synkron embolisering (Nära i tid emboli till annat organ) är vanligt. Försök alltid hitta källan!
+    - Sker oftast distalt om *a. colica media*:s avgång.^[ACM försörjer proximala jejunum och kolon]
+- **Arteriell trombos**
+    - Står för ca 25% av alla fall. Också vanligast i *a. mesenterica superior*.
+    - Kan ibland ge upphov till NOMI
+    - Vid långsamt progredierande sjukdom finns ofta utbredd kollateralcirkulation. Tarmangina kan då uppträda endast efter måltid eller vid global ischemi (blodtrycksfall, syrebrist, anemi m.m)
+        - Vid *kronisk trombotisering* ger den reversibla ichemin med tid atrofi och nekros av tarmmukosan.
+    - *Akut trombotisering*
+        - Sitter ofta vid övergången Aorta->AMS och ger därför (ofta) mer utbredd ischemi än den kroniska formen.
+        - Utlöses t.ex av försämrad cirkulation, dehydrering och koagulopatier.
+- **Icke ocklusiv tarmischemi (Non-occlusive Mesenteric Ischemia --- NOMI)**
+    - Står för <25% av alla fall. Drabbar ffa patienter med ateroskleros i tarmkärl.
+    - *Möjliga orsaker:* Cirkulatorisk svikt, hjärtinfarkt, Läkemedel^[t.ex dogoxin, vissa inotropa lm (t.ex NA!)], Uttalad aortainsufficiens, större bukkirurgi, dialys, intraabdominell hypertension eller kompartmentsyndrom.]
+    - **Vanligaste orsaken** till ischemisk kolit.
+- **Venös tromboembolism**
+    - Ovanligaste orsaken till ischemi.
+    - Mer begränsad utbredning och mer smygande symtom än övriga.
+    - *Orsaker:*
+        - Primär koagulationsrubbning
+        - Sekundärt till Levercirrhos/portal hypertension, Malignitet, Njursjukdom, Dehydrering, Obesitas.
+
+##### Kliniska drag/Diagnos
+
+###### Symtom
+
+Symtombilden är oftast liknande vid arteriell sjukdom oberoende lokalisation. AMS ger dock mest symtom pga få kollateraler.
+
+Vid **akut ischemi sker insjuknandet ofta i tre faser:
+
+1. **Akut påkommande symtom, längd räknas i timmar**
+    - Diffus/central buksmärta, oftast utan utstrålning
+    - Ofrivillig/akut tarmtömning (ofta utan blod till at börja med)
+    - Ev. illamående/kräkningar
+2. **Längd räknas i timmar**
+    - Smärtor minskar då peristaltik avtar och nekros börjar sprida sig->minskad ischemisk smärta.
+    - Illamående, kräkningar pga begynnande paralytisk ileus.
+3. **Längd räknas i dygn**
+    - Smärtor ökar, blir mer utbredda än tidigare
+    - Blodiga avföringar då mukosan går i nekros
+    - Feber, allmänpåverkan, nekros ger bakterieläckage, perforation
+
+**Tarmangina** ger ofta...
+
+- (ofta) Långvarig postprandiell smärta
+- Viktnedgång pga *fear of food*. De saknar alltså inte aptit.
+- Diarréer, ofta med blod pga villusatrofi --- Blodiga diarréer bör föranleda halvakur handläggning!
+
+Ovanstående kan ge misstanke om malignitet och patienterna är ofta koloskopiutredda.
+
+**Icke ocklusiv tarmischemi (NOMI)**
+
+Kan gå med akut eller subakut insjuknande. Vid akut liknar förloppet ofta arteriell tarmischemi.        
+Bör alltid övervägas vid akut--halvakut tarmparalys med växande bukomfång och stigande infektionsparametrar!
+
+**Venös trombos**
+
+Ger ofta mer diffus symtombild pga mer begränsad omfattning.        
+Symtom har subakut debut och längre duration jmf ovanstående. Blodiga diarréer ska föranleda akutremiss till kärlkirurg.
+
+###### Fynd
+
+- Sammanfallen buk, senare uppblåst
+- Tarmljud
+    - Normala/stegrade i början, därefter tyst buk.
+    - Ev. blåsljud i epigastriet --- hos 50% med stenos i AMS
+- Muskelförsvar
+    - Saknas tidigt
+    - Kommer då tarmen går i nekros
+- PR --- ev. blodig avföring
+
+###### Labb
+
+- **LPK** --- Ospecifikt men snabbt och sensitivt
+- **D-dimer** --- Som LPK
+- **Laktat** --- Ospecifikt och långsamt
+- Hb
+- CRP --- Stiger efter ca 12h. Ses även vid t.ex aortadissektion
+- Troponin
+- Glukos
+- Leverstatus
+- Amylas
+- Blödningsstatus
+- Blodgruppering/BAS-test
+
+##### Handläggning
+
+**DT-angio buk** är den viktigaste akuta undersökningen! Prata direkt med rtg-jouren. Trefasundersökning med fina snitt över bukkärl krävs! Krea är ofta lätt förhöjt pga dehydrering. Sätt in adekvat vätska men låt ej detta hindra undersökning.
+
+**Angiografi** är mest tillförlitlig. Kan kombineras m. endovaskulär åtgärd.
+
+- *Aktuellt*
+    - OPQRST
+    - Ändrade avföringsvanor? Blod PR?
+    - Viktnedgång?
+    - Nyligen sjukdom med cirkulationspåverkan?
+    - Smärtstillning på morfin? --- Dålig smärtstillning talar för ischemisk smärta
+- *Tidigare sjukdomar*
+    - Buk-OP?
+    - Diarré?
+    - Arteriella/venösa tromboser/embolier
+- *Nuvarande sjukdomar*
+    - Känd aterosklerotisk sjukdom?
+    - Känd embolikälla?
+    - Synkron embolisering?
+    - Övriga tillstånd m. ökad risk för embolier?
+
+- Bedöm ABCDE
+- EKG bör värderas. Sätt V-sond vid kräkningar då paralytisk ileus ofta finns.
+- Syrgas 10L vid SpO~2~ <98%, 5L om SpO~2~ >98%.
+- 2 minst gröna infarter
+- Vätska --- Kristalloid eller NaCl vid uttalade kräkningar
+    - CAVE: Försiktighet vid misstanke om rAAA! Dessa patienter ska helst ej ha systoliskt >100mmHg.
+- Smärtstilla --- Små doser morfin eller ketogan vid njursvikt
+- V-sond, ev. KAD
+- Säkra odlingar
+- **Farmakologisk behandling**
+    - Antibiotika pip-tazo --- Minskar bakteriell genomvandring
+    - Heparin/LMWH --- Heparin tills kirurgi bedöms som avslutad pga kortare halveringstid
+    - Ev. lösning av vasospasm --- Glukagon eller papaverin iv
+    - Vasopressorer --- Vid hypotension. Använd beta-adrenerga preparat för att inte förvärra eventuell NOMI!
+    - Rehydrering --- 2000ml 5-10% buffrad glukos + 2000ml Ringer under dygn 1 (till hjärtfrisk).
+    - Korrigera elektrolytrubbning vid behov.
+- **Kirurgiska behandlingsalternativ**
+    - *Laparotomi* --- Embolektomi och revaskularisering. Ev. tarmresektion om avgränsat parti drabbats.
+    - *Endovaskulär revaskularisering* --- Kan vara förstahandsval. Endoskopisk "second look" vid minsta tvivel om tarmens livsduglighet!
+- **NOMI** --- Kräver multidisciplinär handläggning för att behandla bakomliggande tillstånd.
+    - Ev. stentning av AMS
+    - Använd *EJ* alfa-adrenerga lm
+- **Venös trombos**
+    - Ofta heparin/LMWH följt av NOAK. Vid hotandee/manifest nekros krävs dock invvasiv behandling.
+    - Trombolys via kateter har ej evidens men kan vara bra.
+- **Tarmangina**
+    - Koloskopi på misstanke om malignitet
+    - Remiss halvakut DT-angui
+    - Remiss till kärlkirurg för ev. endovaskulär behandling
+    - Om endast 1 tarmartär är ockluderad bör andra orsaker till smärta övervägas
+
+
