@@ -4,7 +4,8 @@ project:
 language: customlang.yml
 book:
   title: "KM3"
-  date: "2023-09-07"
+  date: last-modified
+  date-format: short
   cover-image: cover.jpg
   downloads: [pdf, epub]
   chapters:
@@ -39,6 +40,10 @@ book:
         - anestesi/luftväg.qmd
         - anestesi/chock.qmd
         - anestesi/dödförklaring.qmd
+    - part: "Kirurgi"
+      chapters:
+        - kirurgi/akutbuk.qmd
+        - kirurgi/bråck.qmd
   appendices:
     - ordlista.qmd
   search:

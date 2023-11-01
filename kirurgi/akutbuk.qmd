@@ -1,7 +1,10 @@
 # Akut buk
 
 **Akut buk** enligt MeSH:        
-> *Kliniskt syndrom med akut buksmärta som är svår, lokal och snabbt förvärras. Akut buk kan orsakas av en mängd olika tillstånd, skador eller sjukdomar.*
+
+> *Kliniskt syndrom med akut buksmärta som är svår, lokal och snabbt förvärras. 
+Akut buk kan orsakas av en mängd olika tillstånd, skador eller sjukdomar.*
+
 
 ## The big five
 
@@ -21,7 +24,7 @@ Betänk även blödning (t.ex mjältruptur) och akuta icke-kirurgiska diagnoser!
 
 ### rAAA
 
-::: {.callout-info}
+::: {.callout-note}
 
 ## Screening
 
@@ -118,7 +121,7 @@ Kirurgiska metoder är desamma som vid rupturerat AAA.
 Yngre (<70-75) opereras med fördel öppet då risken för reruptur är lägre än vid EVAR.        
 DT-angio av hög kvalité är en absolut förutsättning för EVAR.
 
-::: {.callout-info}
+::: {.callout-tip}
 
 ## Uppföljning
 
@@ -138,11 +141,12 @@ AAA >4,5cm bör remitteras till kärlkirurg för bedömning.
 
 Ovanligt men mycket allvarligt. Slutstadiet är nekros vilken börjar i mukosan och rör sig utåt mot serosan. Detta leder till bakterieutvandring och perforation.
 
-::: {.callout-info}
+::: {.callout-note}
 
 ## Tarmens kärlförsörjning
 
-´´´{dot}
+
+```{dot}
 
 digraph G {
     rankdir = LR
@@ -169,7 +173,9 @@ digraph G {
     AMI -> {Höger2}
 }
 
-´´´
+```
+
+:::
 
 De flesta har kollateraler mellan tarmens kärl. Långsam ocklusion leder därför i allmänhet ej till nekros.
 

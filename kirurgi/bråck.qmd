@@ -1,0 +1,19 @@
+# Bråck
+
+## Ljumskbråck
+
+###### Indelning
+
+*"Ljumskbråck"* omfattar alla bråck i ljumskregionen. Dessa delas in i
+inguinalbråck respektive femoralbråck. Inguinalbråck delas vidare in i
+mediala/direkta och laterala/indirekta.
+
+|**Bråck**|**Anatomi**|
+|:---|:---|
+|**Femoralbråck**|Genom femoralkanalen medialt om *v. femoralis*. Mynnar distalt om inguinalligamentet. Ofta litet och svårupptäckt. Högre risk för inklämning än inguinalbråck.|
+|**Medialt inguinalbråck**|Medialt om *a. epigastrica*. Buktar genom försvagad medial *fascia transversalis* i inguinalkanalens bakvägg.|
+|**Lateralt inguinalbråck**|Lateralt om *a. epigastrica*. Buktar genom inguinalkanalens inre öppning.|
+
+: Ljumskbråck {.sm}
+
+
