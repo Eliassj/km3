@@ -137,7 +137,7 @@ AAA >4,5cm bör remitteras till kärlkirurg för bedömning.
 
 :::
 
-## Tarmischemi
+### Tarmischemi
 
 Ovanligt men mycket allvarligt. Slutstadiet är nekros vilken börjar i mukosan och rör sig utåt mot serosan. Detta leder till bakterieutvandring och perforation.
 
@@ -322,4 +322,31 @@ Symtom har subakut debut och längre duration jmf ovanstående. Blodiga diarrée
     - Remiss till kärlkirurg för ev. endovaskulär behandling
     - Om endast 1 tarmartär är ockluderad bör andra orsaker till smärta övervägas
 
+### Ileus
 
+Delas in i mekaniskt samt paralytisk ileus.
+
+- **Mekanisk ileus**
+    - *Tunntarm:*
+        - Adherenser
+        - Herniering
+        - Tunntarmsvolvolus
+        - Invagination
+        - Intralumenal obstruktion --- Chrons, Gallstensileus^[Fistulering mellan
+        gallblåsa och tarm->större gallsten i tarm->Obstruktion. Ovanligt.],
+        neuroendokrin tumör, NSAID-utlöst striktur, Pylorusstenos, Främmande
+        kroppar.
+    - *Tjocktarm:*
+        - Intralumenal obstruktion --- Malignitet, Stenos, Fekalom, Stenosering
+          av tarmanastomoser
+        - Kolonvolvulus
+        - Bråck
+        - Akut pseudoobstruktion av kolon --- *Ogilvies syndrom*, rubbning av
+        autonom innervation ger förlorat tonus.
+- **Paralytisk ileus**
+    - Postoperativt
+    - Peritonit
+    - Tarmischemi
+    - Missbruk
+    - Läkemedel
+    - Elektrolytrubbningar

@@ -16,4 +16,42 @@ mediala/direkta och laterala/indirekta.
 
 : Ljumskbråck {.sm}
 
+**Kvinnor** har 3ggr högre 30-dagars mortalitet jmf män efter ljumskbråcksoperation. Detta då större andelen bråck hos
+kvinnor är femoralbråck med högre inklämningsrisk och frekvens akutoperationer.             
+Ljumskbråck i samband med graviditet bör behandlas konservativt om möjligt.
+Varicer längs *lig. rotundum* kan också misstolkas som ljumskbråck.
 
+##### Klindrag/Diagnos
+
+###### Symtom
+
+- Smärta --- Allt från lätt obehag till svår
+    - Svår smärta som inte ger med sig talar för inklämning m.
+    cirkulationspåverkan.
+    - Kan ha neuralgisk karaktär
+    - Minskar ofta när bråcket blir palpabelt efter porten ökat i storlek.
+- Knöl i ljumsken --- Vanligaste debutsymtomet.
+
+###### Tecken
+
+- Palpabel resistens i stående som försvinner vid liggande/efter tryck.
+    - Klinisk differentiering mellan medialt och lateralt inguinalbråck är svårt och meningslöst.
+    - Femoralbråck mynnande nedom infuinalligamentet är dock viktigt att
+    diagnosticera pga ökad risk för inklämning.
+
+###### Undersökningar
+
+- **Herniografi** --- Kontrastvätska sprutas in i bukhålan under genomlysning.
+    - Kan ge falskt negativt svar om endast fett hernierar.
+- **DT under valsalva/MR**
+- **ULJ** --- Kan överdiagnosticera.
+
+###### Behandling
+
+- **Konservativ** --- Män med inguinalbråck utan eller med ringa symtom
+- **Operation** --- Alla med symtom, alla med femoralblock, *alla kvinnor*
+- **Akut operation** --- Alla med akuta symtom från irreponibelt bråck. Irreponibelt bråck utan akuta symtom kan handläggas elektivt.
+
+###### Komplikationer
+
+Hematom, serom, smärta, urinretention och infektion är de vanligaste komplikationerna. Risken för komplikation är 15--28%.           
