@@ -1,0 +1,27 @@
+# Rektum
+
+## Hemorrojder
+
+Mycket vanligt, ~25% av alla >50 har besvär.
+
+**Inre hemorrojder** utgår ovanifrån *linea dentata*, är täckta av anorektal mukosa och kommer från grenar av *v. hemorrhoidalis superior*. De är oftast lokaliserade kl. 3, 7 och 11 (Sett med patienten i ryggläge)        
+**Yttre hemorrojder** utgår strax nedanför de inre och är täckta av hud.
+
+::: {.callout-tip}
+
+## Klassificering
+
+- **Grad I** --- Endast belägna i övre analkanalen. Fylls i samband med krystning och ger i allmänhet endast sparsam blödning.
+- **Grad II** --- Prolaberar i samband med defekation men reponerar sedan spontant.
+- **Grad III** --- Förblir prolaberade men går att reponera manuellt.
+- **Grad IV** --- Prolaberade hemorrojder som ej går att reponera manuellt. Slemhinnan genomgår med tid skivepitelmetaplasi och blir gråvit till utseendet. Yttre analhud blir flikig och trombotisering i subkutana venplexa kan ge med svår smärta som resultat. Nekros kan förekomma.
+
+:::
+
+##### Kliniska drag/diganos
+
+###### Symtom
+
+- **Blödning** --- Som stänk i toalettstolen eller på pappret. Ofta ljusröd. Kan vara mörkröd vid större venös blödning i samband med kraftig krystning. Upphör i allmänhet spontant.
+    - Blod kan samlas i ampullen vilket tömmer sig som koagler vi defekation. Blod kan även föras upp i kolon vid undertryckt defekation och simulera kolonblödning.
+- **Flytning** --- Hemorrojder som ej reponeras kan hindra förslutning av sfinktermuskulatur. Slemproducerande slemhinna hamnar då nedanför sfinktrarna vilket ger flytning och klåda.
