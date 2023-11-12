@@ -197,7 +197,7 @@ De flesta har kollateraler mellan tarmens kärl. Långsam ocklusion leder därf�
         - Utlöses t.ex av försämrad cirkulation, dehydrering och koagulopatier.
 - **Icke ocklusiv tarmischemi (Non-occlusive Mesenteric Ischemia --- NOMI)**
     - Står för <25% av alla fall. Drabbar ffa patienter med ateroskleros i tarmkärl.
-    - *Möjliga orsaker:* Cirkulatorisk svikt, hjärtinfarkt, Läkemedel^[t.ex dogoxin, vissa inotropa lm (t.ex NA!)], Uttalad aortainsufficiens, större bukkirurgi, dialys, intraabdominell hypertension eller kompartmentsyndrom.]
+    - *Möjliga orsaker:* Cirkulatorisk svikt, hjärtinfarkt, Läkemedel^[t.ex digoxin, vissa inotropa lm (t.ex NA!)], Uttalad aortainsufficiens, större bukkirurgi, dialys, intraabdominell hypertension eller kompartmentsyndrom.]
     - **Vanligaste orsaken** till ischemisk kolit.
 - **Venös tromboembolism**
     - Ovanligaste orsaken till ischemi.
@@ -208,11 +208,11 @@ De flesta har kollateraler mellan tarmens kärl. Långsam ocklusion leder därf�
 
 ##### Kliniska drag/Diagnos
 
-###### Symtom
+###### Symtom {#sec-tarmischemisymtom}
 
 Symtombilden är oftast liknande vid arteriell sjukdom oberoende lokalisation. AMS ger dock mest symtom pga få kollateraler.
 
-Vid **akut ischemi sker insjuknandet ofta i tre faser:
+Vid **akut ischemi** sker insjuknandet ofta i tre faser:
 
 1. **Akut påkommande symtom, längd räknas i timmar**
     - Diffus/central buksmärta, oftast utan utstrålning
@@ -230,7 +230,7 @@ Vid **akut ischemi sker insjuknandet ofta i tre faser:
 
 - (ofta) Långvarig postprandiell smärta
 - Viktnedgång pga *fear of food*. De saknar alltså inte aptit.
-- Diarréer, ofta med blod pga villusatrofi --- Blodiga diarréer bör föranleda halvakur handläggning!
+- Diarréer, ofta med blod pga villusatrofi --- Blodiga diarréer bör föranleda halvakut handläggning!
 
 Ovanstående kan ge misstanke om malignitet och patienterna är ofta koloskopiutredda.
 
@@ -324,7 +324,7 @@ Symtom har subakut debut och längre duration jmf ovanstående. Blodiga diarrée
 
 ### Ileus
 
-Delas in i mekaniskt samt paralytisk ileus.
+Delas in i mekanisk samt paralytisk ileus.
 
 - **Mekanisk ileus**
     - *Tunntarm:*
@@ -350,3 +350,159 @@ Delas in i mekaniskt samt paralytisk ileus.
     - Missbruk
     - Läkemedel
     - Elektrolytrubbningar
+
+##### Kliniska drag
+
+###### Symtom
+
+- **"Klassisk" triad:**
+    - *Buksmärta*
+        - Mer akut vid tunntarmshinder(sekunder--minuter(/timmar)) jmf vid kolonhinder.
+        - Typiskt intervallartad. Konstant smärta talar för strangulation med
+        cirkulationspåverkan.
+    - *Kräkningar*
+        - Ju mer proximalt hinder desto tidigare kommer kräkningar.
+        - I allmänhet viss symtomlindring efter kräkning.
+        - Luktar ibland "fekalt" pga bakterieöverväxt i tunntarmen.
+        - Kan likna "kaffesumpskräkningar".
+        - Ventrikelretention kan ge "försenade" kräkningar. V-sond ger svar på huruvida
+        detta föreligger.
+    - *Avföringsrubbning*
+        - Tunntarmsileus --- Smärtdebut kan ge ofrivillig defekation. Avföring upphör helt
+        efter 6--12h. Flatulens upphör ofta innan dess. Vid inkomplett hinder föreligger ofta flatulens och uttalade diarréer.
+        - Tjocktarmsileus --- Börjar ofta som långvarig diarré och/eller förstoppning innan
+          totalt hinder föreligger varefter avförhing slutar helt.
+- **Strangulationssymtom** --- Kraftiga, konstanta smärtor/"Pain out of proportion". Se även
+  [kapitel @sec-tarmischemisymtom].
+- **Övriga symtom**
+    - Dehydrering
+    - Rubbad syra-basbalans
+    - Cirkulationspåverkan (senare chock)
+
+##### Handläggning
+
+- **ABCDE**-bedömning
+- **Smärtlindring** --- Gärna tidigt vid svår smärta. I synnerhet vid samtidig hjärtsjukdom!
+- **Anamnes**
+    - Smärtanamnes --- *OBS* på konstant smärta som kan tyda på strangulation!
+    - GI-anamnes --- Kräkningar, avföringar, gasavgång
+    - B-symtom/symtom talande för kolonmalignitet
+    - Tidigare/nuvarande sjkd
+    - Läkemedel
+    - Allergier
+- **Status**
+    - Vitalparametrar
+    - Lung-/hjärtstatus
+    - Komplett bukstatus
+        - Tarmljud? --- Hjärtljud som fortleds ned i buken kan tala för vätskefyllda tarmar.
+            - Metalliska, klingande patognomt för ileus (Ska låta som vatten som droppar i
+            en grotta/på plåttak). Avsaknad utesluter ej.
+        - Glöm ej bråckportar!
+    - PR --- Palpabel tumör? Fekalom? Blod? Tom ampull?
+- **Labb**
+    - LPK, CRP
+    - Krea
+    - Hb
+    - Elstatus
+    - Blodgruppering, BAS-test, PK, APTT
+    - Glukos
+    - U-sticka
+    - Graviditetstest
+    - Leverstatus
+    - Amylas
+    - Troponin
+    - Laktat --- Sen stranguleringsmarör
+    - D-dimer
+    - Venös blodgas
+- **Övrigt initialt**
+    - EKG
+    - V-sond
+
+###### Bilddiagnostik
+
+::: {.callout-important}
+
+GBP-opererade patienter med slitsherniering kan ha svårvärderad klinik och falskt negativa
+röntgenfynd! Konsultera erfaren kollega.
+
+:::
+
+**Undvik bilddiagnostik** vid:          
+
+- Allmänpåverkad eller instabil patient med hög misstanke.
+- Palpabelt bråck hos patient med ileussymtom. Reponera bråck och överväg akut-op först!
+- Betänk fosterrisker vid gravid patient och involvera obstretriker.
+
+**Frågeställningar:** Fri gas? Vidgade tarmpartier? Gas-/vätskenivåer i tarm? Tumör?
+
+- **DT-BÖS**
+    - Standardundersökning
+- **DT-buk med kontrast**
+    - Indicerad i akutskedet vid misstanke om ischemi i tarmvägg samt vir akut-op av
+    kolontumör.
+- **ULJ**
+    - I normalfallet ej ett alternativ. Möjligtvis hos barn m. riktad frågeställning.
+- **Passageröntgen** --- Upprepad slätröntgen med kontrastmedel som stimulerar peristaltik
+  och drar in vätska i tarmlumen.
+
+##### Behandling
+
+###### Reponering av bråck
+
+**Bråck** ska som grundregel reponeras på akuten med smärtlindring och avslappnande (t.ex
+morfin + benzodiazepin).        
+Undantaget är bråck som stått länge och redan misstänks ha gått i nekros. Rodnad och ömhet i huden *kan*
+vara ett tecken på detta. Dessa ska opereras akut.       
+*Lyckad reponering* -> Observera pat. på akuten i 8--12h för eventuell ischemi och
+perforation.        
+*Misslyckad reponering* -> Akut op
+
+###### Konservativ behandling
+
+
+**Tunntarmsileus:**         
+Som regel ska de med förstagångsepisod opereras oavsett grad av hinder.         
+Om tecken på strangulation/akut komplikation ej föreligger kan behandling bestå av:
+
+- Fasta
+- Rehydrering
+- Avlastning m. V-sond
+- Passageröntgen
+
+...under 12--24h.
+
+**Tjocktarmsileus:**        
+Obstipation/fekalom -> I första hand vatten-olje-lavemang. Eventuell manuell plockning          
+Sigmoideumvolvolus -> Överväg tarmsond
+
+**pseudoobstruktion:**          
+I princip samma som övriga ileus. Perforationsrisk är låg de första 48h men ökar sedan.             
+*Neostigmin* eller erytromycin kan hjälpa. När cekalpoolen närmar sig 11--12cm bör
+avlastning ske via koloskopi av erfaren skopist.
+
+###### Kirurgi
+
+Krävs i princip på de med stranuglationstecken samt de konservativ behandling ej hjälper.
+
+**Tunntarmsileus:**             
+Strangulationstecken -> Urakut kirurgi          
+Annars akut kirurgi (timmar--dygn) beroende på klinik, labb m.m.
+
+**Tjocktarmsileus:**            
+Strangulation samt perforationsrisk styr brådskan i behandlingen. Cekalpoolen dilaterar
+först och anses brista kring 11--12cm.         
+Bör om möjligt utföras dagtid av erfaren kirurg efter diagnostik
+gällande metastaser och ev. koloskopi.
+
+**Paralytiskt ileus:**          
+Beror helt på den bakomliggande orsaken.
+
+**pseudoobstruktion:**          
+Uteslut mekaniskt ileus och andra orsaker som sepsis och hjärtsvikt. I allmänhet konservativ
+behandling. Resektion av tarm är sista utväg.
+
+### Perforerat ulcus
+
+*Ulcus perforans*, brustet magsår.
+
+

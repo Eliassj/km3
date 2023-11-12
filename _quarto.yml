@@ -44,6 +44,7 @@ book:
       chapters:
         - kirurgi/akutbuk.qmd
         - kirurgi/bråck.qmd
+        - kirurgi/rektum.qmd
   appendices:
     - ordlista.qmd
   search:
