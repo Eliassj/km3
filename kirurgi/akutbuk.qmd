@@ -505,4 +505,217 @@ behandling. Resektion av tarm är sista utväg.
 
 *Ulcus perforans*, brustet magsår.
 
+Skiljt tillstånd från blödande ulcus. Perforerade ulcus blöder mycket sällan och blödande
+ulcus perforerar mycket sällan.
+
+#### Subtyper
+
+- **Täckt/avgränsad perforation** --- Ofta mildare, mer lokaliserat, diffust och långdragen
+  bild. Konservativ behandling är vanligare.
+- **GBP-patienter** --- Ulkus kan uppstå i gastrojejunala anastomosen (*marginalulkus*),
+  duodenum eller den bortkopplade ventrikeln. Marginalulkus är vanligast men de andra kan vara
+  svårdiagnosticerade då de inte ger fri gas i bukhålan.
+- **Immunosupprimerade och äldre** --- Saknar ofta typiska symtom. Man bör vara restriktiv
+  med att utesluta diagnosen utan röntgen.
+- **IVA-patienter** --- Svårt att diagnosticera.
+
+##### Kliniska drag
+
+###### Symtom
+
+- **Akut insättande buksmärta**
+    - Initialt i epigastriet, sedan mer diffust.
+    - Lättar ibland tillfälligt i ett par timmar.
+- **GI-symtom**
+    - Illamående, kräkningar
+    - Sällan avföringsrubbning
+
+###### Tecken
+
+- **Cirkulatorisk påverkan**
+- **Tyst tarm** pga paralytisk ileus
+- **Brädhård buk**
+- **Tydlig släppömhet**
+- **Feber**
+- **Pat. ligger helt still**
+
+###### Labb
+
+- **Rutinprover**
+    - Hb, CRP, LPK, elstatus, glukos
+    - LPK är ofta stegrat tidigt och följs av CRP inom 6--12h.
+- **Diffdiagnostik**
+    - Leverprover --- Amylas kan vara lätt stegrat
+    - Troponin
+    - D-dimer --- Normalt värde gör tarmischemi osannolikt.
+- **Övrigt**
+    - Koagulationsprover, bastest, blodgruppering
+
+###### Radiologi
+
+Radiologi utförs på cirkulatoriskt stabila patienter. Instabila patienter med **uppenbar
+diagnos** bör övervägas för direkt operation.
+
+- **Slätröntgen BÖS** --- Fångar 70--80% av perforerade ulkus.
+- **DT-buk** --- Bättre än slätröntgen.
+
+Vid typiska symtom men utan fri gas bör upprepad undersökning efter ett par timmar
+övervägas.          
+Endoskopi ska **aldrig** utföras vid missänkt perforerat ulkus.
+
+##### Handläggning
+
+1. **Initialt omhändertagande**
+    - Sätt syrgas, fixa infarter, vätska
+    - Smärtstillning? --- Morfin i doser om 2,5--5mg
+    - V-sond
+    - Ev. KAD
+2. **Farmakologisk behandling**
+    - PPI --- 80mg iv som bolus, därefter infusion 8mg/h    
+    - Pip-tazo 4gx3 (efter säkrade blododlingar)
+    - Rehydrering --- 2000ml 5--10% buffrad glukos + 2000ml ringer uner dygn 1 till
+    hjärtfrisk normalviktig vuxen. Ersätt även förluster via V-sond.
+    - Ev. antiemetika
+3. **Kirurgi**
+    - Bör utföras inom 12--24h från sumtomdebut
+    - Resektionskirurgi ffa vid uttalad malignitetsmisstanke. Mycket sällan akut.
+    - Visst stöd för att öppen teknik är bättre på högriskpatienter finns.
+
+**Konservativ behandling** övervägs i undantagsfall. Ffa vid täckta/avgränsade perforationer
+då patienten söker efter att tillståndet stabiliserats. Består av:          
+
+- Fasta
+- V-sond
+- Syrahämning
+- Antibiotika
+
+##### Uppföljning
+
+- Eradikera *H. pylori*
+- Ev. seponering av NSAID, ASA, steroider
+- Rökstopp
+- PPI
+- Gastroskopi efter 6v för att utesluta maliginitet.
+
+
+### Akut pankreatit
+
+##### Orsaker
+
+- **Alkohol** --- Vanligaste orsaken hos män
+- **Gallsten** --- Vanligaste orsaken hos kvinnor
+- Hypertriglyceridemi
+- Hypercalcemi
+- Ärftliga --- CFTR, ärftlig pankreatit
+- Infektion
+- Obstruktion av pankreasgång --- Tumör, sfinkterdysfunktion, ampullstenos, *pancreas
+  divisum*
+- Ischemi
+- Kroniska inflammatoriska/immunologiska sjukdomar
+- Iatrogena orsaker --- Läkemedel, ERCP, Postoperativt
+- Idiopatiska
+
+##### Kliniska drag
+
+
+
+###### Symtom
+
+- Epigastriell smärta
+    - Snabbt ökande, utstrålning till ryggen (vanligare vid svår pankreatit)
+- Illamående, kräkningar
+
+###### Tecken
+
+- Lokal peritonealretning
+- Paralytisk ileus
+- Subfebrilitet
+- Cirkulatorisk påverkan --- varierar från ingen till grav
+
+##### Handläggning
+
+###### Utredning
+
+- **Anamnes** inkl. alkohol och gallstenssjukdom
+- **Status** --- Värdera vätskebehov extra
+- **Labb** --- Blodstatus, infektionsparametrar, Lever-/pankreasstatus, Glukos,
+  triglycerider, ev. artärgas
+- **EKG**
+- **Bilddiagnostik**
+    - *ULJ* --- Värdering av gallsten. Ej för pankreasdiagnostik.
+    - *DT-buk* --- Hög känslighet för pankreatit. Förändringar syns dock oftast först efter
+      48h.
+
+##### Diagnos
+
+För akut pankreatitdiagnos ska 2/3 av nedanstående vara uppfyllt:
+
+- Akut epigastriell smärta
+- Amylas > 3ggr övre normalvärde
+- DT-verifierade pankreatittecken
+
+##### Behandling
+
+###### Ta ställning till...
+
+- **Vårdnivå** --- Pat. med cirkulationspåverken +/- organsvikt är intensivvårdsfall.
+    - *Organsvikt föreligger vid:*
+        - Kreatinin > 170
+        - BT < 90mmHg efter vätskebehandling
+        - PaO~2~ < 8kPa
+        - GCS < 13
+        - Trombocyter < 80
+- **Vätskebehov** --- Kan krävas 6L under dygn 1. Styrs ffa av urinproduktion.
+- **Smärtstillning**
+- **Antibiotika**
+
+::: {.callout-tip}
+
+## Bedömning av svårighetsgrad
+
+Flertal system finns. Det mest använda är Atlantaklassifikationen:
+
+1. **Mild** --- Utan organsvikt och lokala komplikationer.
+2. **Medelsvår** --- Med organsvikt < 48h *och/eller* lokala komplikationer.
+3. **Svår** --- Med organsvikt > 48h *med/utan* lokala komplikationer.
+
+:::
+
+###### Okomplicerad pankreatit
+
+- **Fasta** --- Ffa pga smärta och illamående. När smärtan släpper kan intag börja enligt
+  samma principer som för opererade.
+- **D-sond** --- Vid kräkningar eller ventrikelretention. Påverkar ej tillfrisknandet
+- **Kontroller** --- 2ggr/dag, syremättnad, puls, bltr, temp, urin
+- **Provtagning** --- Daglig elstatus, blodstatus, leverstatus, CRP, krea och glukos tills
+  svårighetsgrad står klar
+- **Smärtlindring** --- T.ex ketogan x 4--6.
+- **Vätska** --- Rikligt med klara vätskor. Ofta stora förluster även vid mild sjukdom.
+  Första dygnet ordineras från akuten
+- **Antibiotika** --- *Ej till okomplicerad pankreatit*
+- **Trombosprofylax** --- Som andra inlagda kir-pat.
+- **DT** --- Ev. 1/vecka
+
+###### Komplicerad pankreatit
+
+I grunden samma behandling som vid okomplicerad pankreatit. Dock oftare behov av IVA.
+
+- **IVA** --- Indicerat vid:
+    - Hypovolemi, hypotension trots vätskebehandling
+    - Oliguri, anuri
+    - Hypoxi
+- **Vätskerkorrigering** --- Dagliga vikter, urinmätningar och elektrolyter.
+    - Hypokalcemi är vanligt men behöver bara behandlas vid symtom.
+    - Diures om 1000--1500ml/dygn är önskvärd.
+- **Nutrition** --- Ska ha fullt stöd så länge de ej kan försörja sig själva.
+    - Att ge åtminstone en del av nutritionen enteralt (vid sond) är önskvärt.
+- **Smärtstillning** --- Har direkt påverkan på läkningen. Överväg EDA vid inadekvat
+  smärtlindring.
+- **Antibiotika** --- *Ej som profylax* endast vid tecken på infektion. Preparat beror på
+  fokus.
+- **Kirurgi** --- Indicerad vid infekterade nekroser utan möjlighet till dränering och där
+  antibiotika ej varit effektivt
+    - Vid gallstensorsakad pankreatit bör resektion övervägas i lugnt skede
+    - Pseudocystor kan opereras om de ger symtom efter 6--8v.
+
 
