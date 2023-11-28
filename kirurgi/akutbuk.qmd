@@ -1,9 +1,17 @@
 # Akut buk
 
+
 **Akut buk** enligt MeSH:        
 
 > *Kliniskt syndrom med akut buksmärta som är svår, lokal och snabbt förvärras. 
 Akut buk kan orsakas av en mängd olika tillstånd, skador eller sjukdomar.*
+
+**Olika "typer" av smärta vid akut buk:**
+
+- **Koliksmärta:** Mer skärande, varierande smärta än inflammatoriska
+    - Ileus, sten m.fl
+- **Inflammatorisk smärta:** mer dov, molande, konstant värk
+    - Appendicit
 
 
 ## The big five
@@ -718,4 +726,49 @@ I grunden samma behandling som vid okomplicerad pankreatit. Dock oftare behov av
     - Vid gallstensorsakad pankreatit bör resektion övervägas i lugnt skede
     - Pseudocystor kan opereras om de ger symtom efter 6--8v.
 
+## Klabbet
 
+Vanligare orsaker än "*the big five*" vid akut buk.
+
+### Appendicit
+
+Vanligast i åldrarna 10--40.
+
+##### Kliniska drag
+
+- **Symtom:**
+    - Smärta --- Ofta till en början mer diffus, rör sig senare mot höger fossa.
+        - Blir värre av rörelse
+    - Feber
+    - Ofta kissnödig (pga blåsretning)
+- **Tecken:**
+    - Indirekt och direkt släppömhet
+    - Ev. palpabel resistens
+
+::: {.callout-info}
+
+Barn kan alltid vara obstiperade. Kan ibland ge liknande bild hos barn.
+
+:::
+
+##### Handläggning
+
+###### Vuxna
+
+- **AIR-score**
+    - 0--4 poäng: Skicka hem och kom tillbaks nästa dag.
+    - 5--8 poäng: Lägg in och följ förloppet.
+    - 9--12 poäng: Exploration.
+
+::: {.callout-important}
+
+Vuxna över 40~45 som behandlats för en appendicit och inte skoperats på 5 år ska
+koloskoperas för att utesluta tumör!
+
+:::
+
+###### Bilddiagnostik
+
+- **DT** --- Aldrig aktuellt hos barn.
+- **ULJ** --- Kräver van undersökare. Relativt dåligt sensitivitet. Sällan aktuellt i
+  akutskedet.
