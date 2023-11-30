@@ -45,6 +45,9 @@ book:
         - kirurgi/akutbuk.qmd
         - kirurgi/bråck.qmd
         - kirurgi/rektum.qmd
+    - part: "Onkologi"
+      chapters:
+        - onkologi/palliativt.qmd
   appendices:
     - ordlista.qmd
   search:

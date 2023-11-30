@@ -1,0 +1,12 @@
+# Palliativ vård
+
+::: {.callout-tip}
+
+# Det palliativa kitet
+
+- Morfin --- Smärta
+- Midazolam --- Oro (smärta)
+- Haldol --- Illamående, Oro
+- Robinul --- Rosslingar
+
+:::
