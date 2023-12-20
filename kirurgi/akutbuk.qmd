@@ -744,6 +744,13 @@ Vanligast i åldrarna 10--40.
 - **Tecken:**
     - Indirekt och direkt släppömhet
     - Ev. palpabel resistens
+    - Perforation ger ökad allmänpåverkan, feber och peritonitstatus.
+- **Atypiska fall** är vanligt.
+    - Om appendix ligger retrocekalt, bakom levern elle i lilla bäckenet kan lokal ömhet och
+      peritonitretning saknas.
+    - Appendicitabscess och flegmone kan ha mild allmänpåverkan och sakna peritonitstatus.
+    - Småbarn och äldre är ofta svårvärderade.
+    - Återkommande subakut appendicit förekommer.
 
 ::: {.callout-info}
 
@@ -753,11 +760,22 @@ Barn kan alltid vara obstiperade. Kan ibland ge liknande bild hos barn.
 
 ##### Handläggning
 
-###### Vuxna
+- **Faktorer som bör bedömas**
+    - Peritonealretning?
+    - Inflammatorisk respons --- Avsaknad av feber, leukocytos och CRP-stegring gör
+      diagnosen mindre sannolik
+    - Allmänpåverkan
+    - Palpabel resistens --- *Kan* finnas vid flegmone eller abscess.
+    - Symtomduration --- Betänk att CRP-stegring kan saknas tidigt. Misstänk perforation/abscess vid >3 dagars duration med fortsatt höga inflammationstecken.
+    - Symtomutveckling --- Smärtvandring stödjer diagnos, avklingande symtom kan tyda på
+    självläkning.
+    - Ålder, kön --- Vanligas hos 10--25-åringar. Hos kvinnor bör gynekologiska diagnoser
+    övervägas.
+    - Patientens allmäntillstånd --- Undvik negativ exploration hos sköra
 
 - **AIR-score**
     - 0--4 poäng: Skicka hem och kom tillbaks nästa dag.
-    - 5--8 poäng: Lägg in och följ förloppet.
+    - 5--8 poäng: Lägg in och följ förloppet. Eventuellt bilddiagnostik.
     - 9--12 poäng: Exploration.
 
 ::: {.callout-important}
@@ -772,3 +790,122 @@ koloskoperas för att utesluta tumör!
 - **DT** --- Aldrig aktuellt hos barn.
 - **ULJ** --- Kräver van undersökare. Relativt dåligt sensitivitet. Sällan aktuellt i
   akutskedet.
+
+###### Behandling
+
+- **Kirurgisk**
+    - Vid osäker diagnos kan laparoskopi vara att föredra. Annars styr i allmänhet operatörens
+    vana.
+    - Buksköljning är ej indicerat.
+    - Antibiotikaprofylax ges preoperativt i 5 dagar. Kan ges peroralt då patientens GI-funktion
+      tillåter.
+- **Flegmone och abscess**
+    - Bilddiagnostik är indicerad på misstanke.
+    - Flegmone och abscesser <5cm svarar i allmänhet på antibiotika.
+- **Antibiotikabehandling**
+    - Sällan indicerad vid mild appendicit.
+    - Möjligtvis vid skör patient för att undkomma operation.
+- **Appendicit hos gravida**
+    - Inflammationsparametrar och AIR-score är av värde.
+    - ULJ kan vara indicerat pga svårbedömt status.
+
+### Gallträdssjukdomar
+
+#### Gallsten
+
+::: {.callout-note}
+
+# Typer
+
+- **Svarta pigmentstenar** --- Associerade med hemolys och/eller cirrhos.
+- **Bruna pigmentstenar** --- Associerade med stas och infektion. Vanligast i sydostasien
+men förekommer överallt.
+
+:::
+
+###### Epidemiologi
+
+30% av kvinnor och 20% av män >40 har gallsten i sverige. Prevalens ökar med ålder medan
+könsskillnad minskar.
+
+Ca 10--30% av patienter med gallsten blir till slut opererade för tillståndet. Asymtomatisk
+gallstenssjukdom kräver *ej* åtgärd.
+
+::: {.callout-warning}
+
+# Gallblåsecancer
+
+Risken för gallstenspatienter att drabbas av cancer är inte tillräckligt ökad för att
+indikera operation i profylaktiskt syfte. I 0,59% av kolecystektomier hittas oväntad cancer.
+
+**Porslinsgallblåsa** ger däremot en risk på ca 6% och är en absolut indikation för kirurgi.
+
+**Gallblåseadenom** ≥10mm bör diskuteras på leverkirurgisk konferens. Adenom mindre än dessa
+är sällan maligna medan de >15mm ofta är det. *Samtliga* med PSC och gallblåsepolyper bör
+kolecystektomeras.
+
+**Mirizzis syndrom**^[Kolecystocholedocal fistelbildning efter långvarig inflammation med kompression av gallgången initialt.]
+ger ökad risk för gallblåsecancer.
+
+:::
+
+##### Kliniska drag
+
+###### Symtom
+
+- **Smärta**
+    - Attackvis ev. i samband med intag av fett, stekt mat, ägg, äpple, annan frukt m.m.
+    - Utstrålning mot rygg/höger skulderblad. Motsvarar dermatom Th5--Th6.
+    - Ömhet över gallblåsan vid attacker.
+
+**Inkilad papillsten** ger liknande smärtbild men oftast belägen till epigastriet.
+
+##### Diagnos
+
+- **ULJ-gallväger** är förstahandsval
+- **MRCP** kan användas för vidare diagnostik.
+
+##### Behandling
+
+###### Elektiv
+
+- **Sfinkterotomi+stenextraktion** i första hand --- 10--15% kräver senare kolecystektomi. Oftast inom 1 år vid fortsatta besvär/akut anfall.
+- **Primär kolecystektomi** vid...
+    - Recidiverande gallstensanfall
+    - Komplikationer som kolecystit och/eller pankreatit
+    - Porslinsgallblåsa
+
+::: {.callout-tip}
+
+# OP-metod
+
+1. **Laparoskopisk** i första hand
+2. **Öppen elektiv kolecystektomi** vid...
+    - Gravid i 3:e trimestern
+    - Koagulationsstörning som kan komplicera operationen
+    - Mirizzis syndrom
+    - Levercirrhos och/eller portal hypertension
+    - Kontraindikationer mot pneumoperitoneum
+
+**Peroperativ kolaingiografi** bör alltid utföras.
+
+**Polikinisk operation** är möjlig vid:
+
+- ASA 1--2.
+- Ej ensamboende patient.
+- Ingen andningspåverkan eller upprepade kräkningar postoperativt.
+- Ingen konvertering till öppen operation. Inga påvisade gallgångsstenar.
+- I förväg informerad och villig patient.
+
+**Antibiotikaprofylax** behövs ej i standardfallet. T.ex indicerad vid fistel tarm--gallblåsa.
+
+:::
+
+###### Akut gallstensanfall
+
+- Injektion diklofenak --- CAVE kontraindikationer
+- I andra hand kan morfin 2,5--5mg + Buscopan 20mg/ml x 0.5ml användas om läkemedel likt Spasmofen behövs.
+- Om supp. Spasmofen hade behövts kan supp Ketogan användas.
+- Pat. med upprepade gallstensanfall kan få recept på diklofenak supp 50mg.
+    - Gravida kan behandlas med diklofenak som akutbehandling men bör ej erhålla recept. Ffa
+    i 3:e trimestern!
