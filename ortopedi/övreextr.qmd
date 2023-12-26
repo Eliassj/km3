@@ -317,11 +317,37 @@ Vid monteggiaekvivalent fraktur fixeras även *caput radii*.
 Vid korrekt reposition blir patienten oftast besvärsfri efter läkning som tar
 3-4 månader.
 
+## Caput radii fraktur
+
+##### Kliniska drag
+
+###### Fynd
+
+- Smärtsam pro-/supination
+- Smärta vid palpation över caput radii
+- Svullnad
+
 ## Handled
 
-TODO: Initial handläggning och typer
+### Normalanatomi
+
+- **Dorsal vinkel** anger vinkeln mellan den linje som sammanbinder radius ledytas dorsala och volara kanter samt en tänkt linje vinkelrät mot radius längsaxel.
+    - *Normalt:* 2--20 grader volarbockning
+- **Radial inklination** anger vinkeln mellan den linje som sammanbinder *styloideus radii*:s spets och den centrala referenspunkten^[Mitten av radius ulnara kant] och en tänkt linje vinkelrät mot radius längsaxel.
+- **Ulnar varians** Anger hur mycket kortare/längre ulna är jämfört med radius (betecknas ulna+/ulna-).
+    - *Normalt:* -4--2mm
+
+::: {.callout collapse="true"}
+
+# Normala vinklar
+
+![https://vardgivare.skane.se/contentassets/a716fadf1cbf4cb2b30c2727b4718e49/vardprogram-distal-radiusfraktur-pdf.pdf](../pics/radiusvinkel.png){#fig-radiusvinkel}
+
+:::
 
 ### Distal radiusfraktur
+
+[Nationellt vårdprogram för behandling av distala radiusfrakturer](https://vardgivare.skane.se/contentassets/a716fadf1cbf4cb2b30c2727b4718e49/vardprogram-distal-radiusfraktur-pdf.pdf)
 
 Den vanligaste av alla frakturer. *Allra* vanligast hos barn och postmenopausala
 kvinnor men förekommer hos alla.            

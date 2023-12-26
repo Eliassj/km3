@@ -180,6 +180,20 @@ Pulsar, känsel, rörlighet
 
 ## Fot/Fotled
 
+::: {.callout-tip collapse="true"}
+
+# Fotens anatomi
+
+::: {layout-nrow=2}
+
+![Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/](../pics/fotben.jpg){#fig-fotben}
+
+![https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface](../pics/fotmuskler.jpg){#fig-fotmuskler}
+
+:::
+
+:::
+
 ### Inspektion
 
 - Deformitet --- Felställning, varus/valgus, ärr m.m
@@ -190,3 +204,109 @@ Pulsar, känsel, rörlighet
 ### Palpation
 
 - Hela fibula
+- Akillessenan
+- Malleoler
+- Calcaneus
+- Os naviculare
+- Tuberositas metatarsale V
+- **Leder**
+    - Fotledsspringa, Lisfrancs, Choparts, MTF-I-led
+
+### Rörlighet
+
+- Dorsalflektion --- 20--30 grader
+- Plantarflektion --- 50--60 grader
+- Pronation --- 10--20 grader
+- Supination --- 60--70 grader
+
+### Styrka
+
+- Dorsalflektion
+- Plantarflektion --- S1
+- Knipa tår
+- Sträcka tår --- L5
+
+### Stabilitet
+
+- Sidostabilitet i fotleden
+
+### Känsel
+
+::: {.callout-tip collapse="true"}
+
+# Dermatom
+
+
+![Henry Gray (1918) Anatomy of the Human Body ](../pics/bendermatom.png){#fig-bendermatom width=50%}
+
+![Henry Gray (1918) Anatomy of the Human Body](../pics/fotdermatom.svg){#fig-fotdermatom width=50%}
+
+
+:::
+
+- Fotrygg
+- Plantart
+
+### Specifika tester
+
+- **Thompsons test** --- Positivt vid hälseneruptur.
+    - Patienten ligger på mage med fötterna utanför britsen. Undersökare klämmer på
+      vadmuskulaturen. Positive vid utebliven plantarflexion av foten.
+- **Simmonds test** --- Synonymnt med Thompsons test.
+- **Matles test**
+    - Patienten ligger på mage med fötterna utanför britsen. Vid passiv/aktiv flektion i
+      knäna till 90 grader bör fötterna vara svagt plantarflexerade. Om ena är mer
+      dorsiflekterad tyder detta på akillesseneruptur.
+
+## Axel
+
+::: {.callout-tip collapse="true"}
+
+# Skulderanatomi
+
+![Shoulder joint. Posterior view at left. Anterior view at right. 1. Clavicle, 2. Scapula (with 3. Scapular spine, 4. Coracoid process, 5.Acromion), 6. Humerus; Joints: 7. Acromioclavicular (AC), 8. Glenohumeral; 9: Bursa; 10. Rotator cuff (with 11. Supraspinatus, 12. Subscapularis, 13. Infraspinatus, 14. Teres minor), 15. Biceps muscle          
+By Jmarchn - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=67194157](../pics/rotatorcuff.svg){#fig-rotatorcuff}
+
+![Humerus framifrån            
+By Andrew Francis Dixon (1868-1936) - Fig. 32, p.63, Dixon&#039;s Manual of human osteology (1912) Book Viewer, Public Domain, https://commons.wikimedia.org/w/index.php?curid=90759623](../pics/humerusant.png){#fig-humerusant width=50%}
+
+:::
+
+### Inspektion
+
+Assymetri, svullnad, atrofi, hematom
+
+### Palpation
+
+- Sternoclavicularleden
+- *Clavicula*
+- AC-leden
+- *Proc. Coracoideus*
+- Caput humeri inkl. senor och senfästen
+    - M. Supraspinatus --- Palperas på *tuberculum majus*
+    - M. biceps caput longum --- Palperas mellan *tuberculum majus* och *minus*
+    - *M. subscapularis* --- Palperas på *tuberculum minus*
+
+### Rörlighet
+
+- Extension/Flektion --- -45--180 grader
+- Abduktion --- 180 grader
+    - Smärta i *60--120 grader* (painful arch) tyder impingement av supraspinatussenan under
+      AC-leden.
+    - Smärta i *120--180 grader* tyder på AC-ledsartros. Dessa tillstånd finns inte sällan
+      samtidigt.
+- Adduktion --- -45 grader
+- Inåtrotation --- 95 grader, testar ffa subscapularis
+- Utåtrotation --- 80 grader, testar ffa Infraspinatus/Teres minor
+
+### Specifika tester
+
+- Apprehension test --- Testar stabilitet efter dislokation.
+    - Med armen abducerad till 90 grader samt armbågen flekterad i 90 grader utåtroteras
+      armen. Positivt vid smärta/obehag. [(video)](https://youtu.be/Cw2_CTKTUuc?si=w39gN9vF5zHwHtMA&t=38)
+- Hawkins test --- Testar supraspinatusimpingement.
+    - Kan utföras med armen i samma utgångsposition som apprehension test. Från denna
+      position inåtroteras armen. [(video)](https://youtu.be/6GkKB2oXi3o?si=j3rpM_c71szoMeFQ&t=36)
+- Jobs test --- Testar *m. supraspinatus*.
+    - Armen sträcks ut rakt framåt, något abducerad med tummen nedåt. Smärta vid detta läge
+      (med tryck) indikerar impingement. [(video)](https://youtu.be/NXYN9bnu0C0?si=VpQomskqUTCDfkrp&t=40)

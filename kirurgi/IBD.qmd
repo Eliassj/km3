@@ -1,0 +1,56 @@
+# IBD
+
+## Ulcerös kolit
+
+### Operationsindikationer
+
+- Akut fulminant kolit
+- Sviktande medicinisk behandling
+- Hotande cancer --- Vävnadsdysplasi ggr flera
+
+### OP-metoder
+
+- **Akut+Halvakut**
+    - Kolektomi+terminal ileostomi, rektum in situ.
+    - Ev. "återställande" av anatomi m. ileoanal anastomos i lugnt skede.
+- **Elektiv**
+    - Proktokolektomi m. ileal bäckenreservoir m. ileo-anal anastomos.
+    - Kolektomi och ileorektal anastomos. --- Kan användas om rektum ej är för inflammerat.
+    - Proktokolektomi m. permanent ileostomi --- Till patienter där inkontinens förväntas
+    pga ålder, sjukdom.
+
+## Chrons sjukdom
+
+### Operationsindikationer
+
+- Kroniska symtom som påverkar allmäntillstånd och livskvalité
+- Stenosbesvär, fistulering, abscesser
+- Höggradig dysplasi eller manifest cancer
+
+::: {.callout-note}
+
+# Stats
+
+- Re-op frekvens: 16% inom 5 år.
+
+:::
+
+### OP-metoder
+
+- **Duodenum**
+    - Gastric bypass vid striktur
+- **Tunntarm**
+    - Tarmresektion med sparande av längd. Vid längre striktur görs resektion t.o.m för ögat
+      normal tarm.
+    - Korta strikturer -> Strikturplastik
+    - Distala iluem -> Ileocekalresektion 50% chans för återfall.
+    - Tillfällig stomi kan användas för att skapa andrum.
+- **Kolon och rektum**
+    - Som vid ulcerös kolit vid akuta problem.
+    - Ibland proktokolektomi. Man sparar ofta rektum.
+    - Bäckenreservoar med ileoanal anastomos har **ingen** plats vid chron!
+    - Segmentell kronkolit kan ibland åtgärdas med resektion + anastomos. Ger ofta goda
+    resultat med måttlig senare progress.
+- **Anus**
+    - Sfinktersparande behandling i första hand.
+    - Sedvanlig abscess+fistelbehandling.

@@ -45,6 +45,7 @@ book:
         - kirurgi/akutbuk.qmd
         - kirurgi/bråck.qmd
         - kirurgi/rektum.qmd
+        - kirurgi/IBD.qmd
     - part: "Onkologi"
       chapters:
         - onkologi/palliativt.qmd

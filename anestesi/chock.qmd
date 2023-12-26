@@ -26,6 +26,10 @@ Definitionsmässigt ska *symtom* från minst 2 organsystem föreligga.
     - Marmorerad hudkostym
     - Hypotoni
     - Medvetandepåverkan
+    - Avsaknad av puls vid lågt systoliskt tryck
+        - Radialis --- ~90
+        - Femoralis --- ~70
+        - Carotis --- ~60
 
 ### Initialt omhändertagande
 

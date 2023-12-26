@@ -1,12 +1,12 @@
 # Luftväg
 
-||**Maxflöde**<br>**FiO~2~**|
-|:---|:---|
-|**Grimma**|max 6L/min^[CAVE: Torra slemhinnor. Byt till mask om man ska använda länge/mer än ett fåtal l/min]<br>24-44%|
-|**Stängd mask utan reservoar**|5-10L/min|
-|**Stängd mask med reservoar**|1-15L/min<br>90% vid 15L/min|
-|**Oxymask**|1-15L/min<br>24-90%|
-|**HFNC**|10-60L/min<br>21-100%
+||**Maxflöde**<br>**FiO~2~**|**Kommentar**|
+|:---|:---|:---|
+|**Grimma**|max 6L/min^[CAVE: Torra slemhinnor. Byt till mask om man ska använda länge/mer än ett fåtal l/min]<br>24-44%||
+|**Stängd mask utan reservoar**|5-10L/min||
+|**Stängd mask med reservoar**|5-15L/min<br>90% vid 15L/min||
+|**Oxymask**|1-15L/min<br>24-90%|Osäkrare FiO~2~ jämfört med reservoarmask 60--90% vid 15L/min.|
+|**HFNC**|10-60L/min<br>21-100%||
 
 : Syrgasmetoder och deras maxflöden/FiO~2~
 
