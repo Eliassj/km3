@@ -252,7 +252,8 @@ Pulsar, känsel, rörlighet
 - **Thompsons test** --- Positivt vid hälseneruptur.
     - Patienten ligger på mage med fötterna utanför britsen. Undersökare klämmer på
       vadmuskulaturen. Positive vid utebliven plantarflexion av foten.
-- **Simmonds test** --- Synonymnt med Thompsons test.
+- **Simmonds test** --- Synonymnt med Thompsons test. Ryktas att testet innebär
+    inspektion av huruvida den sjuka foten är mer dorsalflekterad än den friska.
 - **Matles test**
     - Patienten ligger på mage med fötterna utanför britsen. Vid passiv/aktiv flektion i
       knäna till 90 grader bör fötterna vara svagt plantarflexerade. Om ena är mer
@@ -283,8 +284,8 @@ Assymetri, svullnad, atrofi, hematom
 - AC-leden
 - *Proc. Coracoideus*
 - Caput humeri inkl. senor och senfästen
-    - M. Supraspinatus --- Palperas på *tuberculum majus*
-    - M. biceps caput longum --- Palperas mellan *tuberculum majus* och *minus*
+    - *M. Supraspinatus* --- Palperas på *tuberculum majus*
+    - *M. biceps caput longum* --- Palperas mellan *tuberculum majus* och *minus*
     - *M. subscapularis* --- Palperas på *tuberculum minus*
 
 ### Rörlighet
@@ -310,3 +311,44 @@ Assymetri, svullnad, atrofi, hematom
 - Jobs test --- Testar *m. supraspinatus*.
     - Armen sträcks ut rakt framåt, något abducerad med tummen nedåt. Smärta vid detta läge
       (med tryck) indikerar impingement. [(video)](https://youtu.be/NXYN9bnu0C0?si=VpQomskqUTCDfkrp&t=40)
+- AC-ledstest --- Testar AC-ledsartros.
+    - Handen läggs på den kontralaterala axeln. Eventuellt provoceras något genom att trycka
+    på armbågen upp mot handen/kontralaterala axeln. Smärta indikerar AC-ledsartros.
+
+### Distalstatus
+
+Pulsar, känsel, rörlighet
+
+## Armbåge
+
+### Inspektion
+
+- Svullnad, hematom, missfärgning, ärr, atrofi
+- Spontan armställning
+
+### Rörlighet
+
+- Flexion --- 145 grader
+- Extension --- 0 grader
+- Supination --- 90 grader
+- Pronation --- 90 grader
+
+### Stabilitet
+
+- Sidostabilitet
+
+### Specifika tester
+
+- **Tennisarmbåge** --- Lateral epikondylit
+    - Testa handextension och supination mot motstånd. Smärta tyder på lateral epikondylit.
+    - Även passiv extension av extensormuskulaturen kan provocera smärta.
+- **Golfarmbåge** --- Medial epikondylit
+    - Testa flexion och pronation mot motstånd. Smärta tyder på medial epikondylit.
+- **Tinells test** --- Hög ulnarisentrapment
+    - Perkutera *sulcus n. ularis*
+- **Phalens test** --- Hög ulnarisentrapment
+    - Flektera armbågen maximalt samt extendera axeln till 90 grader. Handleden måste vara sträckt.
+
+### Distalstatus
+
+Pulsar, känsel, rörlighet, Tinells, Phalens.

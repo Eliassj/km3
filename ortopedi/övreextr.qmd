@@ -396,7 +396,7 @@ detta inte kan uppnås med gips är kirurgi ofta indicerat.
 Indikationer för öppen reposition:
 
 - Initial dorsalbockning >30 grader
-- Smiths fraktur
+- Smiths fraktur --- dvs alla volarbockade
 - Intraartikulära frakturer med >1mm skillnad i ledyte mellan fragment
 - Frakturer som engagerar *ossa carpi*
 - Felställd fraktur med samtidigt dislocerad ulnafraktur

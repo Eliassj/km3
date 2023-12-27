@@ -80,4 +80,97 @@ Läkningstyp beror på huruvida (icke-splittrade) frakturer blir stabilt anatomi
 Märgspikar består oftast av titan som är mer elastiskt och bildar ett bakteriedödande oxidlager.        
 På ställen med låg belastning kan resorberbara implantat av polyestrar användas.
 
+## Osteoporos
 
+Uppdelas i primär och sekundär osteoporos.
+
+Naturalförloppet går från lättare hand/handledsfrakturer till höftfrakturer med stigande
+osteoporosgrad.
+
+##### Utredning
+
+Minskning av kroppslängd >3cm före hos patienter <70 eller >5cm hos patienter >70 bör
+inge misstanke om kotkompression. Likasp kyfos och långvarig svår ryggvärk hos de >50.
+
+De med ökad frakturrisk (såsom pat. >50 med fraktur, osteoporos, risk >15% enl. [FRAX](https://frax.shef.ac.uk/FRAX/)) ska
+utredas.
+
+:::: {layout-ncol=2}
+
+::: {#first-column}
+
+- **DEXA-mätning** i höft och ländrygg
+    - För postmenopausala kvinnor och män >50 används T-score som motsvarar antalet standardavvikelser från normal bentäthet hos ung,
+    frisk person.
+    - För övriga används Z-score som är en ålders- och kösnjusterad motsvarighet.
+- **VFA-assesement** --- *Vertebral Fracture Assessment*
+    - Översiktlig kotkroppsdiagnostik med hög sensitivitet och specificitet för
+    medelsvåra--svåra^[>25% kothöjden komprimerad] kotkompressioner.
+- **Trabecular bone score (TBS)**
+    - Användbart i högre åldrar då benpålagringar ökar T-score trots skörare skelett.
+    - TBS > 1,25 är normalt. TBS < 1,2 innebär försämrad mikrostruktur.
+- **Ryggradsröntgen**
+    - Används vid inkonklusiv VFA eller för att utesluta malignitetsorsakad kotfraktur.
+:::
+
+::: {#second-column}
+
+|**Diagnos**|**T-score**|
+|:---|:---|
+|Frisk|> -1,0
+|Osteopeni|-1,0 -- -2,5
+|Osteoporos|< -2.5
+Ostoporos med manifest fraktur|< -2.5 och fraktur
+
+: Gränsvärden för T-score {#tbl-tscore}
+
+:::
+
+::::
+
+**Standarduppföljningen** är ny DEXA-mätning vartannat år på *samma utrustning*. Vid
+kortisonbehandling etc kan denna tid förkortas.
+
+###### Lab
+
+- Hb
+- Krea
+- S-kalciumjon
+- ALP
+- S-PTH
+- S-25-OH-vitamin D
+
+Vid misstanke om *sekundär osteoporos* bör provtagning kompletteras med prover för:
+
+- Hypertyreos
+- Prolaktinom
+- Myelom
+- Celiaki
+- Hypogonadism hos män
+- Leverinsufficiens
+- Cushings syndrom
+
+##### Behandling
+
+Alla med kot-/höftfraktur bör övervägas för behandling. Likaså de med >20% risk enligt FRAX.
+Också de med osteoporos och andra riskfaktorer bör övervägas.
+
+- **Benuppbyggande**
+    - Teriparatid (parathormonanalog, Forsteo)
+    - Romosozumab (Evenity)
+- **Hämmar bennedbrytning/resorption**
+    - Bisfosfonater
+        - Mycket låg absorption i tarm. Tas fastande med max 1 glas vatten minst 30min innan frukost.
+        - Pat. med eGFR <35 bör ej behandlas med bisfosfonater.
+        - Vissa får retning i matstrupe/mage och måste behandlas iv.
+        - Viss risk för osteonekros i käke ffa hos cancerpatienter med höga ackumulerade doser.
+        - Ökar även risk  för atypisk subtrochantär femurfraktur.
+    - Denosumab (Prolia)
+    - SERM (selektiva östrogenreceptormodulerare)
+    - Östrogen
+- **Tillgodoser mineralisering och ges som komplement till benspecifika medel (ovan)**
+    - Kalcium
+    - Vitamin D
+
+**Förstahandsbehandling** för alla förutom kvinnor med mycket hög frakturrisk är
+Bisfosfonater, D-vitamin och kalcium.

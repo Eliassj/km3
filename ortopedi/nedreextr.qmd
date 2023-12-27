@@ -648,6 +648,33 @@ subluxationer/*give-way*-episoder ökar risk än mer varför dessa bör opereras
 
 **Graftruptur** sker hos 3% av all och *20%* av unga kvinnor.
 
+### Mb Schlatter
+
+Vanligast hos barn. Orsakas av överbelastning i patellarsenans disatala fäste mot
+*tuberositas tibiae*.           
+Vanligare vid hoppträning och kortdistanslöpning.
+
+##### Kliniska drag
+
+- Smärta/ömhet över *tuberositas tibiae*
+    - Ffa efter träning och i stående.
+- Ofta bilaterala problem.
+
+##### Handläggning
+
+###### Röntgen
+
+- Knäröntgen med sidobild.
+    - Kan visa benfragment i *tuberositas tibiae*.
+
+##### Behandling
+
+- NSAID --- Som tablett eller gel
+- Anpassad aktivitet
+- quadricepsstretchning
+- OP med excision av fragment i *undantagsfall*.
+- Läker ut i samband med avslutad tillväxt.
+
 ## Underben
 
 ### Diafysär tibiafraktur
