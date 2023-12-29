@@ -1,3 +1,8 @@
+---
+date-modified: last-modified
+---
+
+
 # Nedre extremiteten
 
 ## Bäcken
@@ -805,7 +810,7 @@ versa. Fall, halka, idrottsutövning är vanliga uppkomsttilfällen.
 ## Ottawakriterierna
 
 Används för att avgöra huruvida röntgen krävs.          
-100% sensitivitet, 20-50% specificitet.
+~98-100% sensitivitet, 20-50% specificitet.
 
 US är indicerad vid:
 
@@ -843,7 +848,7 @@ delay*.
 
 ##### Behandling
 
-Synlig felställnign reponeras^[Greppa kring hälen, dra distalt, för sedan foten
+Synlig felställning reponeras^[Greppa kring hälen, dra distalt, för sedan foten
 anteriort. Eventuellt kombinerat med lätt inåtrotation.] innan rtg för att undvika skada av lösa, vassa
 fragment.
 
@@ -856,3 +861,166 @@ Vid stabilt resultat efter operation *kan* pat. belasta direkt. Vid stort bakre
 tibiafragment bör belastning begränsas. Dock erhålls
 ofta underbensgips i ca 6 veckor. Gipstiden bör förlängas hos diabetiker. 
 
+### Framfotsfraktur
+
+Ofta lindriga, vissa ledengagerande skador samt kombbinationer med skelett- och
+ligamentskador kan ge allvarliga men.
+
+##### Handläggning
+
+Handläggning beror på frakturtyp:
+
+- Skador i Lisfrancs ledkomplex
+- Skaftfraktur i metatarsalben
+- Fraktur på basen av metatarsale V
+- Metatarsalhuvudfrakturer vid MTP II--V
+- Stortåfraktur
+- Fraktur i övriga tår
+
+---
+
+###### Lisfrancskada {#sec-lisfranc}
+
+Omfattar skador kring lisfrancleden som ofta även går med ligamentskador. Kan även röra sig
+om enbart ligamentskada.
+
+- **Symtom** 
+    - Svullnad kring TMT-led
+    - Smärta vid passiv pronation och abduktion
+    - Palpömhet
+    - Blåmärke medialt i fotsula
+- **Utredning**
+    - Kan vara svårfångad på röntgen. DT för diagnos/kartläggning. MR i undantagsfall vid
+    enbart ligamentskada.
+
+::: {.callout-tip}
+
+# Behandling
+
+- **Enbart ligamentskada** --- Avlastning, immobilisering i gips i 8 veckor. Därefter
+gradvis återgång till aktivitet.
+- **Skelettskada *utan* diastas**
+    - Stabilitetstesta i narkos på tveksamhet!
+    - Immobilisering med linda/gips i 4 veckor. Successiv belastningsökning.             
+      *eller*
+    - Avlastning + gips i 8 veckor. De 2 första med skena, resterande med gipsstövel.
+- **Skelettskada *med* diastas**
+    - OP inom 12h. Annars kanske man måste vänta >1 vecka på avsvällning. Fixeras med skruv
+      och/eller stift.
+    - Gips 10--12 veckor med partiell belastning. Gips får gärna gå att öppna för
+    fysioterapi efter 2 veckor.
+    - Full belastning efter 10 veckor.
+    - Gjutna skoinlägg efter avgipsning.
+    - Skruvextraktion efter 3--4 månader.
+    - Artrodes primärt eller efter artrosutveckling.
+
+:::
+
+---
+
+###### Skaftfraktur i metatarsalben
+
+**Indelas** i dislocerad och odislocerad skada. Viktigt är huruvida 1 eller fler
+metatarsalben är skadade! Flera skadade ben ska sänka gränsen för öppen fixering.
+
+
+::: {.callout-tip}
+
+# Behandling
+
+- **Enstaka ej/måttligt dislocerade frakturer**
+    - Linda för smärtlindring och successivt ökad belastning.
+- **Enstaka kraftigt dislocerade frakturer** --- Dislokation upp/ned är värre än åt sidorna.
+    - Stift och gips i ca 4 veckor.
+- **I sidled dislocerade metatarsale 1 och V**
+    - Operation för att undvika posttraumatisk hallux valgus.
+
+:::
+
+---
+
+###### Fraktur i basen av metatarsale V
+
+::: {.column-margin}
+
+![Ungefärligt läge för jonesfraktur.             
+Från [orto.nu](https://orto.nu/injury.php?id=foot_fracture_metatarsales)](../pics/jones.jpg){#fig-jones}
+
+:::
+
+Definieras enl [orto.nu](https://orto.nu/injury.php?id=foot_fracture_metatarsales) som:
+
+> *Extraartikulär fraktur proximalt på metatarsale 5, på gränsen mellan metafys och diafys, transversell 1,5 till ca 3 cm distalt om proximala änden, frakturlinjen ska inte gå in i leden mot kuboideum men mot metatarsale 4. Frakturer i detta område läker dåligt.*
+
+Mer proximala frakturer är i allmänhet avulsionsfrakturer medan mer distala sannolikt är
+stressfrakturer.
+
+::: {.callout-tip}
+
+# Behandling
+
+- **Avulsionsfraktur**
+    - Linda och belastning som smärtan tillåter. Om dislokation är >4--5mm kan fixation
+    övervägas.
+- **Akut Jonesfraktur**
+    - Underbensgips eller linda i 6 veckor. Belastning som smärtan tillåter.
+- **Stressfraktur**
+    - Underbensgips i 6 veckor. Dock ofta skruvfixation.
+- **Oläkt jonesfraktur**
+    - Skruvfixation
+
+:::
+
+---
+
+###### Metatarsalhuvudfrakturer vid MTP II--V
+
+Kan finnas enstaka eller multipla luxationer och frakturer. Vid t.ex RA kan luxationer vara
+kroniska.
+
+::: {.callout-tip}
+
+# Behandling
+
+- **Akut luxation** 
+    - Reponeras slutet eller öppet.
+- **Odislocerad fraktur** 
+    - Linda eller underbensgips mot symtom i 4 veckor.
+- **Dislocerad fraktur**
+    - Reponeras öppet och skruv-/stiftfixeras. I synnerhet hos unga.
+
+:::
+
+---
+
+###### Stortåfrakturer och MTP-I ledsskador
+
+I MTP-I ledsskador ingår:
+
+- Översträckningsskador, *"turf-toe^[Ses ofta hos fotbollsspelare]"*
+- Överböjningsskador
+- Luxation med eler utan sesambenskada
+
+Frakturer indelas i odislocerade, dislocerade och dislocerade med ledengagemang.
+
+::: {.callout-tip}
+
+# Behandling
+
+- **Odislocerad fraktur**
+    - Linda, stadig sko, belastning som smärtan tillåter.
+- **Dislocerad fraktur**
+    - Skruv-/stiftfixation.  Särskilt vid intraartikulär skada.
+- **Luxation**
+    - Reponeras slutet eller öppet.
+
+:::
+
+---
+
+###### Frakturer i övriga tår
+
+- Symtomatisk stadig skobehandling.
+- Luxationer reponeras i lokalanestesi.
+
+---

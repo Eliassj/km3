@@ -1,3 +1,7 @@
+---
+date-modified: last-modified
+---
+
 # Palliativ vård
 
 ::: {.callout-tip}

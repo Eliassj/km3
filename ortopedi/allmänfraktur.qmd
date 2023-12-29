@@ -1,3 +1,7 @@
+---
+date-modified: last-modified
+---
+
 # Allmän frakturlära
 
 ::: {.callout-warning}

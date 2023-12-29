@@ -1,3 +1,7 @@
+---
+date-modified: last-modified
+---
+
 # Luftväg
 
 ||**Maxflöde**<br>**FiO~2~**|**Kommentar**|
