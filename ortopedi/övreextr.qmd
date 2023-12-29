@@ -149,6 +149,30 @@ Läker i genomsnitt på 12v.
 Långa och sneda frakturer(inkl. komminut) läker bättre än korta, tvära.         
 <10% kräver kirugisk behandling. Är frakturen rörlig efter **4 månader** klassas den som *non-union*.
 
+### Frusen skuldra
+
+Även känt som *adhesiv kapsulit*.
+
+Anses orsakas av immmobilisering.           
+Relativt vanligt att patienter insjuknar med besvär på andra sidan inom något år.
+
+##### Kliniska drag
+
+Går ofta i 3 faser:
+
+1. **Frysning** --- Ökande smärta och vilovärk under veckor--månader samtidigt som
+   rörelseomfång minskar.
+2. **Frusen** --- Smärta minskar men armen är uttalat stel i 4--12månader.
+3. **Upptining** --- Röreslefömåga återkommer på 1--2 år. Ofta med viss kronisk
+   funktionsnedsättning.
+
+###### Fynd
+
+- Smärta vid aktiv rörelse
+    - Avvikande humeroskapulär rytm.
+- Inkränkt aktivt rörelseomfång i senare stadier.
+    - Inskränkt passivt rörelseomfång i *ännu* senare stadier.
+
 ## Armbågen
 
 ### Olekranonfraktur {#sec-olekranonfraktur}
@@ -692,3 +716,54 @@ Liknar bennet men komminut. Ofta öppen reposition.
 ### Falangfrakturer
 
 Små vinkel-/rotationsfelställningar kan ge stora problem!
+
+### Malletfinger
+
+Även kallat "baseballfinger"/"drop-finger". Uppstår vid distal ruptur/avulsion av
+sträcksenan distalt om DIP-leden.           
+Relativt allvarlig då full funktion ofta ej uppnås trots lång behandling.
+
+
+##### Kliniska drag
+
+**Skademekanismen** kan utgöras av skärande våld mot själva senan men är oftare trubbigt,
+till synes banalt^[Allt från boll mot sträckt finger till att fingret fastnar när man tar
+av sig en tröja.] våld.
+
+###### Symtom
+
+- Oförmåga att sträcka i DIP-leden.
+- Smärta
+- Svullnad
+
+###### Handläggning
+
+- Slätröntgen m. frontal+sidobild
+
+###### Klassifikation och behandling
+
+
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **Typ** | **Utseende**                                                                           | **Behandling**                                             |
++=========+========================================================================================+============================================================+
+| **I**   | Sluten med eller utan liten avulsionsfraktur.                                          | Malletskena 24/7 i 6--8 veckor. Därefter 2--4v. nattetid.  |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **II**  | Öppen med laceration av distala senan.                                                 | Som **Typ I** efter sårvård och sutur.                     |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **III** | Öppen med huddefekt och skada i subcutis och sträcksena.                               | Ofta hudtäckningsproblem som måste åtgärdas av specialist. |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **IVA** | Fraktur genom epifys hos barn.                                                         | Malletskena, ofta kortare tid än vuxna.                    |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **IVB** | Hyperflexionsskada engagerande 20--50% av ledytan.                                     | Sluten reposition och stiftning om ledengagemang >30%.     |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+| **IVC** | Hyperflexionsskada engagerande >50% av ledytan med volar subluxation distala falangen. | Sluten reposition och stiftning.                           |
++---------+----------------------------------------------------------------------------------------+------------------------------------------------------------+
+
+::: {layout-ncol=2}
+
+![Klassifikation enl. Doyle](../pics/doyleklass.jpg){#fig-doyle}
+
+![Malletskena           
+By James Heilman, MD - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=12789324](../pics/malletsplint.jpeg){#fig-mallet width=35%}
+
+:::

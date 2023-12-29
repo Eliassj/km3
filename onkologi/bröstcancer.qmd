@@ -3,5 +3,45 @@
 - Tamoxifen --- ER-hämmare. Kan ges till äldre och yngre
 - Aromatashämmare --- Kan ges till äldre.
 
+## Ingång till SVF
 
+::: {.callout-important}
 
+# Välgrundad misstanke
+
+**Välgrundad misstanke** föreligger vid något av:
+
+- Malignitetssuspekt knöl i bröstet.
+- Malignitetssuspekt knöl i armhålan hos kvinnorm.
+- Ändrad kontur på bröstet.
+- Nytillkommen indragen bröstvårta.
+- Rodnad eller svullnad i huden över bröstet utan annan förklaring.
+- Blodig sekretion från enstaka mjölkgång.
+- Ensidigt eksem på bröstvårtan.
+- Sårbildning på bröstvårta eller i anslutning till bröstkörtlar.
+- Nytillkommen apelsinskalsliknande hud.
+- Fynd vid bilddiagnostik talande för bröstcancer.
+
+:::
+
+Smärta/ömhet har i allmänhet inte en malign förklaring. Dessa patienter ska dock remitteras
+för bilddiagnostik utan SVF-förlopp.
+
+## Utredning enl. SVF
+
+1. **Block A**
+    - Trippeldiagnostik:
+        - Klinisk undersökning
+        - Bilddiagnostik av bröst och armhåla
+        - Morfologisk unndersökning av bröst och eventuellt axillära lymfkörtlar.
+2. **Block B**
+    - Kompletterande vävnadsdiagnostik med bestämning av Er, Pr, HER-2, Ki67.
+3. **Block C**
+    - Information till patienten om studier.
+    - Information till patienten om eventuell rekonstruktiv kirurgi.
+4. **Block D**
+    - Metastasscreening
+5. **Block E**
+    - MDK
+6. **Block F**
+    - Diagnosbesked och behandlingsdiskussion.

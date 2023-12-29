@@ -1,0 +1,138 @@
+# Kärlinsufficiens
+
+Sker på både venös och arteriell sida ffa i benen.
+
+::: {.callout-tip collapse="true"}
+
+# Benens kärl
+
+![Benets arteriella blodförsörjning             
+By OpenStax College - Anatomy &amp; Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013., CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=30148282](../pics/benartärer.jpg){#fig-benartär}
+
+![Benets venösa blodförsörjning         
+By OpenStax College - Anatomy &amp; Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013., CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=30148292](../pics/benven.jpg){#fig-benven}
+
+:::
+
+## Arteriell insufficiens
+
+
+
+## Venös insufficiens
+
+::: {.callout-warning}
+
+# Riskfaktorer
+
+- Övervikt
+- Graviditet
+- Hereditet
+- Hög ålder
+- Stående arbete
+- Tidigare DVT
+
+:::
+
+Uppskattas finnas hos 6--40% av män och 15--50% av kvinnor.
+
+Anses **orsakas** av ökad ventryck till följd av reflux och obstruktion.
+
+*Kan* indelas efter CEAP-skalan (Clinical-Etiological-Anatomical-Pathological). Denna ska
+dock inte användas för att prioritera åtgärd eller resultat av sådan då den inte behöver
+korrelera med besvär eller behandlingsresultat.
+
+::: {.callout collapse="true"}
+
+# CEAP-skalan
+
+**C**linical
+
++---------+-----------------------------------------+
+| **C0**  | Inga synliga eller palpabla tecken      |
++---------+-----------------------------------------+
+| **C1**  | Telangiektasier eller retikulära vener. |
++---------+-----------------------------------------+
+| **C2**  | Varicer                                 |
++---------+-----------------------------------------+
+| **C3**  | Varicer med ödem                        |
++---------+-----------------------------------------+
+| **C4**  | Varicer med hudförändringar[^1]         |
++---------+-----------------------------------------+
+| **C5**  | Läkt venöst bensår                      |
++---------+-----------------------------------------+
+| **C6**  | Aktivt venöst bensår                    |
++---------+-----------------------------------------+
+
+: CEAP-indelning {#tbl-ceap}
+
+**E**tiological
+
+- Kongenital
+- Primär
+- Sekundär
+
+**A**natomy
+
+- Ytlig insufficiens
+- Djup insufficiens
+- Venös insufficiens involverande perforanterna
+
+**P**athology
+
+- Reflux
+- Obstruktion
+
+[^1]: Pigmentering, eksem, lipodermaskleros, atrophie blanche
+
+:::
+
+##### Kliniska drag
+
+###### Fynd
+
+- Varicer
+- Ökad pigmentering
+- Eksem
+- Ödem
+- Bensår --- Ffa vid malleolerna
+
+###### Symtom
+
+- Värk
+- Tyngdkänsla
+- Klåda
+- Kramper
+
+##### Utredning
+
+- Perifert pulssatus
+- **Venduplex**
+    - Ofta enda utredningen som krävs vid ytlig venös insufficiens.
+- **DT eller MR flebografi**
+    - Vid misstanke om djup insufficiens eller inkonklusiv duplex.
+
+##### Behandling
+
+- **Kompression** --- Hörnsten i behandlingen
+    - Strumpor eller lindning vid bensår
+- **Ytlig insufficiens** --- Indicerad vid kliniska fynd som kan härledas till verifierad
+  venös hypertension
+    - Kateterburen laserabladering eller radiofrekvensabladering för större vener.
+    - Mikroflebotomi eller sklerosering för ytliga/varikösa vener.
+    - Kirurgi med avlägsnande av huvudstam om ovanstående ej räcker/ej är möjligt.
+
+###### Indikationer
+
+- Blödning från varicer
+- Ytlig venös insufficiens som bedöms orsaka venös hypertension hos patienter med...
+    - Bensår            
+      *eller*
+    - Hudförändringar^[Lättare hyperpigmentering utan andra symtom utgör sällan behandlingsidikation]           
+      *eller*
+    - Symtom som inskränker arbetsförmåga och livskvalité
+
+Behandling av kosmetiska skäl finansieras inte inom offentlig vård.
+
+Tromboflebit (SVT, superficial vein thrombosis) utgör inte automatisk behandlingsindikation.
+Bedömning bör göras 3 månader efter tillfrisknande. Synkron DVT stärker
+behandlingsindikation men är ovanligt vid mild SVT.

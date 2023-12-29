@@ -39,3 +39,26 @@ Utförs då man bedömer att risk för aspiration föreligger.
 Detta är em kommentar
 
 -->
+
+## Malign hypertermi
+
+Ärftlig sjukdom som ger extrem kalciumfrisättning vid tillförsel av vissa anestesiläkemedel.
+
+**Orsakas** av sevoflourin och celukorin.
+
+###### Symtom
+
+- Påtaglig stelhet i käkleder
+- Muskelstelhet i hela kroppen
+- Tecken till sönderfall av muskelvävnad
+- Ökad kaliumhalt i blodet
+- Snabbt stigande utandad CO~2~
+- Snabbt ökande O~2~-behov
+- Hög puls, svettning
+- **Snabb** feber, upp till 1 grad/minut.
+
+##### Behandling
+
+- Avbryt införsel av narkoslm
+- Ge motmedel --- Dantrolen^[Ryanodinreceptor]
+- Sätt in IVA-åtgärder efter symtom.

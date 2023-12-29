@@ -46,9 +46,13 @@ book:
         - kirurgi/bråck.qmd
         - kirurgi/rektum.qmd
         - kirurgi/IBD.qmd
+    - part: "Kärlkirurgi"
+      chapters:
+        - kärlkir/insuff.qmd
     - part: "Onkologi"
       chapters:
         - onkologi/palliativt.qmd
+        - onkologi/bröstcancer.qmd
   appendices:
     - ordlista.qmd
   search:
